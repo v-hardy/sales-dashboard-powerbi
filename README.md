@@ -12,12 +12,12 @@ El objetivo es aplicar conocimientos de **Power BI Desktop** para transformar da
   - Documento PDF explicando brevemente el proceso ETL y el modelo de datos
 
 ## 📂 Estructura del Repositorio
-´´´
+```
 /data → Archivos CSV/Excel utilizados como fuentes 
 /pbix → Informe final en Power BI (.pbix) 
 /docs → Documento PDF con explicación del ETL y modelado 
 README.md
-´´´
+```
 
 ## 🔄 Proceso ETL
 - Conexión a **3+ fuentes de datos** (CSV, Excel, Web).
