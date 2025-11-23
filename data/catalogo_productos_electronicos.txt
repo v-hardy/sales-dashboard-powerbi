@@ -1,0 +1,33 @@
+CATÁLOGO DE PRODUCTOS ELECTRÓNICOS - ARGENTINA
+==========================================================================================
+
+P001 | Samsung Tab 7 Lite                                      | Tablets            | Samsung    | $169,263 ARS
+P002 | Xiaomi Forerunner 10 Mini                               | Smartwatches       | Xiaomi     | $267,329 ARS
+P003 | Sony Stanmore 16                                        | Parlantes Bluetooth | Sony       | $66,552 ARS
+P004 | Lenovo ROG 15 Ultra                                     | Notebooks          | Lenovo     | $781,717 ARS
+P005 | Google iPhone 13 Max                                    | Smartphones        | Google     | $285,299 ARS
+P006 | Fitbit Watch SE                                         | Smartwatches       | Fitbit     | $156,823 ARS
+P007 | TCL OLED 65" 4K Smart TV                                | Televisores        | TCL        | $244,118 ARS
+P008 | Xiaomi Mate 8                                           | Smartphones        | Xiaomi     | $474,810 ARS
+P009 | Corsair BlackShark 13 Mini                              | Accesorios Gaming  | Corsair    | $73,226 ARS
+P010 | Acer MacBook 11 Ultra                                   | Notebooks          | Acer       | $800,269 ARS
+P011 | Lenovo MediaPad 9 RGB                                   | Tablets            | Lenovo     | $166,782 ARS
+P012 | Samsung 67W GaN 2024 SE                                 | Cargadores         | Samsung    | $8,623 ARS
+P013 | SteelSeries Arctis 16 Lite                              | Accesorios Gaming  | SteelSeries | $36,031 ARS
+P014 | Samsung Bravia 65" 4K Smart TV                          | Televisores        | Samsung    | $621,661 ARS
+P015 | Huawei Pixel 8 Pro                                      | Smartphones        | Huawei     | $930,128 ARS
+P016 | Apple iPad 15 Max                                       | Tablets            | Apple      | $281,612 ARS
+P017 | Amazon iPad 7 Pro                                       | Tablets            | Amazon     | $142,871 ARS
+P018 | LG 4K UHD 75" 4K Smart TV                               | Televisores        | LG         | $319,094 ARS
+P019 | Bose AirPods 14 Mini                                    | Auriculares        | Bose       | $23,853 ARS
+P020 | Sony 4K UHD 85" 4K Smart TV                             | Televisores        | Sony       | $543,694 ARS
+P021 | Microsoft PlayStation S                                 | Consolas           | Microsoft  | $916,261 ARS
+P022 | Microsoft Xbox Series S                                 | Consolas           | Microsoft  | $645,262 ARS
+P023 | Apple MacBook 15 SE                                     | Notebooks          | Apple      | $845,574 ARS
+P024 | Xiaomi Galaxy Watch 8 Air                               | Smartwatches       | Xiaomi     | $80,791 ARS
+P025 | Sony 4K UHD 55" 4K Smart TV                             | Televisores        | Sony       | $298,061 ARS
+P026 | Huawei Galaxy Watch 7 RGB                               | Smartwatches       | Huawei     | $169,765 ARS
+P027 | Xiaomi Galaxy Watch 14 SE                               | Smartwatches       | Xiaomi     | $171,445 ARS
+P028 | Google Redmi Note 9 SE                                  | Smartphones        | Google     | $330,098 ARS
+P029 | Samsung Galaxy S 9 Ultra                                | Smartphones        | Samsung    | $801,001 ARS
+P030 | Fitbit Amazfit 14 SE                                    | Smartwatches       | Fitbit     | $250,067 ARS

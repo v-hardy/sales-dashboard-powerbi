@@ -1,0 +1,1501 @@
+customer_id,nombre,apellido,nombre_completo,dni,provincia_codigo,provincia,email,telefono,fecha_alta,saldo_cuenta
+C0001,Diego,González,Diego González,42778028,101,Buenos Aires,diego.gonzález47@yahoo.com.ar,+54 9 11 3026 8940,2023-10-14,64175.75
+C0002,Luis,Gómez,Luis Gómez,40878725,101,Buenos Aires,luis.gómez@speedy.com.ar,+54 9 11 6609 4322,2020-05-04,226967.26
+C0003,Valeria,López,Valeria López,26057039,113,Mendoza,valeria.lópez@gmail.com,+54 9 11 2317 3097,2022-11-22,9386.99
+C0004,Valeria,Torres,Valeria Torres,40266566,101,Buenos Aires,valeria.torres@yahoo.com.ar,+54 9 11 9280 3171,2021-02-13,67114.99
+C0005,Luis,Fernández,Luis Fernández,44690269,108,Entre Ríos,luis.fernández@yahoo.com.ar,+54 9 11 6904 6739,2023-12-04,14172.51
+C0006,Pablo,Benítez,Pablo Benítez,39119525,101,Buenos Aires,pablo.benítez@outlook.com,+54 9 11 8293 4381,2018-01-15,72795.76
+C0007,Valeria,Benítez,Valeria Benítez,25698033,101,Buenos Aires,valeria.benítez50@gmail.com,+54 9 11 6161 3706,2023-12-06,668374.86
+C0008,José,Pérez,José Pérez,30805545,105,Chubut,josé.pérez@hotmail.com,+54 9 11 4582 7026,2017-01-15,93043.72
+C0009,Pablo,Romero,Pablo Romero,34506268,115,Neuquén,pablo.romero@outlook.com,+54 9 11 6346 1253,2018-12-12,108990.94
+C0010,Carolina,Torres,Carolina Torres,33369350,101,Buenos Aires,carolina.torres@outlook.com,+54 9 11 1382 2542,2017-10-22,112961.46
+C0011,Luis,Martínez,Luis Martínez,26719789,101,Buenos Aires,luis.martínez@speedy.com.ar,+54 9 11 1397 9228,2018-04-29,399068.3
+C0012,Diego,López,Diego López,40030473,119,San Juan,diego.lópez@gmail.com,+54 9 11 9431 3091,2024-10-21,41866.57
+C0013,Laura,Romero,Laura Romero,30530036,101,Buenos Aires,laura.romero@speedy.com.ar,+54 9 11 7181 2288,2016-11-01,14054.01
+C0014,Julieta,Díaz,Julieta Díaz,33087410,102,Ciudad Autónoma de Buenos Aires,julieta.díaz51@yahoo.com.ar,+54 9 11 9001 1597,2024-08-02,628236.07
+C0015,José,Sánchez,José Sánchez,31189288,113,Mendoza,josé.sánchez@hotmail.com,+54 9 11 2863 6662,2023-12-15,62130.49
+C0016,María,Sánchez,María Sánchez,30550291,121,Santa Fe,maría.sánchez49@fibertel.com.ar,+54 9 11 6781 8879,2020-07-11,83321.69
+C0017,Julieta,Aguirre,Julieta Aguirre,39339311,107,Corrientes,julieta.aguirre59@yahoo.com.ar,+54 9 11 3897 7501,2018-09-23,125215.36
+C0018,Florencia,Rodríguez,Florencia Rodríguez,32265592,110,Jujuy,florencia.rodríguez@outlook.com,+54 9 11 2856 3366,2021-01-19,253861.07
+C0019,María,López,María López,41793826,119,San Juan,maría.lópez@hotmail.com,+54 9 11 9278 2355,2025-03-20,156160.47
+C0020,Julieta,Díaz,Julieta Díaz,43366922,120,San Luis,julieta.díaz@outlook.com,+54 9 11 9722 8887,2015-07-20,73614.74
+C0021,Laura,Ruiz,Laura Ruiz,34058496,101,Buenos Aires,laura.ruiz43@hotmail.com,+54 9 11 2366 2818,2022-08-14,63347.41
+C0022,Lucía,Medina,Lucía Medina,41267425,114,Misiones,lucía.medina61@outlook.com,+54 9 11 8132 5330,2024-09-24,133842.18
+C0023,Matías,Torres,Matías Torres,43875173,102,Ciudad Autónoma de Buenos Aires,matías.torres@outlook.com,+54 9 11 9492 3817,2024-01-19,87944.29
+C0024,Julieta,Romero,Julieta Romero,42786896,101,Buenos Aires,julieta.romero67@fibertel.com.ar,+54 9 11 4343 1851,2019-04-15,90113.13
+C0025,Pablo,Torres,Pablo Torres,35804577,101,Buenos Aires,pablo.torres@outlook.com,+54 9 11 5843 2477,2019-10-05,190517.92
+C0026,María,Rodríguez,María Rodríguez,41710202,110,Jujuy,maría.rodríguez@outlook.com,+54 9 11 8031 6016,2019-12-30,128446.15
+C0027,Florencia,Pérez,Florencia Pérez,36906347,115,Neuquén,florencia.pérez29@gmail.com,+54 9 11 6751 2920,2015-12-20,98972.43
+C0028,Florencia,Romero,Florencia Romero,41332960,101,Buenos Aires,florencia.romero95@outlook.com,+54 9 11 3643 6149,2015-02-17,17886.14
+C0029,Martín,Ramírez,Martín Ramírez,26988607,115,Neuquén,martín.ramírez@yahoo.com.ar,+54 9 11 4365 4533,2021-12-04,67343.26
+C0030,Ana,Aguirre,Ana Aguirre,34041272,101,Buenos Aires,ana.aguirre78@hotmail.com,+54 9 11 6205 4560,2018-04-23,54777.83
+C0031,Juan,Medina,Juan Medina,34842880,102,Ciudad Autónoma de Buenos Aires,juan.medina@fibertel.com.ar,+54 9 11 2554 1608,2015-04-10,27391.52
+C0032,Matías,Martínez,Matías Martínez,34295133,101,Buenos Aires,matías.martínez@fibertel.com.ar,+54 9 11 1399 7662,2023-03-27,66213.46
+C0033,Sofía,Rodríguez,Sofía Rodríguez,44699093,110,Jujuy,sofía.rodríguez85@speedy.com.ar,+54 9 11 3234 5574,2021-05-07,30444.72
+C0034,Camila,Ramírez,Camila Ramírez,30395667,102,Ciudad Autónoma de Buenos Aires,camila.ramírez@outlook.com,+54 9 11 8665 4234,2018-12-17,427744.27
+C0035,Carlos,Torres,Carlos Torres,40620645,121,Santa Fe,carlos.torres96@gmail.com,+54 9 11 8611 2700,2019-01-20,329403.23
+C0036,Lucía,Ramírez,Lucía Ramírez,30005208,102,Ciudad Autónoma de Buenos Aires,lucía.ramírez@gmail.com,+54 9 11 9451 8242,2017-01-26,124430.93
+C0037,Camila,Ruiz,Camila Ruiz,37609600,102,Ciudad Autónoma de Buenos Aires,camila.ruiz@speedy.com.ar,+54 9 11 1994 7972,2015-03-08,144376.64
+C0038,Laura,Acosta,Laura Acosta,25510026,106,Córdoba,laura.acosta@fibertel.com.ar,+54 9 11 7497 2472,2015-07-24,17305.54
+C0039,Laura,Fernández,Laura Fernández,42139489,119,San Juan,laura.fernández@speedy.com.ar,+54 9 11 4652 5049,2024-02-26,90251.28
+C0040,Lucía,Martínez,Lucía Martínez,39308761,106,Córdoba,lucía.martínez15@fibertel.com.ar,+54 9 11 4805 8862,2025-01-23,386613.81
+C0041,Laura,López,Laura López,33478321,102,Ciudad Autónoma de Buenos Aires,laura.lópez96@yahoo.com.ar,+54 9 11 5439 4898,2018-09-08,5713.6
+C0042,Matías,Herrera,Matías Herrera,37969842,110,Jujuy,matías.herrera57@gmail.com,+54 9 11 5781 4220,2020-12-06,308184.71
+C0043,Julieta,Medina,Julieta Medina,42692190,102,Ciudad Autónoma de Buenos Aires,julieta.medina@yahoo.com.ar,+54 9 11 9651 9188,2017-08-21,71088.03
+C0044,Julieta,Gómez,Julieta Gómez,38890907,101,Buenos Aires,julieta.gómez@hotmail.com,+54 9 11 1974 8564,2024-11-26,135818.34
+C0045,Gabriel,Pérez,Gabriel Pérez,32048876,101,Buenos Aires,gabriel.pérez76@yahoo.com.ar,+54 9 11 3629 2512,2018-07-14,748793.88
+C0046,José,Acosta,José Acosta,28276107,101,Buenos Aires,josé.acosta@yahoo.com.ar,+54 9 11 6228 3654,2025-06-21,435450.96
+C0047,Pablo,Sosa,Pablo Sosa,34493018,101,Buenos Aires,pablo.sosa@fibertel.com.ar,+54 9 11 4040 8280,2025-02-20,40834.97
+C0048,Matías,Fernández,Matías Fernández,33166971,106,Córdoba,matías.fernández22@hotmail.com,+54 9 11 3811 3447,2020-04-14,46768.12
+C0049,Sofía,Fernández,Sofía Fernández,29577571,122,Santiago del Estero,sofía.fernández@fibertel.com.ar,+54 9 11 8625 4840,2021-10-03,254417.76
+C0050,Gabriel,Ruiz,Gabriel Ruiz,28650773,102,Ciudad Autónoma de Buenos Aires,gabriel.ruiz@yahoo.com.ar,+54 9 11 4173 3458,2024-01-19,126660.69
+C0051,Camila,López,Camila López,38708569,104,Chaco,camila.lópez23@speedy.com.ar,+54 9 11 9860 4540,2016-04-28,37721.61
+C0052,Lucía,Herrera,Lucía Herrera,43278577,104,Chaco,lucía.herrera93@gmail.com,+54 9 11 6887 6481,2016-08-07,108569.18
+C0053,Sofía,Rodríguez,Sofía Rodríguez,29869416,101,Buenos Aires,sofía.rodríguez@outlook.com,+54 9 11 6187 6229,2023-10-06,27194.19
+C0054,Carolina,Rodríguez,Carolina Rodríguez,27807433,122,Santiago del Estero,carolina.rodríguez@outlook.com,+54 9 11 5367 9148,2023-07-25,3447564.4
+C0055,Ana,Ramírez,Ana Ramírez,32088783,102,Ciudad Autónoma de Buenos Aires,ana.ramírez@fibertel.com.ar,+54 9 11 7869 4497,2016-08-27,14658.23
+C0056,Sofía,Sosa,Sofía Sosa,42390658,102,Ciudad Autónoma de Buenos Aires,sofía.sosa@yahoo.com.ar,+54 9 11 4785 7478,2015-10-25,161828.41
+C0057,Florencia,Medina,Florencia Medina,35794271,121,Santa Fe,florencia.medina@hotmail.com,+54 9 11 5613 4475,2023-06-20,57782.57
+C0058,Julieta,Fernández,Julieta Fernández,42394166,101,Buenos Aires,julieta.fernández31@gmail.com,+54 9 11 8968 1571,2017-07-24,59181.93
+C0059,Julieta,Martínez,Julieta Martínez,44368985,101,Buenos Aires,julieta.martínez@outlook.com,+54 9 11 3002 3774,2023-01-28,108072.01
+C0060,Matías,Fernández,Matías Fernández,44784728,102,Ciudad Autónoma de Buenos Aires,matías.fernández@gmail.com,+54 9 11 8331 3124,2022-05-09,85161.88
+C0061,Martín,Fernández,Martín Fernández,40004983,113,Mendoza,martín.fernández@speedy.com.ar,+54 9 11 2688 9075,2025-10-08,382884.98
+C0062,Matías,Díaz,Matías Díaz,34752801,101,Buenos Aires,matías.díaz@yahoo.com.ar,+54 9 11 5826 2045,2017-03-03,78562.91
+C0063,Lucía,Sosa,Lucía Sosa,40331548,107,Corrientes,lucía.sosa59@outlook.com,+54 9 11 1673 7894,2018-03-14,115485.61
+C0064,Gabriel,Ruiz,Gabriel Ruiz,44015025,120,San Luis,gabriel.ruiz@hotmail.com,+54 9 11 3351 6295,2024-05-05,129550.44
+C0065,José,Acosta,José Acosta,39559849,106,Córdoba,josé.acosta@fibertel.com.ar,+54 9 11 6698 8791,2020-05-13,31811.53
+C0066,Ana,Sánchez,Ana Sánchez,37479668,108,Entre Ríos,ana.sánchez30@outlook.com,+54 9 11 6391 5874,2015-11-12,34681.5
+C0067,Diego,Aguirre,Diego Aguirre,35964215,101,Buenos Aires,diego.aguirre44@speedy.com.ar,+54 9 11 3987 8474,2025-06-16,33165.67
+C0068,Sofía,Acosta,Sofía Acosta,29225239,101,Buenos Aires,sofía.acosta@outlook.com,+54 9 11 8796 5041,2022-09-09,86005.61
+C0069,Carolina,Sosa,Carolina Sosa,42731638,118,Salta,carolina.sosa23@fibertel.com.ar,+54 9 11 2805 2925,2024-08-11,12257.7
+C0070,Diego,Martínez,Diego Martínez,29929641,110,Jujuy,diego.martínez@yahoo.com.ar,+54 9 11 1154 8904,2020-10-21,597636.45
+C0071,Sofía,Díaz,Sofía Díaz,28413494,101,Buenos Aires,sofía.díaz74@gmail.com,+54 9 11 3353 6630,2020-07-08,38212.47
+C0072,Camila,Fernández,Camila Fernández,37497817,101,Buenos Aires,camila.fernández@yahoo.com.ar,+54 9 11 6269 3766,2025-06-05,178643.51
+C0073,Juan,Ramírez,Juan Ramírez,37836166,121,Santa Fe,juan.ramírez@speedy.com.ar,+54 9 11 7418 1263,2024-08-13,138542.85
+C0074,María,Ramírez,María Ramírez,29318010,101,Buenos Aires,maría.ramírez@yahoo.com.ar,+54 9 11 9894 9581,2023-11-16,44274.32
+C0075,Carolina,Martínez,Carolina Martínez,35384548,124,Tucumán,carolina.martínez@fibertel.com.ar,+54 9 11 7132 5284,2017-05-30,117124.31
+C0076,Julieta,Romero,Julieta Romero,29976392,101,Buenos Aires,julieta.romero@fibertel.com.ar,+54 9 11 8510 1859,2016-08-15,44773.04
+C0077,Matías,Martínez,Matías Martínez,29590301,118,Salta,matías.martínez@hotmail.com,+54 9 11 7630 3654,2020-12-09,91044.78
+C0078,María,Romero,María Romero,39060248,106,Córdoba,maría.romero36@outlook.com,+54 9 11 5520 8488,2019-09-03,84416.47
+C0079,Julieta,Rodríguez,Julieta Rodríguez,36655125,114,Misiones,julieta.rodríguez25@gmail.com,+54 9 11 7540 5622,2025-01-07,97940.56
+C0080,Carolina,Sánchez,Carolina Sánchez,37968797,122,Santiago del Estero,carolina.sánchez@gmail.com,+54 9 11 1804 7456,2016-01-12,587002.58
+C0081,Sofía,Sosa,Sofía Sosa,36909508,101,Buenos Aires,sofía.sosa80@fibertel.com.ar,+54 9 11 2537 2760,2025-01-16,135137.11
+C0082,Camila,Medina,Camila Medina,44306904,101,Buenos Aires,camila.medina@speedy.com.ar,+54 9 11 3111 5293,2016-07-10,70076.73
+C0083,Lucía,Sánchez,Lucía Sánchez,28059934,120,San Luis,lucía.sánchez@speedy.com.ar,+54 9 11 3636 5411,2016-10-05,44651.17
+C0084,Federico,Herrera,Federico Herrera,40788770,101,Buenos Aires,federico.herrera@gmail.com,+54 9 11 3951 2477,2022-12-21,327437.08
+C0085,Juan,Ruiz,Juan Ruiz,37643831,119,San Juan,juan.ruiz16@hotmail.com,+54 9 11 4027 3204,2019-03-26,54556.98
+C0086,Carolina,Flores,Carolina Flores,43207525,110,Jujuy,carolina.flores@outlook.com,+54 9 11 2147 6464,2015-07-05,77743.17
+C0087,Federico,Ramírez,Federico Ramírez,28602008,124,Tucumán,federico.ramírez@hotmail.com,+54 9 11 5669 1056,2021-02-07,101215.13
+C0088,Gabriel,Gómez,Gabriel Gómez,44697080,102,Ciudad Autónoma de Buenos Aires,gabriel.gómez@fibertel.com.ar,+54 9 11 2831 2533,2016-08-14,410168.82
+C0089,Ana,Herrera,Ana Herrera,43798568,114,Misiones,ana.herrera@hotmail.com,+54 9 11 7780 8422,2019-05-06,115686.61
+C0090,María,Gómez,María Gómez,27014711,114,Misiones,maría.gómez@outlook.com,+54 9 11 3967 6249,2021-04-16,29721.26
+C0091,Camila,González,Camila González,35173951,101,Buenos Aires,camila.gonzález@hotmail.com,+54 9 11 7394 2069,2015-04-02,120711.29
+C0092,Ana,Ruiz,Ana Ruiz,28900319,108,Entre Ríos,ana.ruiz@outlook.com,+54 9 11 1484 2626,2018-02-21,655763.88
+C0093,Carlos,Ramírez,Carlos Ramírez,42768106,113,Mendoza,carlos.ramírez@outlook.com,+54 9 11 2925 5214,2023-12-18,105684.66
+C0094,María,Flores,María Flores,26056955,101,Buenos Aires,maría.flores@yahoo.com.ar,+54 9 11 5418 8824,2024-04-23,17854.34
+C0095,Florencia,Gómez,Florencia Gómez,32931999,101,Buenos Aires,florencia.gómez@hotmail.com,+54 9 11 9504 5074,2023-09-28,137168.7
+C0096,Camila,Aguirre,Camila Aguirre,35208355,102,Ciudad Autónoma de Buenos Aires,camila.aguirre@outlook.com,+54 9 11 1450 3304,2017-04-30,110205.49
+C0097,José,López,José López,27537778,106,Córdoba,josé.lópez@hotmail.com,+54 9 11 6776 8945,2024-01-27,121704.54
+C0098,Pablo,Aguirre,Pablo Aguirre,26118332,113,Mendoza,pablo.aguirre@hotmail.com,+54 9 11 3193 1515,2019-05-24,197292.85
+C0099,Matías,Benítez,Matías Benítez,35830711,118,Salta,matías.benítez@speedy.com.ar,+54 9 11 5816 2821,2025-06-23,110293.33
+C0100,Matías,Aguirre,Matías Aguirre,31091383,111,La Pampa,matías.aguirre@yahoo.com.ar,+54 9 11 6134 5271,2018-03-17,122956.72
+C0101,José,Sánchez,José Sánchez,36096890,101,Buenos Aires,josé.sánchez@hotmail.com,+54 9 11 2131 2287,2018-07-10,109497.85
+C0102,Camila,Benítez,Camila Benítez,37536976,101,Buenos Aires,camila.benítez@yahoo.com.ar,+54 9 11 2943 5043,2019-04-22,353166.48
+C0103,Valeria,Pérez,Valeria Pérez,44072964,124,Tucumán,valeria.pérez@hotmail.com,+54 9 11 7231 9545,2017-04-18,598318.81
+C0104,María,Aguirre,María Aguirre,36941054,102,Ciudad Autónoma de Buenos Aires,maría.aguirre@yahoo.com.ar,+54 9 11 1975 4206,2024-03-03,274749.35
+C0105,Ana,Fernández,Ana Fernández,25064179,101,Buenos Aires,ana.fernández86@outlook.com,+54 9 11 5245 6642,2020-03-30,10927.55
+C0106,Ana,Romero,Ana Romero,39379329,101,Buenos Aires,ana.romero@yahoo.com.ar,+54 9 11 6181 6782,2023-01-13,207908.9
+C0107,Matías,Flores,Matías Flores,43484782,101,Buenos Aires,matías.flores@outlook.com,+54 9 11 9517 8799,2018-11-21,141579.06
+C0108,Camila,Pérez,Camila Pérez,40091525,102,Ciudad Autónoma de Buenos Aires,camila.pérez@gmail.com,+54 9 11 2748 8612,2024-01-23,104813.95
+C0109,Matías,Ruiz,Matías Ruiz,31255171,113,Mendoza,matías.ruiz@hotmail.com,+54 9 11 2333 7864,2021-10-14,76471.22
+C0110,Matías,Pérez,Matías Pérez,37793557,101,Buenos Aires,matías.pérez@outlook.com,+54 9 11 7185 4847,2024-12-06,131908.43
+C0111,Lucía,López,Lucía López,33216408,101,Buenos Aires,lucía.lópez41@outlook.com,+54 9 11 9448 3312,2022-08-14,80711.73
+C0112,Gabriel,Ramírez,Gabriel Ramírez,43464191,101,Buenos Aires,gabriel.ramírez@yahoo.com.ar,+54 9 11 8106 5771,2018-04-22,141353.58
+C0113,Carolina,Aguirre,Carolina Aguirre,38789655,106,Córdoba,carolina.aguirre19@gmail.com,+54 9 11 5197 7741,2018-10-17,94023.99
+C0114,Valeria,Sánchez,Valeria Sánchez,30446585,101,Buenos Aires,valeria.sánchez@gmail.com,+54 9 11 1893 2116,2021-08-29,1347769.94
+C0115,José,González,José González,32590283,102,Ciudad Autónoma de Buenos Aires,josé.gonzález@gmail.com,+54 9 11 3121 6118,2023-08-30,112114.22
+C0116,Diego,Rodríguez,Diego Rodríguez,41866741,101,Buenos Aires,diego.rodríguez78@gmail.com,+54 9 11 2578 7390,2016-02-15,702751.55
+C0117,Pablo,Fernández,Pablo Fernández,32338124,119,San Juan,pablo.fernández@yahoo.com.ar,+54 9 11 5540 9783,2022-03-30,210403.27
+C0118,Julieta,Benítez,Julieta Benítez,37204450,101,Buenos Aires,julieta.benítez@speedy.com.ar,+54 9 11 6763 2548,2015-04-27,139330.41
+C0119,Federico,González,Federico González,27777800,102,Ciudad Autónoma de Buenos Aires,federico.gonzález@speedy.com.ar,+54 9 11 7465 6339,2015-12-23,139867.19
+C0120,Laura,Romero,Laura Romero,39469522,102,Ciudad Autónoma de Buenos Aires,laura.romero@outlook.com,+54 9 11 9529 2981,2022-05-14,92383.87
+C0121,Gabriel,Medina,Gabriel Medina,26820619,101,Buenos Aires,gabriel.medina@hotmail.com,+54 9 11 7589 8469,2020-04-06,136385.8
+C0122,Laura,Medina,Laura Medina,34632478,101,Buenos Aires,laura.medina@yahoo.com.ar,+54 9 11 5338 6403,2019-01-19,42388.06
+C0123,Sofía,Gómez,Sofía Gómez,29747179,102,Ciudad Autónoma de Buenos Aires,sofía.gómez@outlook.com,+54 9 11 2290 3545,2020-03-24,770850.97
+C0124,Ana,Sosa,Ana Sosa,34269496,101,Buenos Aires,ana.sosa@gmail.com,+54 9 11 7238 8725,2020-04-12,41495.57
+C0125,Carlos,Torres,Carlos Torres,30640996,102,Ciudad Autónoma de Buenos Aires,carlos.torres93@hotmail.com,+54 9 11 6539 5900,2023-04-20,607782.24
+C0126,Julieta,González,Julieta González,32355294,113,Mendoza,julieta.gonzález@gmail.com,+54 9 11 4270 9849,2018-10-22,453152.46
+C0127,José,Fernández,José Fernández,31646136,101,Buenos Aires,josé.fernández@fibertel.com.ar,+54 9 11 1525 3162,2020-12-25,23033.03
+C0128,Carlos,Aguirre,Carlos Aguirre,40158043,101,Buenos Aires,carlos.aguirre97@speedy.com.ar,+54 9 11 8579 2524,2017-01-09,40725.41
+C0129,Federico,Acosta,Federico Acosta,41649873,106,Córdoba,federico.acosta@hotmail.com,+54 9 11 2977 5502,2022-12-02,87859.65
+C0130,Florencia,Martínez,Florencia Martínez,41311344,101,Buenos Aires,florencia.martínez@hotmail.com,+54 9 11 5577 4662,2025-04-14,109959.56
+C0131,Juan,Herrera,Juan Herrera,39574042,101,Buenos Aires,juan.herrera@fibertel.com.ar,+54 9 11 9107 4947,2017-03-14,127831.27
+C0132,Federico,Ruiz,Federico Ruiz,39203374,101,Buenos Aires,federico.ruiz27@outlook.com,+54 9 11 5152 1841,2018-02-23,35242.75
+C0133,José,López,José López,27562956,102,Ciudad Autónoma de Buenos Aires,josé.lópez56@yahoo.com.ar,+54 9 11 3368 5665,2017-04-01,132858.46
+C0134,Camila,Gómez,Camila Gómez,30643711,118,Salta,camila.gómez@gmail.com,+54 9 11 5858 2670,2015-01-22,28243.74
+C0135,Carolina,Pérez,Carolina Pérez,42554025,101,Buenos Aires,carolina.pérez@yahoo.com.ar,+54 9 11 1398 6929,2016-02-12,142649.69
+C0136,Matías,Sánchez,Matías Sánchez,35701742,101,Buenos Aires,matías.sánchez@speedy.com.ar,+54 9 11 3135 1048,2025-01-25,10222.12
+C0137,Ana,Sosa,Ana Sosa,29493431,101,Buenos Aires,ana.sosa57@yahoo.com.ar,+54 9 11 5503 5876,2020-10-05,38590.34
+C0138,Florencia,Díaz,Florencia Díaz,38509169,116,Río Negro,florencia.díaz@yahoo.com.ar,+54 9 11 5771 7681,2024-03-14,78376.12
+C0139,Federico,Acosta,Federico Acosta,44891112,114,Misiones,federico.acosta@speedy.com.ar,+54 9 11 6752 6147,2020-11-24,34510.0
+C0140,María,Benítez,María Benítez,36788384,109,Formosa,maría.benítez@gmail.com,+54 9 11 3264 4556,2016-07-10,52129.74
+C0141,Matías,Sosa,Matías Sosa,29024165,121,Santa Fe,matías.sosa@speedy.com.ar,+54 9 11 7655 9519,2015-08-13,376719.62
+C0142,Luis,Rodríguez,Luis Rodríguez,30439756,101,Buenos Aires,luis.rodríguez@yahoo.com.ar,+54 9 11 4309 5182,2023-05-16,83757.88
+C0143,Gabriel,Ruiz,Gabriel Ruiz,30666001,102,Ciudad Autónoma de Buenos Aires,gabriel.ruiz@yahoo.com.ar,+54 9 11 7996 3388,2019-06-02,327943.47
+C0144,Ana,Pérez,Ana Pérez,44018798,120,San Luis,ana.pérez@outlook.com,+54 9 11 5588 6480,2020-07-13,757269.47
+C0145,Florencia,Díaz,Florencia Díaz,28363134,101,Buenos Aires,florencia.díaz21@outlook.com,+54 9 11 9169 4084,2024-05-25,622882.31
+C0146,Federico,Flores,Federico Flores,38045794,119,San Juan,federico.flores@gmail.com,+54 9 11 6169 6604,2019-08-07,149787.05
+C0147,Camila,López,Camila López,30773007,122,Santiago del Estero,camila.lópez@hotmail.com,+54 9 11 8974 6302,2022-11-28,128546.32
+C0148,Camila,Acosta,Camila Acosta,27006682,112,La Rioja,camila.acosta@speedy.com.ar,+54 9 11 5973 9451,2024-11-22,319919.07
+C0149,Ana,Romero,Ana Romero,41928857,101,Buenos Aires,ana.romero83@fibertel.com.ar,+54 9 11 6506 9118,2024-12-24,308244.83
+C0150,Juan,Medina,Juan Medina,25728779,101,Buenos Aires,juan.medina@outlook.com,+54 9 11 7108 7298,2016-01-26,70643.6
+C0151,José,Medina,José Medina,26774754,101,Buenos Aires,josé.medina@hotmail.com,+54 9 11 3613 8185,2015-04-09,47160.53
+C0152,Pablo,Torres,Pablo Torres,43315853,101,Buenos Aires,pablo.torres@outlook.com,+54 9 11 1146 8249,2022-11-10,3736373.65
+C0153,Federico,Martínez,Federico Martínez,35500015,101,Buenos Aires,federico.martínez29@outlook.com,+54 9 11 4677 4905,2023-11-22,69645.11
+C0154,Diego,Romero,Diego Romero,44230572,101,Buenos Aires,diego.romero91@gmail.com,+54 9 11 2810 8694,2022-05-03,109116.13
+C0155,Ana,Ruiz,Ana Ruiz,40934050,101,Buenos Aires,ana.ruiz30@fibertel.com.ar,+54 9 11 6980 3339,2021-06-19,134071.65
+C0156,Florencia,Pérez,Florencia Pérez,44438331,101,Buenos Aires,florencia.pérez@yahoo.com.ar,+54 9 11 7649 9216,2015-01-31,158470.25
+C0157,María,González,María González,42700058,119,San Juan,maría.gonzález89@fibertel.com.ar,+54 9 11 6090 3770,2023-11-13,119335.84
+C0158,Juan,Díaz,Juan Díaz,32831381,102,Ciudad Autónoma de Buenos Aires,juan.díaz10@hotmail.com,+54 9 11 4183 3426,2020-01-23,28135.79
+C0159,Juan,Pérez,Juan Pérez,35233426,108,Entre Ríos,juan.pérez81@hotmail.com,+54 9 11 1071 8685,2022-04-11,105361.83
+C0160,Lucía,Gómez,Lucía Gómez,27816907,102,Ciudad Autónoma de Buenos Aires,lucía.gómez@outlook.com,+54 9 11 6592 6289,2019-09-10,43896.5
+C0161,Camila,Ruiz,Camila Ruiz,33713060,101,Buenos Aires,camila.ruiz@gmail.com,+54 9 11 1751 4759,2020-08-11,595452.21
+C0162,Pablo,Aguirre,Pablo Aguirre,28250111,101,Buenos Aires,pablo.aguirre@yahoo.com.ar,+54 9 11 8317 2777,2022-06-13,122313.8
+C0163,Gabriel,Sosa,Gabriel Sosa,30354050,102,Ciudad Autónoma de Buenos Aires,gabriel.sosa@gmail.com,+54 9 11 8330 3234,2017-05-30,2225574.42
+C0164,Federico,Pérez,Federico Pérez,25589993,102,Ciudad Autónoma de Buenos Aires,federico.pérez@hotmail.com,+54 9 11 3610 3125,2024-02-12,37983.73
+C0165,Florencia,Rodríguez,Florencia Rodríguez,42031860,106,Córdoba,florencia.rodríguez@gmail.com,+54 9 11 7237 1412,2025-02-09,133063.68
+C0166,María,Flores,María Flores,43587093,122,Santiago del Estero,maría.flores@speedy.com.ar,+54 9 11 6277 2801,2021-10-11,138915.7
+C0167,Carolina,López,Carolina López,39335380,102,Ciudad Autónoma de Buenos Aires,carolina.lópez@fibertel.com.ar,+54 9 11 7647 3750,2016-09-05,67661.06
+C0168,Carolina,Flores,Carolina Flores,34713213,106,Córdoba,carolina.flores@yahoo.com.ar,+54 9 11 5626 6290,2023-01-26,18538.12
+C0169,Luis,Sosa,Luis Sosa,32968524,101,Buenos Aires,luis.sosa@speedy.com.ar,+54 9 11 6513 7061,2019-11-02,90150.34
+C0170,Julieta,Sánchez,Julieta Sánchez,35281334,101,Buenos Aires,julieta.sánchez@fibertel.com.ar,+54 9 11 4865 4133,2025-03-13,35555.26
+C0171,Valeria,Fernández,Valeria Fernández,31859495,122,Santiago del Estero,valeria.fernández25@yahoo.com.ar,+54 9 11 7314 1866,2019-10-01,96543.0
+C0172,Martín,Ruiz,Martín Ruiz,36401924,119,San Juan,martín.ruiz@outlook.com,+54 9 11 6804 5590,2016-11-25,40730.41
+C0173,Ana,Ruiz,Ana Ruiz,27437457,102,Ciudad Autónoma de Buenos Aires,ana.ruiz99@gmail.com,+54 9 11 7771 7091,2021-09-17,113359.06
+C0174,Luis,Torres,Luis Torres,42574785,121,Santa Fe,luis.torres@speedy.com.ar,+54 9 11 2082 7918,2016-12-20,110496.09
+C0175,Martín,López,Martín López,31673930,115,Neuquén,martín.lópez@gmail.com,+54 9 11 5585 9874,2024-11-09,124639.14
+C0176,Julieta,Sosa,Julieta Sosa,38414524,101,Buenos Aires,julieta.sosa@hotmail.com,+54 9 11 9498 1657,2019-02-01,44746.2
+C0177,José,Acosta,José Acosta,38320125,122,Santiago del Estero,josé.acosta@outlook.com,+54 9 11 7973 7136,2020-02-27,142177.65
+C0178,Carlos,Ruiz,Carlos Ruiz,26766643,115,Neuquén,carlos.ruiz@yahoo.com.ar,+54 9 11 2031 9297,2020-10-08,548779.48
+C0179,Juan,Acosta,Juan Acosta,30665410,106,Córdoba,juan.acosta@gmail.com,+54 9 11 1005 2916,2023-06-16,117977.58
+C0180,Juan,Ramírez,Juan Ramírez,38990131,119,San Juan,juan.ramírez74@hotmail.com,+54 9 11 3504 9416,2020-11-08,274753.38
+C0181,Gabriel,Romero,Gabriel Romero,28459262,106,Córdoba,gabriel.romero@hotmail.com,+54 9 11 6238 2000,2019-01-26,27093.03
+C0182,Martín,Benítez,Martín Benítez,43834624,101,Buenos Aires,martín.benítez42@yahoo.com.ar,+54 9 11 3352 9499,2025-10-19,175341.15
+C0183,Martín,Gómez,Martín Gómez,37026175,108,Entre Ríos,martín.gómez@speedy.com.ar,+54 9 11 4481 4765,2020-12-16,17623.08
+C0184,Julieta,López,Julieta López,29365321,101,Buenos Aires,julieta.lópez@fibertel.com.ar,+54 9 11 6996 1464,2017-11-28,50800.31
+C0185,Carolina,Sosa,Carolina Sosa,35435948,114,Misiones,carolina.sosa@speedy.com.ar,+54 9 11 6791 6273,2025-02-17,38591.51
+C0186,Juan,Díaz,Juan Díaz,43214532,104,Chaco,juan.díaz@outlook.com,+54 9 11 5872 1213,2019-03-14,704739.26
+C0187,Carlos,Benítez,Carlos Benítez,44142757,101,Buenos Aires,carlos.benítez@yahoo.com.ar,+54 9 11 4461 7164,2022-07-22,25515.6
+C0188,Laura,Aguirre,Laura Aguirre,28462241,121,Santa Fe,laura.aguirre@fibertel.com.ar,+54 9 11 5099 4120,2015-06-28,56525.21
+C0189,Lucía,Ramírez,Lucía Ramírez,36831149,102,Ciudad Autónoma de Buenos Aires,lucía.ramírez@speedy.com.ar,+54 9 11 5094 5206,2024-08-13,37580.13
+C0190,Diego,Pérez,Diego Pérez,44070567,121,Santa Fe,diego.pérez56@gmail.com,+54 9 11 6045 7456,2015-07-26,99306.27
+C0191,Ana,Fernández,Ana Fernández,38510474,101,Buenos Aires,ana.fernández@hotmail.com,+54 9 11 9653 8928,2023-09-29,146013.79
+C0192,Lucía,Rodríguez,Lucía Rodríguez,35874506,108,Entre Ríos,lucía.rodríguez@outlook.com,+54 9 11 6250 8084,2017-05-25,61785.63
+C0193,Carolina,Pérez,Carolina Pérez,34651155,118,Salta,carolina.pérez57@outlook.com,+54 9 11 5585 4314,2016-06-24,460419.65
+C0194,Juan,Medina,Juan Medina,37052305,102,Ciudad Autónoma de Buenos Aires,juan.medina41@fibertel.com.ar,+54 9 11 7096 2209,2023-06-03,497337.86
+C0195,Camila,Ramírez,Camila Ramírez,33068422,122,Santiago del Estero,camila.ramírez95@hotmail.com,+54 9 11 6617 3883,2017-01-24,109845.21
+C0196,María,Sosa,María Sosa,26582478,101,Buenos Aires,maría.sosa@speedy.com.ar,+54 9 11 1942 3591,2024-03-13,77668.64
+C0197,Federico,Benítez,Federico Benítez,35909547,102,Ciudad Autónoma de Buenos Aires,federico.benítez17@outlook.com,+54 9 11 3032 6925,2015-05-10,424875.95
+C0198,Valeria,Benítez,Valeria Benítez,26214722,116,Río Negro,valeria.benítez@outlook.com,+54 9 11 7109 9599,2017-09-16,48295.55
+C0199,Diego,Pérez,Diego Pérez,35046538,101,Buenos Aires,diego.pérez@speedy.com.ar,+54 9 11 1985 9995,2016-12-31,14899.48
+C0200,Gabriel,Sosa,Gabriel Sosa,29237734,113,Mendoza,gabriel.sosa37@hotmail.com,+54 9 11 3834 4270,2020-02-29,111775.84
+C0201,Luis,Sosa,Luis Sosa,42053602,106,Córdoba,luis.sosa@yahoo.com.ar,+54 9 11 7096 9152,2017-10-25,55259.84
+C0202,Matías,Martínez,Matías Martínez,33184646,101,Buenos Aires,matías.martínez@outlook.com,+54 9 11 9825 3883,2016-07-02,40423.36
+C0203,Laura,Gómez,Laura Gómez,25051371,114,Misiones,laura.gómez79@outlook.com,+54 9 11 4348 4944,2018-05-14,142066.22
+C0204,José,Torres,José Torres,27212525,101,Buenos Aires,josé.torres82@yahoo.com.ar,+54 9 11 3294 8024,2018-08-08,53096.59
+C0205,Carolina,Torres,Carolina Torres,37351151,101,Buenos Aires,carolina.torres@speedy.com.ar,+54 9 11 9409 8963,2016-01-22,11166.03
+C0206,María,Aguirre,María Aguirre,40623765,101,Buenos Aires,maría.aguirre@speedy.com.ar,+54 9 11 5957 8067,2019-03-21,6433.6
+C0207,Carlos,Romero,Carlos Romero,39812731,101,Buenos Aires,carlos.romero22@speedy.com.ar,+54 9 11 9548 4971,2019-01-01,8606.35
+C0208,Federico,Fernández,Federico Fernández,40345934,101,Buenos Aires,federico.fernández@yahoo.com.ar,+54 9 11 5529 1493,2016-09-09,127988.7
+C0209,Lucía,González,Lucía González,29228477,113,Mendoza,lucía.gonzález@yahoo.com.ar,+54 9 11 5827 5839,2023-06-18,40341.93
+C0210,Sofía,Fernández,Sofía Fernández,31484960,124,Tucumán,sofía.fernández@hotmail.com,+54 9 11 9721 6567,2023-04-04,168727.57
+C0211,Federico,Pérez,Federico Pérez,42255385,101,Buenos Aires,federico.pérez@gmail.com,+54 9 11 3806 4504,2015-09-14,6834.92
+C0212,Florencia,Sosa,Florencia Sosa,32595363,102,Ciudad Autónoma de Buenos Aires,florencia.sosa81@fibertel.com.ar,+54 9 11 1403 3140,2021-03-23,139817.81
+C0213,Julieta,González,Julieta González,37036525,106,Córdoba,julieta.gonzález75@fibertel.com.ar,+54 9 11 6557 4203,2017-04-23,63861.17
+C0214,Laura,Pérez,Laura Pérez,40563643,119,San Juan,laura.pérez80@yahoo.com.ar,+54 9 11 8234 8670,2025-09-14,570857.54
+C0215,Martín,Ramírez,Martín Ramírez,40686733,101,Buenos Aires,martín.ramírez77@fibertel.com.ar,+54 9 11 2449 2797,2017-04-02,19705.8
+C0216,Luis,Ramírez,Luis Ramírez,28709251,102,Ciudad Autónoma de Buenos Aires,luis.ramírez@yahoo.com.ar,+54 9 11 3503 1495,2016-02-15,661946.31
+C0217,Julieta,Romero,Julieta Romero,31518498,121,Santa Fe,julieta.romero@speedy.com.ar,+54 9 11 1414 5108,2021-10-11,703023.29
+C0218,Laura,Pérez,Laura Pérez,34857271,101,Buenos Aires,laura.pérez@gmail.com,+54 9 11 6039 6371,2023-08-27,39417.75
+C0219,Laura,Pérez,Laura Pérez,35724280,101,Buenos Aires,laura.pérez26@speedy.com.ar,+54 9 11 7152 5979,2022-10-22,136425.99
+C0220,Valeria,Benítez,Valeria Benítez,39447687,124,Tucumán,valeria.benítez@outlook.com,+54 9 11 5763 8721,2024-08-24,71427.48
+C0221,Luis,González,Luis González,42716948,102,Ciudad Autónoma de Buenos Aires,luis.gonzález13@fibertel.com.ar,+54 9 11 8662 8024,2025-02-16,20710.35
+C0222,Sofía,Ruiz,Sofía Ruiz,40931976,102,Ciudad Autónoma de Buenos Aires,sofía.ruiz@fibertel.com.ar,+54 9 11 3549 9394,2020-10-11,123156.43
+C0223,Pablo,Aguirre,Pablo Aguirre,38593797,106,Córdoba,pablo.aguirre@fibertel.com.ar,+54 9 11 8540 9418,2017-08-12,84011.7
+C0224,Federico,Aguirre,Federico Aguirre,32316483,106,Córdoba,federico.aguirre@outlook.com,+54 9 11 7871 6484,2021-02-27,1389225.04
+C0225,Laura,Ramírez,Laura Ramírez,30774422,113,Mendoza,laura.ramírez57@yahoo.com.ar,+54 9 11 8063 8899,2019-10-09,387782.61
+C0226,Camila,Ruiz,Camila Ruiz,40379449,115,Neuquén,camila.ruiz@gmail.com,+54 9 11 9799 7354,2022-10-19,363144.57
+C0227,María,Herrera,María Herrera,37394831,114,Misiones,maría.herrera@fibertel.com.ar,+54 9 11 9111 9694,2016-04-23,78320.09
+C0228,Sofía,Ramírez,Sofía Ramírez,29667948,101,Buenos Aires,sofía.ramírez16@hotmail.com,+54 9 11 6151 3539,2025-07-11,46043.13
+C0229,Diego,Sánchez,Diego Sánchez,44511734,121,Santa Fe,diego.sánchez@fibertel.com.ar,+54 9 11 4310 8240,2022-11-19,43629.33
+C0230,Federico,López,Federico López,29557442,111,La Pampa,federico.lópez@fibertel.com.ar,+54 9 11 5885 9264,2024-11-19,15449.8
+C0231,Martín,Rodríguez,Martín Rodríguez,40565051,102,Ciudad Autónoma de Buenos Aires,martín.rodríguez@speedy.com.ar,+54 9 11 7076 5339,2018-10-30,471745.71
+C0232,Carlos,Flores,Carlos Flores,33182196,101,Buenos Aires,carlos.flores@yahoo.com.ar,+54 9 11 2414 5322,2020-12-02,117312.95
+C0233,Diego,Benítez,Diego Benítez,43874782,118,Salta,diego.benítez@hotmail.com,+54 9 11 7917 2506,2019-01-16,113131.13
+C0234,Luis,Torres,Luis Torres,42883869,101,Buenos Aires,luis.torres@fibertel.com.ar,+54 9 11 3938 7203,2023-10-17,276591.17
+C0235,Sofía,López,Sofía López,32470600,105,Chubut,sofía.lópez@yahoo.com.ar,+54 9 11 3034 6157,2016-01-06,1307396.77
+C0236,Martín,Benítez,Martín Benítez,37117607,112,La Rioja,martín.benítez@fibertel.com.ar,+54 9 11 4015 1452,2022-12-20,176063.37
+C0237,Matías,Aguirre,Matías Aguirre,31198564,101,Buenos Aires,matías.aguirre84@outlook.com,+54 9 11 5533 9495,2020-10-16,141698.83
+C0238,Lucía,González,Lucía González,40871821,107,Corrientes,lucía.gonzález61@fibertel.com.ar,+54 9 11 4095 6009,2019-02-27,114000.06
+C0239,Carolina,Ruiz,Carolina Ruiz,39571764,114,Misiones,carolina.ruiz@yahoo.com.ar,+54 9 11 3190 9473,2016-01-28,56654.5
+C0240,Julieta,Torres,Julieta Torres,37557430,101,Buenos Aires,julieta.torres@speedy.com.ar,+54 9 11 1183 2511,2016-08-22,317141.64
+C0241,Gabriel,Aguirre,Gabriel Aguirre,31021772,102,Ciudad Autónoma de Buenos Aires,gabriel.aguirre@outlook.com,+54 9 11 4203 7024,2023-04-18,119237.99
+C0242,Julieta,Gómez,Julieta Gómez,31321152,101,Buenos Aires,julieta.gómez@gmail.com,+54 9 11 5600 2426,2020-06-01,669186.27
+C0243,José,Fernández,José Fernández,38508632,109,Formosa,josé.fernández@outlook.com,+54 9 11 4917 7330,2025-07-04,124934.3
+C0244,Pablo,Ramírez,Pablo Ramírez,38011399,101,Buenos Aires,pablo.ramírez@outlook.com,+54 9 11 4662 4470,2016-08-28,725458.18
+C0245,José,Sánchez,José Sánchez,29921024,103,Catamarca,josé.sánchez@fibertel.com.ar,+54 9 11 2784 3220,2021-05-13,44519.09
+C0246,Carlos,Sosa,Carlos Sosa,40197329,104,Chaco,carlos.sosa@fibertel.com.ar,+54 9 11 4376 9085,2023-02-22,208310.86
+C0247,Pablo,Ramírez,Pablo Ramírez,44016517,106,Córdoba,pablo.ramírez@speedy.com.ar,+54 9 11 5697 8000,2025-11-10,10807.03
+C0248,Matías,Herrera,Matías Herrera,42093416,106,Córdoba,matías.herrera@hotmail.com,+54 9 11 5950 9487,2015-09-07,261925.68
+C0249,Julieta,Sosa,Julieta Sosa,36405673,118,Salta,julieta.sosa60@fibertel.com.ar,+54 9 11 8527 3004,2019-10-27,133736.98
+C0250,Matías,Fernández,Matías Fernández,38668639,119,San Juan,matías.fernández@speedy.com.ar,+54 9 11 2578 6648,2021-09-13,136699.91
+C0251,Gabriel,Rodríguez,Gabriel Rodríguez,42659398,101,Buenos Aires,gabriel.rodríguez21@hotmail.com,+54 9 11 8669 9721,2019-04-30,551925.73
+C0252,Sofía,Gómez,Sofía Gómez,25715871,101,Buenos Aires,sofía.gómez@yahoo.com.ar,+54 9 11 2825 6525,2018-01-09,282879.09
+C0253,Luis,Torres,Luis Torres,30224013,121,Santa Fe,luis.torres67@speedy.com.ar,+54 9 11 4782 2633,2022-06-21,46424.13
+C0254,Diego,Rodríguez,Diego Rodríguez,30398753,102,Ciudad Autónoma de Buenos Aires,diego.rodríguez@outlook.com,+54 9 11 8546 1106,2016-01-07,193615.31
+C0255,José,Sánchez,José Sánchez,37426536,102,Ciudad Autónoma de Buenos Aires,josé.sánchez@hotmail.com,+54 9 11 3137 8908,2022-01-25,40019.37
+C0256,Valeria,Pérez,Valeria Pérez,29640381,107,Corrientes,valeria.pérez@gmail.com,+54 9 11 2696 1796,2018-04-21,68089.2
+C0257,Carlos,Sosa,Carlos Sosa,28857342,104,Chaco,carlos.sosa@outlook.com,+54 9 11 1305 7651,2016-07-18,140144.99
+C0258,Laura,Medina,Laura Medina,38516506,114,Misiones,laura.medina@yahoo.com.ar,+54 9 11 5430 7206,2018-10-26,145185.9
+C0259,Martín,Pérez,Martín Pérez,37677374,101,Buenos Aires,martín.pérez27@yahoo.com.ar,+54 9 11 6461 9596,2025-11-05,721969.12
+C0260,Carolina,Díaz,Carolina Díaz,31827344,108,Entre Ríos,carolina.díaz@outlook.com,+54 9 11 5158 5559,2023-02-24,62757.13
+C0261,Carlos,Benítez,Carlos Benítez,27493033,101,Buenos Aires,carlos.benítez49@speedy.com.ar,+54 9 11 7393 1085,2024-04-12,133396.43
+C0262,María,Gómez,María Gómez,30011449,122,Santiago del Estero,maría.gómez@fibertel.com.ar,+54 9 11 5119 2953,2020-05-25,93734.81
+C0263,Florencia,Ramírez,Florencia Ramírez,31106087,111,La Pampa,florencia.ramírez@yahoo.com.ar,+54 9 11 2842 2921,2018-09-13,1374034.26
+C0264,Pablo,Aguirre,Pablo Aguirre,28283696,102,Ciudad Autónoma de Buenos Aires,pablo.aguirre@fibertel.com.ar,+54 9 11 4712 3734,2025-07-26,28463.66
+C0265,María,Acosta,María Acosta,39219220,101,Buenos Aires,maría.acosta@speedy.com.ar,+54 9 11 8640 5709,2024-03-23,59603.25
+C0266,María,Pérez,María Pérez,28430870,102,Ciudad Autónoma de Buenos Aires,maría.pérez@fibertel.com.ar,+54 9 11 7789 9762,2023-02-18,19688.03
+C0267,Pablo,Martínez,Pablo Martínez,32165678,106,Córdoba,pablo.martínez@gmail.com,+54 9 11 8526 4873,2020-11-25,31099.49
+C0268,Diego,Díaz,Diego Díaz,38730218,101,Buenos Aires,diego.díaz88@gmail.com,+54 9 11 2131 3518,2015-10-18,742146.06
+C0269,Lucía,Fernández,Lucía Fernández,38438228,102,Ciudad Autónoma de Buenos Aires,lucía.fernández@fibertel.com.ar,+54 9 11 4855 5316,2019-07-25,130119.02
+C0270,Gabriel,Benítez,Gabriel Benítez,28365334,105,Chubut,gabriel.benítez@fibertel.com.ar,+54 9 11 6626 9475,2020-05-22,27653.82
+C0271,María,Benítez,María Benítez,40522677,121,Santa Fe,maría.benítez@hotmail.com,+54 9 11 3887 2076,2017-04-19,86088.79
+C0272,José,Benítez,José Benítez,35775375,101,Buenos Aires,josé.benítez@outlook.com,+54 9 11 9724 5082,2024-02-16,134622.04
+C0273,Ana,Medina,Ana Medina,42268897,118,Salta,ana.medina@outlook.com,+54 9 11 9067 7860,2022-03-07,60055.65
+C0274,Florencia,Rodríguez,Florencia Rodríguez,30127634,102,Ciudad Autónoma de Buenos Aires,florencia.rodríguez@outlook.com,+54 9 11 1089 3718,2016-11-21,17972.84
+C0275,José,Pérez,José Pérez,30592919,106,Córdoba,josé.pérez89@outlook.com,+54 9 11 6706 5474,2020-12-11,52158.05
+C0276,Ana,Herrera,Ana Herrera,27287239,115,Neuquén,ana.herrera@speedy.com.ar,+54 9 11 9971 9372,2024-04-28,111559.57
+C0277,Sofía,López,Sofía López,26879426,107,Corrientes,sofía.lópez46@fibertel.com.ar,+54 9 11 6378 3253,2017-06-07,29639.51
+C0278,Carolina,López,Carolina López,34600797,121,Santa Fe,carolina.lópez74@outlook.com,+54 9 11 8255 7917,2017-08-29,712966.15
+C0279,Carlos,Rodríguez,Carlos Rodríguez,29800349,115,Neuquén,carlos.rodríguez@outlook.com,+54 9 11 9282 9549,2022-07-21,33281.88
+C0280,Federico,Sánchez,Federico Sánchez,40616123,101,Buenos Aires,federico.sánchez@gmail.com,+54 9 11 5178 9521,2023-09-03,293845.04
+C0281,Carolina,Gómez,Carolina Gómez,29813368,101,Buenos Aires,carolina.gómez@yahoo.com.ar,+54 9 11 9387 5452,2019-04-13,86100.85
+C0282,Gabriel,Fernández,Gabriel Fernández,33840537,104,Chaco,gabriel.fernández32@speedy.com.ar,+54 9 11 7705 7013,2017-10-21,41756.45
+C0283,Sofía,González,Sofía González,30684386,101,Buenos Aires,sofía.gonzález@fibertel.com.ar,+54 9 11 8947 1615,2018-04-07,70813.18
+C0284,Carlos,López,Carlos López,29571001,121,Santa Fe,carlos.lópez@outlook.com,+54 9 11 9966 6256,2015-04-13,103280.09
+C0285,Carolina,Flores,Carolina Flores,38466058,102,Ciudad Autónoma de Buenos Aires,carolina.flores@gmail.com,+54 9 11 2309 9517,2015-10-11,118704.56
+C0286,Federico,Fernández,Federico Fernández,37421529,107,Corrientes,federico.fernández79@speedy.com.ar,+54 9 11 1894 4592,2015-05-02,66562.74
+C0287,José,Ramírez,José Ramírez,28673216,102,Ciudad Autónoma de Buenos Aires,josé.ramírez@gmail.com,+54 9 11 4009 8686,2020-03-24,312956.81
+C0288,Florencia,Ramírez,Florencia Ramírez,27389562,106,Córdoba,florencia.ramírez19@outlook.com,+54 9 11 1898 4812,2025-08-22,98061.65
+C0289,Diego,Torres,Diego Torres,33057840,107,Corrientes,diego.torres@yahoo.com.ar,+54 9 11 5564 7249,2023-01-15,361457.09
+C0290,Pablo,Pérez,Pablo Pérez,29092681,121,Santa Fe,pablo.pérez@yahoo.com.ar,+54 9 11 1215 9129,2016-07-02,42765.06
+C0291,Carlos,Díaz,Carlos Díaz,43952419,101,Buenos Aires,carlos.díaz95@hotmail.com,+54 9 11 2969 2289,2019-01-04,65303.33
+C0292,Federico,Gómez,Federico Gómez,40668327,106,Córdoba,federico.gómez68@outlook.com,+54 9 11 8706 5839,2018-01-27,16487.0
+C0293,María,Pérez,María Pérez,38013166,101,Buenos Aires,maría.pérez30@hotmail.com,+54 9 11 7850 9572,2022-01-23,102350.56
+C0294,José,Sosa,José Sosa,44893396,110,Jujuy,josé.sosa@fibertel.com.ar,+54 9 11 9587 6150,2015-08-30,7765.02
+C0295,Lucía,Pérez,Lucía Pérez,26801875,106,Córdoba,lucía.pérez@hotmail.com,+54 9 11 6024 3256,2019-05-13,166437.41
+C0296,Sofía,Rodríguez,Sofía Rodríguez,29573373,102,Ciudad Autónoma de Buenos Aires,sofía.rodríguez@fibertel.com.ar,+54 9 11 2381 9675,2022-12-19,136184.33
+C0297,Matías,Ramírez,Matías Ramírez,34121427,101,Buenos Aires,matías.ramírez@gmail.com,+54 9 11 3673 7614,2015-12-01,504138.52
+C0298,Sofía,Medina,Sofía Medina,31823653,102,Ciudad Autónoma de Buenos Aires,sofía.medina@speedy.com.ar,+54 9 11 3606 5010,2016-07-29,31960.71
+C0299,Laura,Martínez,Laura Martínez,28462764,101,Buenos Aires,laura.martínez62@gmail.com,+54 9 11 7561 4189,2025-03-20,100585.27
+C0300,Gabriel,Romero,Gabriel Romero,27530430,108,Entre Ríos,gabriel.romero40@yahoo.com.ar,+54 9 11 1388 5561,2019-12-30,92439.77
+C0301,Carolina,Fernández,Carolina Fernández,41630610,101,Buenos Aires,carolina.fernández40@yahoo.com.ar,+54 9 11 8808 4731,2015-02-12,7990.2
+C0302,Gabriel,Sánchez,Gabriel Sánchez,42206441,102,Ciudad Autónoma de Buenos Aires,gabriel.sánchez71@hotmail.com,+54 9 11 8630 3173,2020-12-20,18801.53
+C0303,Laura,Herrera,Laura Herrera,39742063,124,Tucumán,laura.herrera44@speedy.com.ar,+54 9 11 7927 1956,2018-08-02,699842.99
+C0304,Matías,Sosa,Matías Sosa,30631510,106,Córdoba,matías.sosa@yahoo.com.ar,+54 9 11 5704 8724,2016-06-24,138647.71
+C0305,Gabriel,Ruiz,Gabriel Ruiz,26812480,116,Río Negro,gabriel.ruiz@hotmail.com,+54 9 11 1051 5699,2025-05-24,459031.26
+C0306,José,Medina,José Medina,37092145,121,Santa Fe,josé.medina73@fibertel.com.ar,+54 9 11 8208 6535,2023-07-15,92236.57
+C0307,Matías,Ruiz,Matías Ruiz,44668845,101,Buenos Aires,matías.ruiz@hotmail.com,+54 9 11 2894 5091,2019-04-08,521852.0
+C0308,Julieta,Ramírez,Julieta Ramírez,34712305,102,Ciudad Autónoma de Buenos Aires,julieta.ramírez@gmail.com,+54 9 11 4765 6036,2019-11-17,80966.87
+C0309,Florencia,Romero,Florencia Romero,29605333,102,Ciudad Autónoma de Buenos Aires,florencia.romero@hotmail.com,+54 9 11 1950 1589,2024-05-03,32606.48
+C0310,Pablo,Martínez,Pablo Martínez,25279877,102,Ciudad Autónoma de Buenos Aires,pablo.martínez94@outlook.com,+54 9 11 3763 9652,2023-11-07,115292.16
+C0311,Camila,Aguirre,Camila Aguirre,42248745,101,Buenos Aires,camila.aguirre@gmail.com,+54 9 11 7384 5197,2017-10-13,17405.41
+C0312,Martín,Ruiz,Martín Ruiz,32894989,102,Ciudad Autónoma de Buenos Aires,martín.ruiz@outlook.com,+54 9 11 3987 2552,2020-08-20,146358.0
+C0313,Carolina,Ramírez,Carolina Ramírez,34375525,101,Buenos Aires,carolina.ramírez@hotmail.com,+54 9 11 4827 2665,2015-08-30,123307.33
+C0314,Julieta,Acosta,Julieta Acosta,35537419,102,Ciudad Autónoma de Buenos Aires,julieta.acosta@outlook.com,+54 9 11 5614 7299,2019-12-08,605702.66
+C0315,Laura,Herrera,Laura Herrera,38271829,105,Chubut,laura.herrera@hotmail.com,+54 9 11 2164 1008,2017-10-10,75891.17
+C0316,Matías,Herrera,Matías Herrera,26038373,119,San Juan,matías.herrera73@hotmail.com,+54 9 11 2834 4212,2024-01-12,23318.05
+C0317,Matías,Rodríguez,Matías Rodríguez,39440036,102,Ciudad Autónoma de Buenos Aires,matías.rodríguez@yahoo.com.ar,+54 9 11 3179 8317,2025-10-09,51580.78
+C0318,Valeria,Ruiz,Valeria Ruiz,25409422,106,Córdoba,valeria.ruiz15@speedy.com.ar,+54 9 11 4983 2099,2015-11-15,40524.98
+C0319,Julieta,Aguirre,Julieta Aguirre,30272087,101,Buenos Aires,julieta.aguirre@hotmail.com,+54 9 11 2179 3857,2022-09-25,642081.99
+C0320,Luis,Gómez,Luis Gómez,34963677,101,Buenos Aires,luis.gómez@speedy.com.ar,+54 9 11 9950 2589,2022-05-25,46332.67
+C0321,Matías,Ramírez,Matías Ramírez,30458680,124,Tucumán,matías.ramírez@yahoo.com.ar,+54 9 11 4097 9383,2024-05-29,196872.46
+C0322,Pablo,Díaz,Pablo Díaz,39639055,105,Chubut,pablo.díaz@hotmail.com,+54 9 11 7180 5000,2025-04-21,37994.92
+C0323,María,Gómez,María Gómez,28162974,101,Buenos Aires,maría.gómez68@outlook.com,+54 9 11 1452 3214,2024-12-15,139656.56
+C0324,Carolina,López,Carolina López,26840910,121,Santa Fe,carolina.lópez91@yahoo.com.ar,+54 9 11 1099 1030,2017-07-11,262424.19
+C0325,Carlos,Fernández,Carlos Fernández,40065524,101,Buenos Aires,carlos.fernández@hotmail.com,+54 9 11 5236 1944,2021-11-26,712325.63
+C0326,Matías,Martínez,Matías Martínez,36049216,121,Santa Fe,matías.martínez@speedy.com.ar,+54 9 11 4623 6676,2022-06-19,122992.53
+C0327,Florencia,Pérez,Florencia Pérez,32769997,101,Buenos Aires,florencia.pérez@gmail.com,+54 9 11 5193 4630,2021-05-05,108494.83
+C0328,Laura,Pérez,Laura Pérez,36791042,121,Santa Fe,laura.pérez88@yahoo.com.ar,+54 9 11 8087 6148,2025-05-03,208500.6
+C0329,Valeria,Rodríguez,Valeria Rodríguez,29968227,114,Misiones,valeria.rodríguez@outlook.com,+54 9 11 9793 1710,2018-10-09,799425.45
+C0330,Pablo,Benítez,Pablo Benítez,42409203,102,Ciudad Autónoma de Buenos Aires,pablo.benítez@fibertel.com.ar,+54 9 11 8096 8340,2025-03-04,259218.43
+C0331,Florencia,López,Florencia López,41382121,106,Córdoba,florencia.lópez@fibertel.com.ar,+54 9 11 2754 5813,2025-06-21,580683.35
+C0332,Pablo,Ramírez,Pablo Ramírez,28311580,118,Salta,pablo.ramírez37@hotmail.com,+54 9 11 9808 2450,2017-09-26,16029.13
+C0333,Luis,Romero,Luis Romero,44266431,102,Ciudad Autónoma de Buenos Aires,luis.romero@hotmail.com,+54 9 11 6345 3290,2024-10-13,17231.87
+C0334,Federico,López,Federico López,41350709,102,Ciudad Autónoma de Buenos Aires,federico.lópez@gmail.com,+54 9 11 9391 3546,2017-08-28,44441.75
+C0335,Luis,Medina,Luis Medina,31434355,101,Buenos Aires,luis.medina33@fibertel.com.ar,+54 9 11 6463 4968,2023-04-29,51642.96
+C0336,Juan,González,Juan González,43498800,102,Ciudad Autónoma de Buenos Aires,juan.gonzález@hotmail.com,+54 9 11 2273 4622,2020-07-20,707579.15
+C0337,Matías,Gómez,Matías Gómez,28697837,107,Corrientes,matías.gómez60@outlook.com,+54 9 11 3265 3475,2025-09-25,50582.12
+C0338,Sofía,Benítez,Sofía Benítez,26382723,123,Tierra del Fuego,sofía.benítez@hotmail.com,+54 9 11 6803 5204,2025-09-07,58300.45
+C0339,Carlos,Medina,Carlos Medina,30387559,108,Entre Ríos,carlos.medina51@outlook.com,+54 9 11 5953 6120,2015-09-01,171952.01
+C0340,Carlos,Acosta,Carlos Acosta,31375701,110,Jujuy,carlos.acosta61@yahoo.com.ar,+54 9 11 5661 7231,2019-05-07,22301.55
+C0341,Luis,Sánchez,Luis Sánchez,30161564,101,Buenos Aires,luis.sánchez21@gmail.com,+54 9 11 6049 4337,2022-11-27,126819.72
+C0342,Florencia,Gómez,Florencia Gómez,36103526,101,Buenos Aires,florencia.gómez56@hotmail.com,+54 9 11 7325 5941,2021-01-17,82556.02
+C0343,Gabriel,Fernández,Gabriel Fernández,28491691,104,Chaco,gabriel.fernández@outlook.com,+54 9 11 7278 7828,2018-11-07,105505.19
+C0344,Matías,López,Matías López,29416997,121,Santa Fe,matías.lópez@yahoo.com.ar,+54 9 11 7546 9237,2024-12-01,107865.54
+C0345,Martín,Torres,Martín Torres,31196684,111,La Pampa,martín.torres74@hotmail.com,+54 9 11 4481 5502,2017-06-28,305138.75
+C0346,Juan,López,Juan López,34215053,104,Chaco,juan.lópez76@gmail.com,+54 9 11 1743 8868,2015-12-25,65735.83
+C0347,Martín,Rodríguez,Martín Rodríguez,37647366,101,Buenos Aires,martín.rodríguez37@fibertel.com.ar,+54 9 11 3272 1981,2022-11-26,127993.21
+C0348,Ana,Díaz,Ana Díaz,39845157,112,La Rioja,ana.díaz@fibertel.com.ar,+54 9 11 4444 4907,2024-06-09,40708.51
+C0349,Valeria,Rodríguez,Valeria Rodríguez,31643842,101,Buenos Aires,valeria.rodríguez@gmail.com,+54 9 11 1250 5169,2018-08-28,33268.04
+C0350,Luis,Benítez,Luis Benítez,34569233,102,Ciudad Autónoma de Buenos Aires,luis.benítez@gmail.com,+54 9 11 9327 2306,2019-12-07,235536.08
+C0351,Sofía,Romero,Sofía Romero,33526665,118,Salta,sofía.romero@outlook.com,+54 9 11 5870 5775,2020-01-13,298267.85
+C0352,Luis,Rodríguez,Luis Rodríguez,27289542,114,Misiones,luis.rodríguez@fibertel.com.ar,+54 9 11 8644 4321,2023-04-21,129656.73
+C0353,Ana,Acosta,Ana Acosta,31816721,109,Formosa,ana.acosta@hotmail.com,+54 9 11 4271 3705,2015-07-12,101537.38
+C0354,Carlos,Herrera,Carlos Herrera,43124561,118,Salta,carlos.herrera@hotmail.com,+54 9 11 3890 1080,2021-05-15,66812.69
+C0355,Gabriel,Pérez,Gabriel Pérez,31006261,101,Buenos Aires,gabriel.pérez@outlook.com,+54 9 11 6604 9097,2019-03-31,67837.88
+C0356,José,Acosta,José Acosta,37607536,101,Buenos Aires,josé.acosta@hotmail.com,+54 9 11 6764 3997,2016-01-31,128012.6
+C0357,Carlos,Sosa,Carlos Sosa,25060619,113,Mendoza,carlos.sosa34@yahoo.com.ar,+54 9 11 9543 4120,2015-08-13,239060.99
+C0358,Sofía,Aguirre,Sofía Aguirre,33079769,106,Córdoba,sofía.aguirre@yahoo.com.ar,+54 9 11 7752 6818,2025-06-25,37458.75
+C0359,Luis,Martínez,Luis Martínez,30557098,110,Jujuy,luis.martínez@gmail.com,+54 9 11 1680 6895,2025-05-30,10657.19
+C0360,Camila,Sosa,Camila Sosa,35639653,102,Ciudad Autónoma de Buenos Aires,camila.sosa@hotmail.com,+54 9 11 5812 2098,2017-07-11,131547.01
+C0361,Pablo,Benítez,Pablo Benítez,29888592,106,Córdoba,pablo.benítez@yahoo.com.ar,+54 9 11 5113 4995,2020-10-12,167111.66
+C0362,Carlos,Benítez,Carlos Benítez,41418156,122,Santiago del Estero,carlos.benítez12@speedy.com.ar,+54 9 11 1393 9671,2023-03-04,189098.91
+C0363,Pablo,Rodríguez,Pablo Rodríguez,25135430,101,Buenos Aires,pablo.rodríguez78@speedy.com.ar,+54 9 11 1837 7282,2017-12-12,102734.98
+C0364,Ana,Sosa,Ana Sosa,39682211,101,Buenos Aires,ana.sosa@fibertel.com.ar,+54 9 11 4223 7301,2018-07-07,147174.6
+C0365,Julieta,Torres,Julieta Torres,25570927,118,Salta,julieta.torres@speedy.com.ar,+54 9 11 3245 5189,2022-02-23,224610.73
+C0366,Valeria,Flores,Valeria Flores,39837094,122,Santiago del Estero,valeria.flores@yahoo.com.ar,+54 9 11 6524 1902,2023-07-11,220575.1
+C0367,Gabriel,Herrera,Gabriel Herrera,34840593,102,Ciudad Autónoma de Buenos Aires,gabriel.herrera@speedy.com.ar,+54 9 11 4417 4277,2022-07-15,142404.16
+C0368,Luis,Flores,Luis Flores,34661179,102,Ciudad Autónoma de Buenos Aires,luis.flores@outlook.com,+54 9 11 9733 5749,2015-04-05,103744.01
+C0369,María,Herrera,María Herrera,36200508,102,Ciudad Autónoma de Buenos Aires,maría.herrera74@outlook.com,+54 9 11 5561 2762,2015-07-12,14225.04
+C0370,Gabriel,Acosta,Gabriel Acosta,39036772,102,Ciudad Autónoma de Buenos Aires,gabriel.acosta26@gmail.com,+54 9 11 5604 4722,2021-12-13,472703.44
+C0371,Carolina,Acosta,Carolina Acosta,38769354,104,Chaco,carolina.acosta@yahoo.com.ar,+54 9 11 6179 2969,2021-03-07,124717.16
+C0372,Matías,Ruiz,Matías Ruiz,36927807,102,Ciudad Autónoma de Buenos Aires,matías.ruiz25@speedy.com.ar,+54 9 11 3963 4952,2022-03-17,138917.44
+C0373,Julieta,Díaz,Julieta Díaz,33601523,101,Buenos Aires,julieta.díaz@yahoo.com.ar,+54 9 11 7892 1304,2023-03-30,78242.3
+C0374,Pablo,Sosa,Pablo Sosa,28311071,101,Buenos Aires,pablo.sosa82@speedy.com.ar,+54 9 11 8359 1662,2015-09-02,69960.25
+C0375,Carlos,Romero,Carlos Romero,44894069,103,Catamarca,carlos.romero@hotmail.com,+54 9 11 4183 4976,2022-01-31,136086.92
+C0376,Valeria,Benítez,Valeria Benítez,34276885,101,Buenos Aires,valeria.benítez60@speedy.com.ar,+54 9 11 4941 7495,2022-10-12,26337.19
+C0377,José,Ramírez,José Ramírez,36585371,101,Buenos Aires,josé.ramírez@speedy.com.ar,+54 9 11 6030 2817,2017-03-29,529750.4
+C0378,Laura,Rodríguez,Laura Rodríguez,44860224,101,Buenos Aires,laura.rodríguez@yahoo.com.ar,+54 9 11 1806 6317,2021-09-24,147919.78
+C0379,Federico,Sánchez,Federico Sánchez,43039831,120,San Luis,federico.sánchez63@yahoo.com.ar,+54 9 11 6721 5083,2023-02-25,8045.69
+C0380,Carlos,Herrera,Carlos Herrera,32512324,101,Buenos Aires,carlos.herrera80@outlook.com,+54 9 11 4477 7638,2015-07-09,7606.22
+C0381,Laura,González,Laura González,41575092,101,Buenos Aires,laura.gonzález@hotmail.com,+54 9 11 4063 6330,2022-02-11,126233.21
+C0382,Federico,Benítez,Federico Benítez,37945682,106,Córdoba,federico.benítez96@outlook.com,+54 9 11 3195 4037,2018-07-17,142807.5
+C0383,Florencia,Sosa,Florencia Sosa,43996797,113,Mendoza,florencia.sosa63@gmail.com,+54 9 11 4315 6890,2018-02-24,68155.28
+C0384,Florencia,Ramírez,Florencia Ramírez,38929345,101,Buenos Aires,florencia.ramírez53@yahoo.com.ar,+54 9 11 3422 4992,2018-03-01,129839.37
+C0385,Gabriel,Flores,Gabriel Flores,41726935,114,Misiones,gabriel.flores@hotmail.com,+54 9 11 1014 6097,2024-06-12,231668.43
+C0386,Valeria,Rodríguez,Valeria Rodríguez,28251703,121,Santa Fe,valeria.rodríguez32@gmail.com,+54 9 11 2451 1912,2021-11-15,394216.08
+C0387,Laura,Díaz,Laura Díaz,36422441,119,San Juan,laura.díaz68@fibertel.com.ar,+54 9 11 4287 5768,2025-09-03,73222.68
+C0388,Carlos,Ruiz,Carlos Ruiz,43666442,102,Ciudad Autónoma de Buenos Aires,carlos.ruiz@yahoo.com.ar,+54 9 11 6081 3729,2019-12-04,633276.16
+C0389,Juan,Flores,Juan Flores,37848568,101,Buenos Aires,juan.flores35@outlook.com,+54 9 11 6285 1545,2024-12-23,116015.31
+C0390,Gabriel,Ramírez,Gabriel Ramírez,26546591,101,Buenos Aires,gabriel.ramírez89@speedy.com.ar,+54 9 11 4361 6314,2024-12-26,32624.32
+C0391,Matías,Sánchez,Matías Sánchez,40588969,101,Buenos Aires,matías.sánchez38@speedy.com.ar,+54 9 11 2992 6385,2025-01-11,59893.18
+C0392,Federico,Ruiz,Federico Ruiz,44075379,101,Buenos Aires,federico.ruiz@yahoo.com.ar,+54 9 11 3751 2993,2015-04-30,100399.75
+C0393,Juan,Rodríguez,Juan Rodríguez,40468678,102,Ciudad Autónoma de Buenos Aires,juan.rodríguez@speedy.com.ar,+54 9 11 2457 6040,2023-01-07,71782.43
+C0394,Gabriel,Benítez,Gabriel Benítez,25445880,101,Buenos Aires,gabriel.benítez69@hotmail.com,+54 9 11 5261 1592,2022-05-14,668894.35
+C0395,José,Acosta,José Acosta,38155810,121,Santa Fe,josé.acosta@gmail.com,+54 9 11 7830 3016,2025-01-13,506520.97
+C0396,Carlos,Ruiz,Carlos Ruiz,38236502,102,Ciudad Autónoma de Buenos Aires,carlos.ruiz93@fibertel.com.ar,+54 9 11 1605 8725,2025-06-12,635630.53
+C0397,Carlos,Romero,Carlos Romero,41219572,121,Santa Fe,carlos.romero@outlook.com,+54 9 11 3074 3992,2020-04-23,15416.93
+C0398,Carlos,Herrera,Carlos Herrera,27957543,116,Río Negro,carlos.herrera@fibertel.com.ar,+54 9 11 6067 5744,2020-12-20,112283.81
+C0399,Juan,Ruiz,Juan Ruiz,42833205,102,Ciudad Autónoma de Buenos Aires,juan.ruiz@fibertel.com.ar,+54 9 11 4060 2517,2021-07-03,59106.62
+C0400,Gabriel,Gómez,Gabriel Gómez,35509510,124,Tucumán,gabriel.gómez@speedy.com.ar,+54 9 11 4225 1683,2024-11-08,420265.44
+C0401,Carlos,González,Carlos González,43931192,101,Buenos Aires,carlos.gonzález@yahoo.com.ar,+54 9 11 3076 8327,2015-02-10,136357.82
+C0402,Lucía,Sosa,Lucía Sosa,31362048,122,Santiago del Estero,lucía.sosa91@yahoo.com.ar,+54 9 11 4867 7564,2022-02-23,295652.56
+C0403,Carlos,Fernández,Carlos Fernández,29231418,121,Santa Fe,carlos.fernández@hotmail.com,+54 9 11 4789 2666,2017-01-18,234944.74
+C0404,Pablo,Sosa,Pablo Sosa,32372202,121,Santa Fe,pablo.sosa58@hotmail.com,+54 9 11 7473 7827,2022-03-15,63482.93
+C0405,José,Ruiz,José Ruiz,40581447,101,Buenos Aires,josé.ruiz@gmail.com,+54 9 11 5622 2906,2019-10-07,98432.19
+C0406,Carolina,Díaz,Carolina Díaz,35933475,102,Ciudad Autónoma de Buenos Aires,carolina.díaz71@outlook.com,+54 9 11 6838 3784,2016-11-16,285435.89
+C0407,Carlos,Díaz,Carlos Díaz,27914759,116,Río Negro,carlos.díaz@speedy.com.ar,+54 9 11 7890 2201,2016-11-28,3014210.3
+C0408,Julieta,Flores,Julieta Flores,25487806,101,Buenos Aires,julieta.flores@speedy.com.ar,+54 9 11 5253 1301,2021-12-11,60509.08
+C0409,Julieta,Medina,Julieta Medina,37135317,121,Santa Fe,julieta.medina48@outlook.com,+54 9 11 8521 6706,2017-02-14,102739.58
+C0410,Luis,Sosa,Luis Sosa,39422497,106,Córdoba,luis.sosa@fibertel.com.ar,+54 9 11 6809 3988,2025-04-12,45744.24
+C0411,José,López,José López,29657134,104,Chaco,josé.lópez@yahoo.com.ar,+54 9 11 1214 7220,2020-12-23,132528.81
+C0412,Federico,Romero,Federico Romero,25016018,101,Buenos Aires,federico.romero40@hotmail.com,+54 9 11 4585 4268,2022-06-28,30294.43
+C0413,Sofía,Herrera,Sofía Herrera,36453168,108,Entre Ríos,sofía.herrera@hotmail.com,+54 9 11 5730 5712,2025-05-24,195380.0
+C0414,Carlos,Torres,Carlos Torres,44832460,113,Mendoza,carlos.torres@fibertel.com.ar,+54 9 11 3971 6406,2020-01-28,406340.66
+C0415,José,Benítez,José Benítez,44921706,101,Buenos Aires,josé.benítez@gmail.com,+54 9 11 6684 9802,2024-07-19,147637.73
+C0416,Carolina,González,Carolina González,36658729,102,Ciudad Autónoma de Buenos Aires,carolina.gonzález@outlook.com,+54 9 11 4950 7584,2022-07-14,135652.29
+C0417,Lucía,Ramírez,Lucía Ramírez,27123484,121,Santa Fe,lucía.ramírez@speedy.com.ar,+54 9 11 7369 8799,2021-07-28,148010.65
+C0418,José,Medina,José Medina,40611579,109,Formosa,josé.medina@fibertel.com.ar,+54 9 11 1959 6551,2021-04-03,25086.72
+C0419,Camila,Aguirre,Camila Aguirre,36963497,102,Ciudad Autónoma de Buenos Aires,camila.aguirre@fibertel.com.ar,+54 9 11 6716 2296,2020-01-17,29709.23
+C0420,María,Herrera,María Herrera,43473389,102,Ciudad Autónoma de Buenos Aires,maría.herrera26@outlook.com,+54 9 11 9158 6458,2022-07-01,64525.84
+C0421,Luis,Fernández,Luis Fernández,35381767,102,Ciudad Autónoma de Buenos Aires,luis.fernández@outlook.com,+54 9 11 4423 9857,2015-04-30,691260.19
+C0422,Luis,López,Luis López,25644376,102,Ciudad Autónoma de Buenos Aires,luis.lópez69@outlook.com,+54 9 11 2375 8076,2023-04-01,79337.59
+C0423,Gabriel,Ruiz,Gabriel Ruiz,26674563,106,Córdoba,gabriel.ruiz@yahoo.com.ar,+54 9 11 2469 3664,2018-04-24,90098.55
+C0424,Gabriel,Flores,Gabriel Flores,42376151,101,Buenos Aires,gabriel.flores@fibertel.com.ar,+54 9 11 8339 7231,2018-02-22,83013.79
+C0425,Carlos,Díaz,Carlos Díaz,39958011,124,Tucumán,carlos.díaz@speedy.com.ar,+54 9 11 8214 3871,2023-06-15,5031.04
+C0426,José,Herrera,José Herrera,34821256,105,Chubut,josé.herrera@hotmail.com,+54 9 11 1649 9686,2021-11-19,88773.51
+C0427,María,López,María López,29985948,106,Córdoba,maría.lópez@gmail.com,+54 9 11 3743 9065,2024-01-21,47255.38
+C0428,Valeria,Ramírez,Valeria Ramírez,41875732,110,Jujuy,valeria.ramírez@outlook.com,+54 9 11 1250 9384,2025-05-14,8127.8
+C0429,Federico,Aguirre,Federico Aguirre,27530313,101,Buenos Aires,federico.aguirre21@yahoo.com.ar,+54 9 11 4808 5505,2025-01-20,311853.57
+C0430,Lucía,Flores,Lucía Flores,42273332,104,Chaco,lucía.flores@fibertel.com.ar,+54 9 11 7450 8870,2018-01-14,66634.14
+C0431,Gabriel,Romero,Gabriel Romero,25959176,110,Jujuy,gabriel.romero@fibertel.com.ar,+54 9 11 3026 9145,2016-10-06,121106.95
+C0432,José,Romero,José Romero,36929934,102,Ciudad Autónoma de Buenos Aires,josé.romero73@outlook.com,+54 9 11 4520 3408,2015-11-03,88972.9
+C0433,Pablo,Pérez,Pablo Pérez,43177331,104,Chaco,pablo.pérez43@speedy.com.ar,+54 9 11 2321 2703,2023-04-25,15329.98
+C0434,María,Ramírez,María Ramírez,32351642,101,Buenos Aires,maría.ramírez@fibertel.com.ar,+54 9 11 3347 3557,2020-02-21,551460.27
+C0435,Sofía,Medina,Sofía Medina,38162258,101,Buenos Aires,sofía.medina63@hotmail.com,+54 9 11 8765 7352,2019-06-04,61512.26
+C0436,Camila,López,Camila López,26511029,110,Jujuy,camila.lópez@speedy.com.ar,+54 9 11 4705 9912,2022-04-09,93357.57
+C0437,Matías,González,Matías González,35369162,123,Tierra del Fuego,matías.gonzález26@gmail.com,+54 9 11 4975 8954,2021-10-30,74533.4
+C0438,Laura,Aguirre,Laura Aguirre,43227079,106,Córdoba,laura.aguirre@yahoo.com.ar,+54 9 11 4605 4733,2015-09-12,81572.72
+C0439,Juan,Torres,Juan Torres,44642258,106,Córdoba,juan.torres@yahoo.com.ar,+54 9 11 5416 5408,2020-11-01,11451.06
+C0440,José,González,José González,33443013,101,Buenos Aires,josé.gonzález@yahoo.com.ar,+54 9 11 9484 8993,2020-11-23,107022.63
+C0441,Sofía,Sánchez,Sofía Sánchez,37536413,115,Neuquén,sofía.sánchez@fibertel.com.ar,+54 9 11 7238 9663,2016-09-06,66102.84
+C0442,Carolina,Ramírez,Carolina Ramírez,41557049,101,Buenos Aires,carolina.ramírez@hotmail.com,+54 9 11 9197 8279,2025-04-04,695587.42
+C0443,Juan,Sosa,Juan Sosa,30702384,102,Ciudad Autónoma de Buenos Aires,juan.sosa@hotmail.com,+54 9 11 5656 7701,2017-07-12,41525.36
+C0444,Lucía,Fernández,Lucía Fernández,26152697,118,Salta,lucía.fernández@hotmail.com,+54 9 11 4558 6384,2022-09-26,117353.02
+C0445,Gabriel,Flores,Gabriel Flores,30756506,101,Buenos Aires,gabriel.flores@fibertel.com.ar,+54 9 11 2935 9569,2022-09-12,251821.98
+C0446,José,Sánchez,José Sánchez,28331212,119,San Juan,josé.sánchez@fibertel.com.ar,+54 9 11 6081 4563,2016-12-10,140395.21
+C0447,Lucía,Benítez,Lucía Benítez,42188278,101,Buenos Aires,lucía.benítez95@speedy.com.ar,+54 9 11 9692 6913,2015-01-19,32734.9
+C0448,Valeria,López,Valeria López,32834049,102,Ciudad Autónoma de Buenos Aires,valeria.lópez@speedy.com.ar,+54 9 11 3619 7156,2016-04-15,376417.82
+C0449,Carlos,Díaz,Carlos Díaz,35174229,101,Buenos Aires,carlos.díaz@speedy.com.ar,+54 9 11 5029 3050,2016-05-23,15713.41
+C0450,Lucía,López,Lucía López,30856525,121,Santa Fe,lucía.lópez22@hotmail.com,+54 9 11 4209 5094,2024-04-12,64077.38
+C0451,Valeria,Acosta,Valeria Acosta,42400805,122,Santiago del Estero,valeria.acosta@hotmail.com,+54 9 11 7544 8990,2017-03-23,58464.01
+C0452,Valeria,Acosta,Valeria Acosta,27645741,104,Chaco,valeria.acosta@gmail.com,+54 9 11 7427 5238,2019-07-09,149905.83
+C0453,Lucía,Herrera,Lucía Herrera,43129705,106,Córdoba,lucía.herrera@gmail.com,+54 9 11 4553 1574,2025-10-27,145442.17
+C0454,Camila,Sánchez,Camila Sánchez,28359191,113,Mendoza,camila.sánchez11@yahoo.com.ar,+54 9 11 1467 2909,2016-11-03,25828.11
+C0455,Ana,Torres,Ana Torres,33929361,106,Córdoba,ana.torres83@outlook.com,+54 9 11 9689 2648,2015-07-09,443462.16
+C0456,Juan,Sosa,Juan Sosa,31924954,102,Ciudad Autónoma de Buenos Aires,juan.sosa@hotmail.com,+54 9 11 3418 7854,2024-04-06,256978.66
+C0457,Gabriel,López,Gabriel López,35860806,111,La Pampa,gabriel.lópez11@outlook.com,+54 9 11 6198 8908,2019-05-21,326360.14
+C0458,Carlos,Pérez,Carlos Pérez,42776522,101,Buenos Aires,carlos.pérez@speedy.com.ar,+54 9 11 1131 6635,2018-08-24,62205.54
+C0459,Florencia,Torres,Florencia Torres,31843826,121,Santa Fe,florencia.torres24@outlook.com,+54 9 11 5918 3134,2024-03-14,167278.51
+C0460,Julieta,Ramírez,Julieta Ramírez,38469561,102,Ciudad Autónoma de Buenos Aires,julieta.ramírez49@speedy.com.ar,+54 9 11 1195 9793,2025-09-25,119199.21
+C0461,Luis,Rodríguez,Luis Rodríguez,27269571,101,Buenos Aires,luis.rodríguez@hotmail.com,+54 9 11 9937 3282,2025-05-01,158226.76
+C0462,Pablo,Rodríguez,Pablo Rodríguez,43784119,106,Córdoba,pablo.rodríguez@fibertel.com.ar,+54 9 11 7194 2332,2019-11-07,83935.07
+C0463,Carolina,Aguirre,Carolina Aguirre,36822113,102,Ciudad Autónoma de Buenos Aires,carolina.aguirre@gmail.com,+54 9 11 8935 6156,2017-12-20,131603.01
+C0464,Camila,Aguirre,Camila Aguirre,41593875,101,Buenos Aires,camila.aguirre@yahoo.com.ar,+54 9 11 2863 9174,2018-07-02,147058.65
+C0465,Camila,Acosta,Camila Acosta,28335804,116,Río Negro,camila.acosta@yahoo.com.ar,+54 9 11 2719 8059,2016-05-01,97022.29
+C0466,María,Flores,María Flores,27754856,106,Córdoba,maría.flores@yahoo.com.ar,+54 9 11 5670 7149,2016-04-09,2337726.73
+C0467,Carolina,Sosa,Carolina Sosa,34462047,106,Córdoba,carolina.sosa@speedy.com.ar,+54 9 11 4231 3852,2018-03-19,40098.53
+C0468,Camila,Sosa,Camila Sosa,40102166,112,La Rioja,camila.sosa42@hotmail.com,+54 9 11 8208 3222,2021-03-27,732482.26
+C0469,Sofía,Acosta,Sofía Acosta,41055500,120,San Luis,sofía.acosta79@speedy.com.ar,+54 9 11 4841 8401,2017-06-29,96736.64
+C0470,Valeria,Pérez,Valeria Pérez,33174335,101,Buenos Aires,valeria.pérez@yahoo.com.ar,+54 9 11 1095 6042,2023-06-26,162768.84
+C0471,Valeria,Martínez,Valeria Martínez,38399673,121,Santa Fe,valeria.martínez50@fibertel.com.ar,+54 9 11 3879 5499,2022-03-02,123846.91
+C0472,Valeria,Aguirre,Valeria Aguirre,38061230,101,Buenos Aires,valeria.aguirre15@yahoo.com.ar,+54 9 11 5798 2657,2023-08-31,112621.36
+C0473,Camila,Rodríguez,Camila Rodríguez,28446567,105,Chubut,camila.rodríguez@outlook.com,+54 9 11 7422 2310,2022-03-28,673677.37
+C0474,Juan,Medina,Juan Medina,39685530,101,Buenos Aires,juan.medina@gmail.com,+54 9 11 6321 2006,2024-07-21,94829.97
+C0475,Gabriel,Ruiz,Gabriel Ruiz,29783174,101,Buenos Aires,gabriel.ruiz45@gmail.com,+54 9 11 2138 6889,2025-09-28,69512.78
+C0476,Diego,Medina,Diego Medina,33767804,104,Chaco,diego.medina@outlook.com,+54 9 11 2991 4756,2017-09-16,65406.07
+C0477,Laura,Martínez,Laura Martínez,32181217,101,Buenos Aires,laura.martínez@hotmail.com,+54 9 11 3830 9833,2018-01-17,729525.14
+C0478,Ana,Acosta,Ana Acosta,34636515,106,Córdoba,ana.acosta@speedy.com.ar,+54 9 11 4243 9600,2017-09-30,77056.03
+C0479,Luis,Ruiz,Luis Ruiz,32289878,101,Buenos Aires,luis.ruiz@outlook.com,+54 9 11 5982 6034,2023-04-15,35722.41
+C0480,María,Sánchez,María Sánchez,42083983,107,Corrientes,maría.sánchez@outlook.com,+54 9 11 5207 5462,2024-02-22,184303.94
+C0481,Valeria,Herrera,Valeria Herrera,40199346,102,Ciudad Autónoma de Buenos Aires,valeria.herrera@gmail.com,+54 9 11 4428 7674,2018-12-04,45793.48
+C0482,Carolina,Medina,Carolina Medina,29914627,101,Buenos Aires,carolina.medina@fibertel.com.ar,+54 9 11 9127 4692,2023-04-15,10755.19
+C0483,Valeria,López,Valeria López,36884045,101,Buenos Aires,valeria.lópez@gmail.com,+54 9 11 4331 9246,2017-02-27,134246.54
+C0484,Florencia,Fernández,Florencia Fernández,26067829,106,Córdoba,florencia.fernández82@hotmail.com,+54 9 11 1735 5249,2022-12-01,98476.27
+C0485,Pablo,Ramírez,Pablo Ramírez,44825836,102,Ciudad Autónoma de Buenos Aires,pablo.ramírez@yahoo.com.ar,+54 9 11 6269 7052,2016-02-04,49183.07
+C0486,María,Sánchez,María Sánchez,28848155,122,Santiago del Estero,maría.sánchez@outlook.com,+54 9 11 7324 5804,2015-12-20,42825.52
+C0487,Juan,Gómez,Juan Gómez,31318525,102,Ciudad Autónoma de Buenos Aires,juan.gómez24@fibertel.com.ar,+54 9 11 9646 8856,2016-05-05,142604.23
+C0488,Federico,Gómez,Federico Gómez,29719095,108,Entre Ríos,federico.gómez@fibertel.com.ar,+54 9 11 8841 2226,2024-03-10,55330.21
+C0489,Pablo,Rodríguez,Pablo Rodríguez,34645008,108,Entre Ríos,pablo.rodríguez@fibertel.com.ar,+54 9 11 7315 8959,2017-12-30,136814.94
+C0490,María,Medina,María Medina,33223104,101,Buenos Aires,maría.medina@speedy.com.ar,+54 9 11 4678 9733,2018-04-03,78213.91
+C0491,Valeria,Acosta,Valeria Acosta,40831601,101,Buenos Aires,valeria.acosta@yahoo.com.ar,+54 9 11 2315 9880,2017-10-24,113936.0
+C0492,Pablo,Romero,Pablo Romero,31988751,101,Buenos Aires,pablo.romero40@fibertel.com.ar,+54 9 11 6964 3373,2018-09-23,34082.05
+C0493,Matías,Acosta,Matías Acosta,31692347,102,Ciudad Autónoma de Buenos Aires,matías.acosta@outlook.com,+54 9 11 7205 6276,2022-05-01,17763.24
+C0494,Laura,Benítez,Laura Benítez,28122115,118,Salta,laura.benítez50@yahoo.com.ar,+54 9 11 5875 7788,2025-05-21,17475.69
+C0495,Valeria,Medina,Valeria Medina,42234393,113,Mendoza,valeria.medina@yahoo.com.ar,+54 9 11 7529 7681,2017-03-07,9516.43
+C0496,Martín,Romero,Martín Romero,25120506,102,Ciudad Autónoma de Buenos Aires,martín.romero@yahoo.com.ar,+54 9 11 1949 5180,2016-07-08,780085.5
+C0497,Julieta,González,Julieta González,33805715,101,Buenos Aires,julieta.gonzález@gmail.com,+54 9 11 3172 4305,2020-06-26,86285.02
+C0498,Pablo,Ramírez,Pablo Ramírez,44203060,107,Corrientes,pablo.ramírez@hotmail.com,+54 9 11 2102 4940,2018-09-16,94011.77
+C0499,Pablo,Medina,Pablo Medina,34253385,101,Buenos Aires,pablo.medina@gmail.com,+54 9 11 6744 6012,2015-03-15,110299.1
+C0500,Laura,Martínez,Laura Martínez,35586926,115,Neuquén,laura.martínez29@outlook.com,+54 9 11 8539 4116,2018-09-26,20289.04
+C0501,Ana,Gómez,Ana Gómez,30436106,121,Santa Fe,ana.gómez@outlook.com,+54 9 11 5252 1967,2018-09-09,170785.16
+C0502,Laura,Torres,Laura Torres,31620011,102,Ciudad Autónoma de Buenos Aires,laura.torres@gmail.com,+54 9 11 1436 3472,2022-02-22,39068.63
+C0503,Carlos,Sosa,Carlos Sosa,31738224,116,Río Negro,carlos.sosa@hotmail.com,+54 9 11 1168 6074,2024-12-06,138141.05
+C0504,Matías,Martínez,Matías Martínez,28514697,106,Córdoba,matías.martínez@speedy.com.ar,+54 9 11 2930 3054,2017-06-27,34780.13
+C0505,Sofía,Romero,Sofía Romero,32064581,119,San Juan,sofía.romero74@speedy.com.ar,+54 9 11 1749 7291,2021-08-18,126615.9
+C0506,Lucía,Torres,Lucía Torres,28320388,101,Buenos Aires,lucía.torres@gmail.com,+54 9 11 1666 1334,2016-07-13,200039.02
+C0507,José,López,José López,28563179,102,Ciudad Autónoma de Buenos Aires,josé.lópez@speedy.com.ar,+54 9 11 2901 6017,2015-09-01,200245.43
+C0508,José,Díaz,José Díaz,37047320,101,Buenos Aires,josé.díaz@yahoo.com.ar,+54 9 11 4742 4682,2021-01-07,80030.89
+C0509,Carolina,Martínez,Carolina Martínez,32855846,119,San Juan,carolina.martínez@yahoo.com.ar,+54 9 11 4437 5256,2016-10-06,130617.54
+C0510,Pablo,Rodríguez,Pablo Rodríguez,25507754,106,Córdoba,pablo.rodríguez56@fibertel.com.ar,+54 9 11 2562 5515,2019-04-18,780323.27
+C0511,Federico,Ramírez,Federico Ramírez,43240342,101,Buenos Aires,federico.ramírez@yahoo.com.ar,+54 9 11 4504 7998,2016-10-09,12017.2
+C0512,Camila,López,Camila López,43226950,102,Ciudad Autónoma de Buenos Aires,camila.lópez@fibertel.com.ar,+54 9 11 3713 4937,2024-04-14,363125.89
+C0513,Federico,Díaz,Federico Díaz,29014450,109,Formosa,federico.díaz@yahoo.com.ar,+54 9 11 1931 6424,2018-12-23,455639.3
+C0514,Carlos,Torres,Carlos Torres,25588721,102,Ciudad Autónoma de Buenos Aires,carlos.torres@speedy.com.ar,+54 9 11 2136 1314,2025-03-06,118523.03
+C0515,Julieta,Ramírez,Julieta Ramírez,44014992,101,Buenos Aires,julieta.ramírez@speedy.com.ar,+54 9 11 7787 7087,2019-10-27,121105.64
+C0516,Valeria,Medina,Valeria Medina,30209756,102,Ciudad Autónoma de Buenos Aires,valeria.medina@yahoo.com.ar,+54 9 11 6705 6675,2021-07-27,97744.26
+C0517,Sofía,Aguirre,Sofía Aguirre,28661895,101,Buenos Aires,sofía.aguirre@fibertel.com.ar,+54 9 11 3261 6507,2024-03-29,111372.53
+C0518,Julieta,Herrera,Julieta Herrera,40864581,102,Ciudad Autónoma de Buenos Aires,julieta.herrera24@outlook.com,+54 9 11 5190 3469,2020-08-14,91555.54
+C0519,Federico,Martínez,Federico Martínez,26729244,114,Misiones,federico.martínez@outlook.com,+54 9 11 5978 4126,2019-10-07,669803.3
+C0520,Matías,Medina,Matías Medina,25137239,101,Buenos Aires,matías.medina@yahoo.com.ar,+54 9 11 3537 7582,2022-09-15,80937.68
+C0521,Lucía,Ramírez,Lucía Ramírez,32216405,115,Neuquén,lucía.ramírez@speedy.com.ar,+54 9 11 3353 1984,2023-10-26,88491.38
+C0522,Juan,Fernández,Juan Fernández,28272608,101,Buenos Aires,juan.fernández@hotmail.com,+54 9 11 5568 1236,2024-03-08,43926.09
+C0523,Carolina,Benítez,Carolina Benítez,44036728,101,Buenos Aires,carolina.benítez@speedy.com.ar,+54 9 11 4987 4841,2016-04-25,125715.81
+C0524,Matías,Acosta,Matías Acosta,31062711,106,Córdoba,matías.acosta@outlook.com,+54 9 11 8131 9236,2022-12-08,9492.54
+C0525,María,Ruiz,María Ruiz,35327910,102,Ciudad Autónoma de Buenos Aires,maría.ruiz42@outlook.com,+54 9 11 5786 4406,2024-03-04,70142.7
+C0526,Juan,Pérez,Juan Pérez,42079036,112,La Rioja,juan.pérez@yahoo.com.ar,+54 9 11 1915 6945,2021-06-21,22071.75
+C0527,Lucía,Gómez,Lucía Gómez,28525687,102,Ciudad Autónoma de Buenos Aires,lucía.gómez76@yahoo.com.ar,+54 9 11 2012 6002,2020-08-07,176093.06
+C0528,Carolina,Díaz,Carolina Díaz,39705709,121,Santa Fe,carolina.díaz@gmail.com,+54 9 11 6426 5384,2019-11-26,127198.25
+C0529,Carlos,Benítez,Carlos Benítez,25446393,106,Córdoba,carlos.benítez@fibertel.com.ar,+54 9 11 9683 6724,2015-03-29,517999.77
+C0530,José,Ruiz,José Ruiz,40088896,101,Buenos Aires,josé.ruiz42@fibertel.com.ar,+54 9 11 4359 1861,2022-06-27,710606.39
+C0531,Federico,Martínez,Federico Martínez,28174176,102,Ciudad Autónoma de Buenos Aires,federico.martínez61@gmail.com,+54 9 11 3058 2968,2016-04-30,70483.03
+C0532,Federico,Acosta,Federico Acosta,30175728,102,Ciudad Autónoma de Buenos Aires,federico.acosta22@speedy.com.ar,+54 9 11 1544 5913,2018-12-12,68123.36
+C0533,Valeria,Flores,Valeria Flores,39486923,113,Mendoza,valeria.flores35@speedy.com.ar,+54 9 11 5861 5705,2024-07-07,97097.63
+C0534,José,Herrera,José Herrera,44996066,116,Río Negro,josé.herrera@outlook.com,+54 9 11 3574 8447,2022-03-19,135423.85
+C0535,Matías,Torres,Matías Torres,31522313,102,Ciudad Autónoma de Buenos Aires,matías.torres73@yahoo.com.ar,+54 9 11 1246 7831,2020-03-20,304570.57
+C0536,José,Ruiz,José Ruiz,26421583,101,Buenos Aires,josé.ruiz@outlook.com,+54 9 11 1636 9707,2025-04-20,314921.52
+C0537,María,Benítez,María Benítez,34274410,101,Buenos Aires,maría.benítez89@hotmail.com,+54 9 11 6447 8421,2020-09-28,29156.52
+C0538,Pablo,Medina,Pablo Medina,34834744,106,Córdoba,pablo.medina@yahoo.com.ar,+54 9 11 5693 5040,2025-03-17,595130.9
+C0539,Carolina,Díaz,Carolina Díaz,37644557,102,Ciudad Autónoma de Buenos Aires,carolina.díaz21@gmail.com,+54 9 11 1649 8501,2021-07-03,54391.47
+C0540,José,Torres,José Torres,30827965,101,Buenos Aires,josé.torres@speedy.com.ar,+54 9 11 2682 9068,2019-02-19,93405.81
+C0541,Federico,Ruiz,Federico Ruiz,36689794,104,Chaco,federico.ruiz@outlook.com,+54 9 11 4511 5952,2015-02-08,393666.46
+C0542,Camila,Ramírez,Camila Ramírez,38068095,111,La Pampa,camila.ramírez83@yahoo.com.ar,+54 9 11 3816 2173,2019-01-26,555348.19
+C0543,Juan,Díaz,Juan Díaz,30369755,106,Córdoba,juan.díaz15@hotmail.com,+54 9 11 6013 5564,2015-08-29,2979149.31
+C0544,Julieta,Fernández,Julieta Fernández,43845333,101,Buenos Aires,julieta.fernández@speedy.com.ar,+54 9 11 7118 3748,2019-07-26,92181.75
+C0545,Martín,Romero,Martín Romero,25281184,101,Buenos Aires,martín.romero@yahoo.com.ar,+54 9 11 2373 5027,2017-04-26,773818.73
+C0546,Carlos,Benítez,Carlos Benítez,26328332,102,Ciudad Autónoma de Buenos Aires,carlos.benítez88@outlook.com,+54 9 11 2979 4616,2021-03-29,694762.71
+C0547,Camila,López,Camila López,29000134,124,Tucumán,camila.lópez84@speedy.com.ar,+54 9 11 1499 5918,2022-05-06,386487.18
+C0548,Pablo,Flores,Pablo Flores,27924784,102,Ciudad Autónoma de Buenos Aires,pablo.flores@yahoo.com.ar,+54 9 11 3654 5219,2022-11-13,115126.52
+C0549,José,Ramírez,José Ramírez,25156791,101,Buenos Aires,josé.ramírez@hotmail.com,+54 9 11 1779 4001,2023-02-27,108476.36
+C0550,Ana,Flores,Ana Flores,33396524,102,Ciudad Autónoma de Buenos Aires,ana.flores@speedy.com.ar,+54 9 11 8920 1992,2023-01-14,35146.81
+C0551,Matías,Pérez,Matías Pérez,33052698,102,Ciudad Autónoma de Buenos Aires,matías.pérez@hotmail.com,+54 9 11 5364 5891,2023-09-10,18833.0
+C0552,Federico,Pérez,Federico Pérez,37450313,101,Buenos Aires,federico.pérez@hotmail.com,+54 9 11 1174 8475,2019-08-18,256945.29
+C0553,Juan,Sánchez,Juan Sánchez,34314930,124,Tucumán,juan.sánchez72@gmail.com,+54 9 11 8653 1999,2017-11-08,56866.01
+C0554,Matías,Ramírez,Matías Ramírez,43028967,110,Jujuy,matías.ramírez@speedy.com.ar,+54 9 11 8767 3393,2021-07-03,142136.22
+C0555,María,Flores,María Flores,38938740,118,Salta,maría.flores82@outlook.com,+54 9 11 9231 7096,2022-01-25,5215.07
+C0556,Julieta,Medina,Julieta Medina,39834525,101,Buenos Aires,julieta.medina24@fibertel.com.ar,+54 9 11 3122 7495,2020-05-30,7537.98
+C0557,Florencia,Martínez,Florencia Martínez,41994233,102,Ciudad Autónoma de Buenos Aires,florencia.martínez14@fibertel.com.ar,+54 9 11 8056 9985,2018-12-16,69924.07
+C0558,Carolina,Martínez,Carolina Martínez,27486991,101,Buenos Aires,carolina.martínez@hotmail.com,+54 9 11 5454 5324,2025-05-29,18225.32
+C0559,Sofía,Díaz,Sofía Díaz,37796488,110,Jujuy,sofía.díaz@outlook.com,+54 9 11 4509 5320,2024-08-27,139435.72
+C0560,Laura,Torres,Laura Torres,30355701,101,Buenos Aires,laura.torres@speedy.com.ar,+54 9 11 6295 9650,2016-03-18,65111.37
+C0561,Camila,Fernández,Camila Fernández,40818279,104,Chaco,camila.fernández39@gmail.com,+54 9 11 7736 7353,2016-12-26,43668.46
+C0562,María,Gómez,María Gómez,42670538,101,Buenos Aires,maría.gómez@gmail.com,+54 9 11 8038 5929,2019-03-25,97017.51
+C0563,Pablo,Sánchez,Pablo Sánchez,35445927,103,Catamarca,pablo.sánchez@yahoo.com.ar,+54 9 11 7593 3030,2016-10-13,88627.04
+C0564,Gabriel,Flores,Gabriel Flores,37215813,113,Mendoza,gabriel.flores@hotmail.com,+54 9 11 6588 5772,2020-05-22,94592.3
+C0565,Martín,Romero,Martín Romero,42060676,119,San Juan,martín.romero@yahoo.com.ar,+54 9 11 8623 2602,2025-02-15,123067.28
+C0566,Federico,Ramírez,Federico Ramírez,30324719,119,San Juan,federico.ramírez@gmail.com,+54 9 11 6396 5399,2025-05-15,139181.84
+C0567,Carolina,Rodríguez,Carolina Rodríguez,27398007,104,Chaco,carolina.rodríguez@outlook.com,+54 9 11 9012 4816,2019-08-19,131706.24
+C0568,María,Aguirre,María Aguirre,25961488,108,Entre Ríos,maría.aguirre@fibertel.com.ar,+54 9 11 4406 4313,2023-09-17,10765.34
+C0569,Laura,Aguirre,Laura Aguirre,38221360,121,Santa Fe,laura.aguirre@gmail.com,+54 9 11 2706 9448,2025-04-22,247451.39
+C0570,Federico,Rodríguez,Federico Rodríguez,26975369,102,Ciudad Autónoma de Buenos Aires,federico.rodríguez@yahoo.com.ar,+54 9 11 5250 5730,2019-03-24,18368.83
+C0571,Florencia,Torres,Florencia Torres,28630776,119,San Juan,florencia.torres@fibertel.com.ar,+54 9 11 1756 4156,2024-07-25,316802.76
+C0572,Ana,Martínez,Ana Martínez,36511520,118,Salta,ana.martínez@outlook.com,+54 9 11 4341 5041,2020-03-11,126680.59
+C0573,Matías,Sánchez,Matías Sánchez,36613461,101,Buenos Aires,matías.sánchez@gmail.com,+54 9 11 9007 4074,2019-05-16,58213.94
+C0574,Ana,Torres,Ana Torres,30767669,121,Santa Fe,ana.torres54@gmail.com,+54 9 11 1808 1414,2018-05-11,179095.17
+C0575,Julieta,Medina,Julieta Medina,36199118,102,Ciudad Autónoma de Buenos Aires,julieta.medina17@yahoo.com.ar,+54 9 11 5498 3011,2017-12-24,69243.26
+C0576,Ana,Torres,Ana Torres,36574777,102,Ciudad Autónoma de Buenos Aires,ana.torres23@speedy.com.ar,+54 9 11 8047 9865,2024-12-23,116642.62
+C0577,José,Martínez,José Martínez,30603240,102,Ciudad Autónoma de Buenos Aires,josé.martínez@outlook.com,+54 9 11 1718 5408,2022-03-02,236199.14
+C0578,María,Flores,María Flores,43326126,118,Salta,maría.flores@speedy.com.ar,+54 9 11 8987 7987,2024-06-01,55680.7
+C0579,Carlos,Pérez,Carlos Pérez,31732975,101,Buenos Aires,carlos.pérez@hotmail.com,+54 9 11 1754 8294,2022-03-15,33519.2
+C0580,José,Ramírez,José Ramírez,26491390,122,Santiago del Estero,josé.ramírez93@speedy.com.ar,+54 9 11 2458 1039,2024-04-20,9194.36
+C0581,Lucía,Benítez,Lucía Benítez,44501423,102,Ciudad Autónoma de Buenos Aires,lucía.benítez@fibertel.com.ar,+54 9 11 3915 1481,2016-01-11,91164.02
+C0582,Sofía,Sánchez,Sofía Sánchez,34307475,121,Santa Fe,sofía.sánchez72@outlook.com,+54 9 11 9158 2964,2015-07-02,67425.25
+C0583,Lucía,Romero,Lucía Romero,34558243,121,Santa Fe,lucía.romero@outlook.com,+54 9 11 2344 7882,2019-12-27,69142.01
+C0584,Matías,Herrera,Matías Herrera,36518835,101,Buenos Aires,matías.herrera43@hotmail.com,+54 9 11 7488 5870,2018-03-09,291698.54
+C0585,Julieta,Martínez,Julieta Martínez,39498378,121,Santa Fe,julieta.martínez40@outlook.com,+54 9 11 8697 7132,2022-01-13,433251.15
+C0586,Sofía,Pérez,Sofía Pérez,36269237,115,Neuquén,sofía.pérez@gmail.com,+54 9 11 7908 7386,2023-11-22,573286.77
+C0587,Sofía,Díaz,Sofía Díaz,44272278,106,Córdoba,sofía.díaz@fibertel.com.ar,+54 9 11 2663 7022,2016-02-28,75391.31
+C0588,Carolina,González,Carolina González,28441980,107,Corrientes,carolina.gonzález@speedy.com.ar,+54 9 11 4748 8976,2015-02-20,221833.52
+C0589,Florencia,Rodríguez,Florencia Rodríguez,29738267,121,Santa Fe,florencia.rodríguez@yahoo.com.ar,+54 9 11 4579 4924,2020-04-07,33973.84
+C0590,Carlos,González,Carlos González,37933874,101,Buenos Aires,carlos.gonzález77@yahoo.com.ar,+54 9 11 1601 3463,2019-10-26,7280.78
+C0591,José,Sosa,José Sosa,34966276,107,Corrientes,josé.sosa@gmail.com,+54 9 11 6111 5337,2020-04-08,918003.44
+C0592,Matías,Medina,Matías Medina,34718536,101,Buenos Aires,matías.medina@speedy.com.ar,+54 9 11 2395 8205,2025-06-06,342636.86
+C0593,José,Pérez,José Pérez,28443251,120,San Luis,josé.pérez66@gmail.com,+54 9 11 1745 5480,2024-04-23,173602.11
+C0594,Julieta,Fernández,Julieta Fernández,25336669,101,Buenos Aires,julieta.fernández43@hotmail.com,+54 9 11 4742 8134,2016-11-25,649521.98
+C0595,Sofía,Flores,Sofía Flores,25838276,118,Salta,sofía.flores@fibertel.com.ar,+54 9 11 2236 5840,2021-03-15,669770.26
+C0596,Martín,Herrera,Martín Herrera,39625500,113,Mendoza,martín.herrera@speedy.com.ar,+54 9 11 6228 4644,2018-01-22,56592.05
+C0597,Laura,Pérez,Laura Pérez,26723640,101,Buenos Aires,laura.pérez@speedy.com.ar,+54 9 11 4275 9095,2024-04-17,21470.26
+C0598,Federico,González,Federico González,27805010,114,Misiones,federico.gonzález@gmail.com,+54 9 11 9102 4687,2021-11-07,223040.0
+C0599,José,Medina,José Medina,30478242,101,Buenos Aires,josé.medina@outlook.com,+54 9 11 7230 9030,2020-09-07,96324.83
+C0600,Julieta,Medina,Julieta Medina,37188213,101,Buenos Aires,julieta.medina@outlook.com,+54 9 11 6884 4235,2024-02-27,24656.16
+C0601,Valeria,Ramírez,Valeria Ramírez,41899789,101,Buenos Aires,valeria.ramírez53@hotmail.com,+54 9 11 4473 9918,2019-01-15,118936.58
+C0602,Pablo,Martínez,Pablo Martínez,35602865,112,La Rioja,pablo.martínez44@fibertel.com.ar,+54 9 11 3931 1361,2016-05-06,113698.64
+C0603,Camila,Acosta,Camila Acosta,41077433,112,La Rioja,camila.acosta@hotmail.com,+54 9 11 2696 4958,2023-02-03,177007.97
+C0604,Lucía,Aguirre,Lucía Aguirre,30971254,120,San Luis,lucía.aguirre@outlook.com,+54 9 11 3148 3140,2024-10-13,37671.22
+C0605,María,Acosta,María Acosta,28984663,102,Ciudad Autónoma de Buenos Aires,maría.acosta83@hotmail.com,+54 9 11 3745 6456,2017-04-23,17579.61
+C0606,Camila,Díaz,Camila Díaz,34986486,106,Córdoba,camila.díaz@hotmail.com,+54 9 11 2580 1520,2021-02-01,144276.41
+C0607,Federico,Aguirre,Federico Aguirre,44434322,101,Buenos Aires,federico.aguirre@speedy.com.ar,+54 9 11 4092 9848,2015-04-08,79868.98
+C0608,Diego,Aguirre,Diego Aguirre,37221876,102,Ciudad Autónoma de Buenos Aires,diego.aguirre@outlook.com,+54 9 11 4030 9775,2018-05-26,361440.53
+C0609,Matías,Pérez,Matías Pérez,37542169,102,Ciudad Autónoma de Buenos Aires,matías.pérez11@gmail.com,+54 9 11 7649 2309,2017-11-14,118975.29
+C0610,Laura,Flores,Laura Flores,27370890,101,Buenos Aires,laura.flores54@outlook.com,+54 9 11 1006 8010,2019-06-20,409405.23
+C0611,Valeria,Martínez,Valeria Martínez,34760069,118,Salta,valeria.martínez@fibertel.com.ar,+54 9 11 1574 9331,2019-02-22,87402.85
+C0612,Julieta,Medina,Julieta Medina,28874844,104,Chaco,julieta.medina@outlook.com,+54 9 11 8559 9675,2016-08-21,127522.99
+C0613,Julieta,López,Julieta López,38500080,101,Buenos Aires,julieta.lópez@hotmail.com,+54 9 11 9943 6551,2021-12-22,740548.94
+C0614,Carlos,Benítez,Carlos Benítez,42130813,106,Córdoba,carlos.benítez@fibertel.com.ar,+54 9 11 4351 5897,2023-08-06,100908.52
+C0615,Lucía,Díaz,Lucía Díaz,32209945,102,Ciudad Autónoma de Buenos Aires,lucía.díaz98@speedy.com.ar,+54 9 11 9674 7800,2019-11-23,49713.58
+C0616,Diego,Ramírez,Diego Ramírez,35138055,101,Buenos Aires,diego.ramírez@fibertel.com.ar,+54 9 11 2679 5517,2025-04-10,593635.31
+C0617,Camila,Acosta,Camila Acosta,41013766,120,San Luis,camila.acosta46@hotmail.com,+54 9 11 6419 5073,2021-12-24,253596.77
+C0618,Florencia,Torres,Florencia Torres,30364357,101,Buenos Aires,florencia.torres@gmail.com,+54 9 11 4660 7830,2019-12-02,77809.63
+C0619,Ana,Benítez,Ana Benítez,34322589,102,Ciudad Autónoma de Buenos Aires,ana.benítez91@fibertel.com.ar,+54 9 11 2469 9164,2016-12-12,262311.92
+C0620,Florencia,Herrera,Florencia Herrera,28912766,108,Entre Ríos,florencia.herrera@speedy.com.ar,+54 9 11 9596 4190,2015-02-05,103427.53
+C0621,Julieta,Sánchez,Julieta Sánchez,29601138,101,Buenos Aires,julieta.sánchez@gmail.com,+54 9 11 9851 2760,2024-01-27,90346.24
+C0622,Lucía,Fernández,Lucía Fernández,39496486,101,Buenos Aires,lucía.fernández@gmail.com,+54 9 11 3300 1757,2018-01-14,130570.05
+C0623,Valeria,Sánchez,Valeria Sánchez,31933387,101,Buenos Aires,valeria.sánchez96@gmail.com,+54 9 11 1638 8877,2020-12-07,33041.96
+C0624,Luis,Herrera,Luis Herrera,43219098,102,Ciudad Autónoma de Buenos Aires,luis.herrera@yahoo.com.ar,+54 9 11 6854 1768,2018-09-16,69138.59
+C0625,María,Sosa,María Sosa,38631519,108,Entre Ríos,maría.sosa@gmail.com,+54 9 11 5814 7734,2016-02-05,92490.92
+C0626,Sofía,Torres,Sofía Torres,27117952,124,Tucumán,sofía.torres@gmail.com,+54 9 11 2460 6750,2022-03-30,58282.1
+C0627,Carolina,Martínez,Carolina Martínez,36723579,116,Río Negro,carolina.martínez@outlook.com,+54 9 11 9061 2742,2025-08-31,6412.56
+C0628,Matías,Medina,Matías Medina,29719541,101,Buenos Aires,matías.medina83@gmail.com,+54 9 11 8022 8073,2020-07-31,135900.5
+C0629,Pablo,Pérez,Pablo Pérez,25011626,101,Buenos Aires,pablo.pérez99@speedy.com.ar,+54 9 11 6038 7396,2022-04-05,406661.97
+C0630,Luis,Herrera,Luis Herrera,34927741,102,Ciudad Autónoma de Buenos Aires,luis.herrera@speedy.com.ar,+54 9 11 5787 9583,2017-02-16,13886.96
+C0631,Carlos,Martínez,Carlos Martínez,40706878,116,Río Negro,carlos.martínez@hotmail.com,+54 9 11 1738 6872,2022-11-01,386864.21
+C0632,Lucía,Torres,Lucía Torres,36762866,113,Mendoza,lucía.torres@yahoo.com.ar,+54 9 11 6417 2569,2021-03-22,250274.63
+C0633,Gabriel,Flores,Gabriel Flores,41236680,102,Ciudad Autónoma de Buenos Aires,gabriel.flores@speedy.com.ar,+54 9 11 5171 8739,2017-06-04,26392.27
+C0634,Valeria,Pérez,Valeria Pérez,35325269,124,Tucumán,valeria.pérez@gmail.com,+54 9 11 5932 2017,2016-09-12,10550.24
+C0635,Sofía,Romero,Sofía Romero,39671597,101,Buenos Aires,sofía.romero@speedy.com.ar,+54 9 11 4151 4119,2017-12-17,50680.3
+C0636,Federico,Romero,Federico Romero,37546116,101,Buenos Aires,federico.romero@yahoo.com.ar,+54 9 11 7239 1021,2019-11-14,66738.08
+C0637,Gabriel,Medina,Gabriel Medina,34843433,102,Ciudad Autónoma de Buenos Aires,gabriel.medina@hotmail.com,+54 9 11 3126 6129,2023-02-12,528441.13
+C0638,Gabriel,Acosta,Gabriel Acosta,27908176,102,Ciudad Autónoma de Buenos Aires,gabriel.acosta@hotmail.com,+54 9 11 9903 9074,2015-01-25,90954.51
+C0639,Florencia,Ramírez,Florencia Ramírez,30594767,101,Buenos Aires,florencia.ramírez@yahoo.com.ar,+54 9 11 5950 6391,2020-05-04,499664.38
+C0640,Valeria,Rodríguez,Valeria Rodríguez,33555327,101,Buenos Aires,valeria.rodríguez@outlook.com,+54 9 11 8000 4407,2024-08-12,11813.43
+C0641,Laura,Gómez,Laura Gómez,27344029,101,Buenos Aires,laura.gómez@speedy.com.ar,+54 9 11 7903 4975,2016-07-29,262996.99
+C0642,José,Torres,José Torres,33109182,101,Buenos Aires,josé.torres@gmail.com,+54 9 11 1995 6047,2020-07-18,12958.99
+C0643,José,Flores,José Flores,29227491,110,Jujuy,josé.flores@hotmail.com,+54 9 11 6053 9943,2016-11-07,129751.23
+C0644,Valeria,Herrera,Valeria Herrera,25330985,102,Ciudad Autónoma de Buenos Aires,valeria.herrera@gmail.com,+54 9 11 4160 1338,2025-09-14,21425.6
+C0645,Carlos,González,Carlos González,38418959,122,Santiago del Estero,carlos.gonzález@fibertel.com.ar,+54 9 11 4446 5184,2025-03-27,107921.13
+C0646,Martín,López,Martín López,36316238,107,Corrientes,martín.lópez@speedy.com.ar,+54 9 11 6807 5761,2021-03-13,124410.53
+C0647,Pablo,Benítez,Pablo Benítez,30600994,102,Ciudad Autónoma de Buenos Aires,pablo.benítez@fibertel.com.ar,+54 9 11 1887 5290,2018-08-13,1521510.4
+C0648,Matías,Torres,Matías Torres,32304316,106,Córdoba,matías.torres@speedy.com.ar,+54 9 11 5089 4044,2024-03-05,775006.57
+C0649,Diego,Herrera,Diego Herrera,34013542,124,Tucumán,diego.herrera@fibertel.com.ar,+54 9 11 8696 5760,2020-05-01,112879.69
+C0650,Valeria,González,Valeria González,35517211,101,Buenos Aires,valeria.gonzález@yahoo.com.ar,+54 9 11 9646 3352,2021-05-14,17586.3
+C0651,Gabriel,López,Gabriel López,25642014,119,San Juan,gabriel.lópez60@speedy.com.ar,+54 9 11 1212 7778,2015-09-24,88073.47
+C0652,Pablo,Sosa,Pablo Sosa,28586661,107,Corrientes,pablo.sosa34@hotmail.com,+54 9 11 8611 3858,2016-02-16,81274.32
+C0653,Matías,Benítez,Matías Benítez,42882743,101,Buenos Aires,matías.benítez@speedy.com.ar,+54 9 11 4547 5527,2020-07-25,117210.98
+C0654,Carolina,Medina,Carolina Medina,42925796,106,Córdoba,carolina.medina@gmail.com,+54 9 11 1606 7432,2025-06-06,79252.04
+C0655,Federico,Fernández,Federico Fernández,37623073,106,Córdoba,federico.fernández@speedy.com.ar,+54 9 11 6613 3205,2019-09-17,118930.09
+C0656,Florencia,Acosta,Florencia Acosta,38642245,121,Santa Fe,florencia.acosta@outlook.com,+54 9 11 5323 5938,2020-11-12,475566.42
+C0657,Sofía,Medina,Sofía Medina,40822465,101,Buenos Aires,sofía.medina@yahoo.com.ar,+54 9 11 2757 5098,2018-02-06,561188.25
+C0658,Martín,Flores,Martín Flores,29670164,102,Ciudad Autónoma de Buenos Aires,martín.flores@fibertel.com.ar,+54 9 11 9530 2452,2019-11-12,87721.6
+C0659,María,Martínez,María Martínez,34978267,121,Santa Fe,maría.martínez@yahoo.com.ar,+54 9 11 2053 4095,2021-05-27,748476.37
+C0660,Juan,Medina,Juan Medina,32985784,101,Buenos Aires,juan.medina@speedy.com.ar,+54 9 11 5543 8708,2019-11-11,373746.16
+C0661,Sofía,Flores,Sofía Flores,44722507,105,Chubut,sofía.flores53@yahoo.com.ar,+54 9 11 6703 1928,2025-10-09,77404.19
+C0662,José,López,José López,34610614,107,Corrientes,josé.lópez@outlook.com,+54 9 11 4707 6745,2025-11-14,131887.34
+C0663,Ana,Pérez,Ana Pérez,25752023,102,Ciudad Autónoma de Buenos Aires,ana.pérez16@gmail.com,+54 9 11 2756 4045,2018-08-11,76591.08
+C0664,Sofía,Medina,Sofía Medina,28355442,102,Ciudad Autónoma de Buenos Aires,sofía.medina@gmail.com,+54 9 11 5008 7759,2019-06-30,62589.03
+C0665,José,Torres,José Torres,34278383,101,Buenos Aires,josé.torres@fibertel.com.ar,+54 9 11 9396 2433,2021-12-04,135644.09
+C0666,Gabriel,Fernández,Gabriel Fernández,25278985,105,Chubut,gabriel.fernández@fibertel.com.ar,+54 9 11 6730 2585,2019-06-16,23990.6
+C0667,Matías,Medina,Matías Medina,27499242,101,Buenos Aires,matías.medina@gmail.com,+54 9 11 9733 9262,2019-05-05,16323.15
+C0668,Laura,Aguirre,Laura Aguirre,39012883,102,Ciudad Autónoma de Buenos Aires,laura.aguirre@yahoo.com.ar,+54 9 11 7154 6823,2017-08-05,82820.35
+C0669,Federico,Benítez,Federico Benítez,33731836,101,Buenos Aires,federico.benítez@yahoo.com.ar,+54 9 11 2658 8151,2016-02-25,137775.81
+C0670,Laura,Acosta,Laura Acosta,34651599,102,Ciudad Autónoma de Buenos Aires,laura.acosta11@gmail.com,+54 9 11 7875 6463,2025-06-29,759051.87
+C0671,Carolina,Martínez,Carolina Martínez,40305667,102,Ciudad Autónoma de Buenos Aires,carolina.martínez23@outlook.com,+54 9 11 2577 6488,2022-10-26,38536.57
+C0672,Federico,Sánchez,Federico Sánchez,44221418,101,Buenos Aires,federico.sánchez89@outlook.com,+54 9 11 4578 2061,2020-05-27,12684.6
+C0673,Florencia,González,Florencia González,43507815,101,Buenos Aires,florencia.gonzález14@fibertel.com.ar,+54 9 11 7005 2544,2020-04-27,56688.47
+C0674,Diego,Herrera,Diego Herrera,40469158,102,Ciudad Autónoma de Buenos Aires,diego.herrera@hotmail.com,+54 9 11 8971 4624,2022-06-19,96766.39
+C0675,José,Díaz,José Díaz,29558352,101,Buenos Aires,josé.díaz67@gmail.com,+54 9 11 1643 5925,2017-05-22,395663.69
+C0676,Diego,Flores,Diego Flores,30340523,102,Ciudad Autónoma de Buenos Aires,diego.flores@gmail.com,+54 9 11 5945 7261,2018-02-05,39899.99
+C0677,Martín,González,Martín González,39218762,113,Mendoza,martín.gonzález@yahoo.com.ar,+54 9 11 1940 2130,2019-01-22,29615.63
+C0678,Camila,Ruiz,Camila Ruiz,27108738,121,Santa Fe,camila.ruiz26@fibertel.com.ar,+54 9 11 8002 7574,2021-10-29,487856.04
+C0679,Carolina,Ruiz,Carolina Ruiz,37858550,101,Buenos Aires,carolina.ruiz81@fibertel.com.ar,+54 9 11 1665 9895,2020-01-30,146565.42
+C0680,María,Ruiz,María Ruiz,34490705,101,Buenos Aires,maría.ruiz@fibertel.com.ar,+54 9 11 5387 6669,2018-01-12,129827.0
+C0681,Federico,Díaz,Federico Díaz,39711303,106,Córdoba,federico.díaz@gmail.com,+54 9 11 6184 5712,2015-01-09,13244.69
+C0682,Lucía,Herrera,Lucía Herrera,27625143,106,Córdoba,lucía.herrera27@yahoo.com.ar,+54 9 11 1899 8590,2020-10-30,145409.39
+C0683,Federico,Acosta,Federico Acosta,37718708,116,Río Negro,federico.acosta@yahoo.com.ar,+54 9 11 1530 4960,2022-12-21,75492.42
+C0684,José,Gómez,José Gómez,37431310,106,Córdoba,josé.gómez@yahoo.com.ar,+54 9 11 2445 3172,2021-01-28,390125.51
+C0685,Juan,Díaz,Juan Díaz,30374377,118,Salta,juan.díaz@speedy.com.ar,+54 9 11 2821 9670,2022-12-19,297115.22
+C0686,Florencia,Fernández,Florencia Fernández,43065172,108,Entre Ríos,florencia.fernández@yahoo.com.ar,+54 9 11 4791 8026,2024-03-12,113180.78
+C0687,Carlos,Gómez,Carlos Gómez,42512481,121,Santa Fe,carlos.gómez@outlook.com,+54 9 11 7489 6664,2023-03-10,39662.06
+C0688,Diego,Pérez,Diego Pérez,35164217,106,Córdoba,diego.pérez@yahoo.com.ar,+54 9 11 4858 3929,2015-07-14,56294.9
+C0689,Martín,Medina,Martín Medina,38225197,121,Santa Fe,martín.medina61@fibertel.com.ar,+54 9 11 6171 9164,2021-07-04,107037.18
+C0690,Valeria,González,Valeria González,28439451,101,Buenos Aires,valeria.gonzález@yahoo.com.ar,+54 9 11 3021 5565,2022-06-10,80414.52
+C0691,Pablo,Medina,Pablo Medina,40054250,101,Buenos Aires,pablo.medina@speedy.com.ar,+54 9 11 5880 2647,2017-08-26,74704.71
+C0692,Martín,Benítez,Martín Benítez,28131214,101,Buenos Aires,martín.benítez80@hotmail.com,+54 9 11 2073 4988,2016-07-19,51595.77
+C0693,Carolina,González,Carolina González,30641170,102,Ciudad Autónoma de Buenos Aires,carolina.gonzález@yahoo.com.ar,+54 9 11 7862 1650,2020-06-23,44285.1
+C0694,Juan,Acosta,Juan Acosta,44788381,107,Corrientes,juan.acosta@hotmail.com,+54 9 11 5894 3596,2019-05-28,354255.16
+C0695,José,Herrera,José Herrera,34113977,102,Ciudad Autónoma de Buenos Aires,josé.herrera@outlook.com,+54 9 11 3173 6274,2016-08-22,119320.14
+C0696,Julieta,Díaz,Julieta Díaz,25638325,101,Buenos Aires,julieta.díaz@hotmail.com,+54 9 11 7321 7553,2018-02-13,21505.85
+C0697,Matías,López,Matías López,39744955,113,Mendoza,matías.lópez@fibertel.com.ar,+54 9 11 3563 6203,2020-12-27,74659.61
+C0698,María,Gómez,María Gómez,32419599,102,Ciudad Autónoma de Buenos Aires,maría.gómez@fibertel.com.ar,+54 9 11 1476 4056,2021-08-10,603720.6
+C0699,José,Aguirre,José Aguirre,38454771,106,Córdoba,josé.aguirre@hotmail.com,+54 9 11 5282 9335,2024-06-19,61171.92
+C0700,Julieta,Torres,Julieta Torres,37118009,103,Catamarca,julieta.torres41@yahoo.com.ar,+54 9 11 3938 3437,2016-05-13,86578.46
+C0701,Diego,Torres,Diego Torres,34663563,121,Santa Fe,diego.torres57@yahoo.com.ar,+54 9 11 6763 8611,2018-04-28,1871578.94
+C0702,Ana,Acosta,Ana Acosta,36584782,101,Buenos Aires,ana.acosta@gmail.com,+54 9 11 6872 8556,2024-06-15,73168.38
+C0703,Gabriel,Rodríguez,Gabriel Rodríguez,43263474,101,Buenos Aires,gabriel.rodríguez@hotmail.com,+54 9 11 7315 7612,2019-09-30,645811.61
+C0704,Lucía,Ramírez,Lucía Ramírez,32508949,101,Buenos Aires,lucía.ramírez@speedy.com.ar,+54 9 11 7435 5413,2019-10-28,112612.92
+C0705,Martín,Torres,Martín Torres,34570788,102,Ciudad Autónoma de Buenos Aires,martín.torres@outlook.com,+54 9 11 9425 7320,2018-07-22,105657.55
+C0706,Luis,Sosa,Luis Sosa,43272507,101,Buenos Aires,luis.sosa@outlook.com,+54 9 11 3164 3713,2016-06-11,3046999.8
+C0707,Julieta,Acosta,Julieta Acosta,34402119,103,Catamarca,julieta.acosta@speedy.com.ar,+54 9 11 9980 9095,2022-03-30,274533.0
+C0708,Pablo,Pérez,Pablo Pérez,25541074,124,Tucumán,pablo.pérez@fibertel.com.ar,+54 9 11 2827 2222,2024-02-16,212254.54
+C0709,Florencia,Martínez,Florencia Martínez,30880906,102,Ciudad Autónoma de Buenos Aires,florencia.martínez29@gmail.com,+54 9 11 4049 9313,2019-08-04,413601.21
+C0710,Martín,Herrera,Martín Herrera,26480233,119,San Juan,martín.herrera@fibertel.com.ar,+54 9 11 3102 2928,2022-01-10,392888.33
+C0711,Valeria,Fernández,Valeria Fernández,34784766,111,La Pampa,valeria.fernández25@speedy.com.ar,+54 9 11 4406 9603,2017-07-07,85070.76
+C0712,Florencia,Ruiz,Florencia Ruiz,43954845,102,Ciudad Autónoma de Buenos Aires,florencia.ruiz@outlook.com,+54 9 11 9484 7071,2015-07-15,68739.68
+C0713,Luis,Herrera,Luis Herrera,44958296,101,Buenos Aires,luis.herrera@outlook.com,+54 9 11 2012 2597,2020-08-17,163543.78
+C0714,Carlos,Pérez,Carlos Pérez,30903308,101,Buenos Aires,carlos.pérez@gmail.com,+54 9 11 8725 7641,2022-08-15,731465.67
+C0715,José,Sánchez,José Sánchez,42800960,102,Ciudad Autónoma de Buenos Aires,josé.sánchez@speedy.com.ar,+54 9 11 4072 2320,2020-03-06,240518.52
+C0716,José,Acosta,José Acosta,37154530,103,Catamarca,josé.acosta@fibertel.com.ar,+54 9 11 4418 2201,2018-06-01,774428.32
+C0717,Matías,Benítez,Matías Benítez,43768059,101,Buenos Aires,matías.benítez@yahoo.com.ar,+54 9 11 8925 3900,2019-02-04,106390.51
+C0718,Ana,Benítez,Ana Benítez,39528888,102,Ciudad Autónoma de Buenos Aires,ana.benítez93@hotmail.com,+54 9 11 9759 5453,2021-01-22,144760.97
+C0719,Carlos,González,Carlos González,44453615,122,Santiago del Estero,carlos.gonzález@outlook.com,+54 9 11 4078 5381,2020-07-29,73676.44
+C0720,Pablo,Díaz,Pablo Díaz,42581477,102,Ciudad Autónoma de Buenos Aires,pablo.díaz@fibertel.com.ar,+54 9 11 8367 6515,2016-07-23,101945.29
+C0721,Federico,Romero,Federico Romero,38103264,104,Chaco,federico.romero@outlook.com,+54 9 11 2263 4961,2018-10-25,123487.62
+C0722,Florencia,Herrera,Florencia Herrera,42014918,102,Ciudad Autónoma de Buenos Aires,florencia.herrera81@gmail.com,+54 9 11 1223 2843,2021-08-07,755129.07
+C0723,José,Medina,José Medina,33852164,104,Chaco,josé.medina@gmail.com,+54 9 11 4563 4513,2015-12-02,105409.85
+C0724,Laura,Torres,Laura Torres,33618521,106,Córdoba,laura.torres46@outlook.com,+54 9 11 3442 9085,2023-05-10,93000.79
+C0725,María,Benítez,María Benítez,35241430,101,Buenos Aires,maría.benítez18@gmail.com,+54 9 11 3704 9984,2020-10-25,93056.45
+C0726,María,Rodríguez,María Rodríguez,41258139,102,Ciudad Autónoma de Buenos Aires,maría.rodríguez@yahoo.com.ar,+54 9 11 9437 1839,2023-12-17,117335.71
+C0727,Diego,Ramírez,Diego Ramírez,38116804,102,Ciudad Autónoma de Buenos Aires,diego.ramírez51@hotmail.com,+54 9 11 7288 6495,2019-05-19,702175.76
+C0728,Lucía,López,Lucía López,29208362,121,Santa Fe,lucía.lópez@outlook.com,+54 9 11 8110 9955,2024-05-18,119051.62
+C0729,Federico,Herrera,Federico Herrera,31449708,101,Buenos Aires,federico.herrera@hotmail.com,+54 9 11 2023 6523,2018-08-14,49608.18
+C0730,Camila,Flores,Camila Flores,41103118,112,La Rioja,camila.flores@yahoo.com.ar,+54 9 11 9903 1347,2017-05-24,769117.16
+C0731,Luis,Romero,Luis Romero,38152860,106,Córdoba,luis.romero@yahoo.com.ar,+54 9 11 7397 3926,2018-07-17,8145.81
+C0732,Ana,Romero,Ana Romero,37356524,119,San Juan,ana.romero@outlook.com,+54 9 11 6560 9725,2023-02-24,663425.7
+C0733,Pablo,Acosta,Pablo Acosta,33449096,107,Corrientes,pablo.acosta@outlook.com,+54 9 11 5457 7217,2018-02-08,481386.5
+C0734,Ana,Díaz,Ana Díaz,41221577,101,Buenos Aires,ana.díaz@yahoo.com.ar,+54 9 11 6698 7551,2018-06-11,73031.71
+C0735,Matías,López,Matías López,26830412,102,Ciudad Autónoma de Buenos Aires,matías.lópez62@hotmail.com,+54 9 11 7188 6939,2023-12-21,311694.81
+C0736,Martín,Benítez,Martín Benítez,31644939,101,Buenos Aires,martín.benítez@speedy.com.ar,+54 9 11 1344 6762,2018-03-03,18393.84
+C0737,Diego,Gómez,Diego Gómez,35966064,107,Corrientes,diego.gómez@outlook.com,+54 9 11 3977 5606,2019-06-11,146138.16
+C0738,Carlos,Martínez,Carlos Martínez,36576237,121,Santa Fe,carlos.martínez@yahoo.com.ar,+54 9 11 7089 5068,2018-01-01,578681.87
+C0739,María,Acosta,María Acosta,43381724,118,Salta,maría.acosta@speedy.com.ar,+54 9 11 5886 2301,2022-12-01,114668.98
+C0740,Diego,Torres,Diego Torres,42946228,101,Buenos Aires,diego.torres58@hotmail.com,+54 9 11 4928 3455,2021-10-15,77832.03
+C0741,Carolina,Sosa,Carolina Sosa,40715621,101,Buenos Aires,carolina.sosa@outlook.com,+54 9 11 9811 3263,2025-08-09,74588.03
+C0742,Diego,Sosa,Diego Sosa,44545234,124,Tucumán,diego.sosa@outlook.com,+54 9 11 8396 2787,2021-08-27,60719.14
+C0743,Ana,Gómez,Ana Gómez,29070449,110,Jujuy,ana.gómez10@hotmail.com,+54 9 11 6982 4084,2025-02-18,140930.11
+C0744,Sofía,Gómez,Sofía Gómez,43986754,101,Buenos Aires,sofía.gómez@hotmail.com,+54 9 11 1760 8721,2017-08-30,90775.47
+C0745,Matías,Díaz,Matías Díaz,39431937,106,Córdoba,matías.díaz70@hotmail.com,+54 9 11 2217 4770,2015-06-29,83698.53
+C0746,Julieta,Díaz,Julieta Díaz,40379944,102,Ciudad Autónoma de Buenos Aires,julieta.díaz@outlook.com,+54 9 11 2953 8731,2018-08-31,80322.66
+C0747,Carolina,Sosa,Carolina Sosa,34012630,102,Ciudad Autónoma de Buenos Aires,carolina.sosa84@speedy.com.ar,+54 9 11 4796 8748,2025-02-13,160486.21
+C0748,Juan,Fernández,Juan Fernández,27211323,106,Córdoba,juan.fernández@gmail.com,+54 9 11 2330 5884,2019-09-26,228749.73
+C0749,Julieta,López,Julieta López,43750098,108,Entre Ríos,julieta.lópez@gmail.com,+54 9 11 3394 9587,2018-05-04,125875.58
+C0750,Federico,Sosa,Federico Sosa,28384862,101,Buenos Aires,federico.sosa@outlook.com,+54 9 11 2911 7760,2021-03-26,133207.67
+C0751,Laura,Sosa,Laura Sosa,39760322,101,Buenos Aires,laura.sosa@outlook.com,+54 9 11 9432 5196,2018-01-16,32260.42
+C0752,Luis,Benítez,Luis Benítez,44556277,104,Chaco,luis.benítez@fibertel.com.ar,+54 9 11 3602 4110,2015-01-29,111204.22
+C0753,Valeria,Martínez,Valeria Martínez,29010624,101,Buenos Aires,valeria.martínez@yahoo.com.ar,+54 9 11 5957 8001,2024-08-23,121407.19
+C0754,Martín,Aguirre,Martín Aguirre,29933297,113,Mendoza,martín.aguirre@gmail.com,+54 9 11 4073 8090,2022-05-07,79793.8
+C0755,Gabriel,Gómez,Gabriel Gómez,32941229,101,Buenos Aires,gabriel.gómez46@hotmail.com,+54 9 11 5055 2880,2017-09-14,45226.11
+C0756,Luis,González,Luis González,32307503,101,Buenos Aires,luis.gonzález@gmail.com,+54 9 11 5364 8012,2015-02-01,198287.38
+C0757,Julieta,Sosa,Julieta Sosa,34107095,106,Córdoba,julieta.sosa@gmail.com,+54 9 11 8933 1356,2024-09-06,143430.39
+C0758,Sofía,Acosta,Sofía Acosta,35263666,101,Buenos Aires,sofía.acosta83@yahoo.com.ar,+54 9 11 7400 5554,2019-02-26,91945.91
+C0759,Carlos,Ruiz,Carlos Ruiz,39963409,102,Ciudad Autónoma de Buenos Aires,carlos.ruiz51@yahoo.com.ar,+54 9 11 2063 6100,2018-06-07,100325.72
+C0760,Valeria,Torres,Valeria Torres,38300146,101,Buenos Aires,valeria.torres@fibertel.com.ar,+54 9 11 1936 3441,2016-09-18,25858.39
+C0761,María,Rodríguez,María Rodríguez,42250180,121,Santa Fe,maría.rodríguez@hotmail.com,+54 9 11 7548 9669,2016-03-04,51369.88
+C0762,Laura,Sosa,Laura Sosa,34974777,107,Corrientes,laura.sosa@gmail.com,+54 9 11 3716 7040,2015-06-23,59034.68
+C0763,Camila,Ramírez,Camila Ramírez,35018239,101,Buenos Aires,camila.ramírez@fibertel.com.ar,+54 9 11 5969 5232,2022-03-09,39827.25
+C0764,Carlos,Medina,Carlos Medina,31918462,101,Buenos Aires,carlos.medina@yahoo.com.ar,+54 9 11 1606 7347,2016-09-27,318358.42
+C0765,Ana,Torres,Ana Torres,38006346,101,Buenos Aires,ana.torres@outlook.com,+54 9 11 3097 1308,2023-08-16,4631030.56
+C0766,María,Aguirre,María Aguirre,32987775,106,Córdoba,maría.aguirre@gmail.com,+54 9 11 5276 4465,2025-02-04,417097.4
+C0767,Carlos,González,Carlos González,31783215,101,Buenos Aires,carlos.gonzález@yahoo.com.ar,+54 9 11 3137 8832,2017-06-04,51914.99
+C0768,Florencia,Pérez,Florencia Pérez,32475641,120,San Luis,florencia.pérez@outlook.com,+54 9 11 6234 3486,2020-03-22,125181.04
+C0769,Federico,Martínez,Federico Martínez,28018112,102,Ciudad Autónoma de Buenos Aires,federico.martínez19@speedy.com.ar,+54 9 11 3777 8030,2019-07-14,82436.25
+C0770,Martín,Herrera,Martín Herrera,37406585,119,San Juan,martín.herrera@hotmail.com,+54 9 11 3214 8723,2022-07-18,68766.48
+C0771,Valeria,Pérez,Valeria Pérez,27630895,107,Corrientes,valeria.pérez71@speedy.com.ar,+54 9 11 5190 1012,2019-03-09,420702.61
+C0772,Camila,Aguirre,Camila Aguirre,39807134,124,Tucumán,camila.aguirre@fibertel.com.ar,+54 9 11 7287 8581,2017-10-30,749357.93
+C0773,Matías,Pérez,Matías Pérez,42104558,101,Buenos Aires,matías.pérez@gmail.com,+54 9 11 2752 2427,2015-08-04,23459.76
+C0774,Ana,López,Ana López,32262118,101,Buenos Aires,ana.lópez@fibertel.com.ar,+54 9 11 4095 3056,2024-07-26,35199.64
+C0775,Valeria,Ramírez,Valeria Ramírez,43748707,121,Santa Fe,valeria.ramírez@gmail.com,+54 9 11 7681 6869,2021-04-05,45289.78
+C0776,Matías,Torres,Matías Torres,36517372,102,Ciudad Autónoma de Buenos Aires,matías.torres@outlook.com,+54 9 11 8108 2026,2017-02-26,244504.33
+C0777,Florencia,Gómez,Florencia Gómez,30446286,110,Jujuy,florencia.gómez@hotmail.com,+54 9 11 3115 1929,2015-10-10,99466.77
+C0778,Julieta,Díaz,Julieta Díaz,25613471,106,Córdoba,julieta.díaz47@fibertel.com.ar,+54 9 11 6229 5449,2015-06-29,28089.41
+C0779,Martín,Medina,Martín Medina,32375793,101,Buenos Aires,martín.medina@hotmail.com,+54 9 11 9797 5247,2019-07-24,667863.84
+C0780,Martín,Martínez,Martín Martínez,43154064,121,Santa Fe,martín.martínez34@fibertel.com.ar,+54 9 11 4241 7966,2025-06-21,47015.1
+C0781,Florencia,Martínez,Florencia Martínez,36671395,108,Entre Ríos,florencia.martínez50@hotmail.com,+54 9 11 4321 7642,2023-01-22,342388.37
+C0782,Lucía,Torres,Lucía Torres,28242187,101,Buenos Aires,lucía.torres@speedy.com.ar,+54 9 11 3244 8216,2020-07-17,695710.43
+C0783,Valeria,Torres,Valeria Torres,38972069,101,Buenos Aires,valeria.torres@outlook.com,+54 9 11 7450 8155,2015-05-20,114307.23
+C0784,Sofía,Aguirre,Sofía Aguirre,40600447,101,Buenos Aires,sofía.aguirre@hotmail.com,+54 9 11 5124 2358,2024-06-01,211680.92
+C0785,Ana,Aguirre,Ana Aguirre,32113492,101,Buenos Aires,ana.aguirre12@speedy.com.ar,+54 9 11 5266 3267,2024-05-23,327033.74
+C0786,Valeria,Benítez,Valeria Benítez,35854481,106,Córdoba,valeria.benítez@yahoo.com.ar,+54 9 11 1907 4706,2020-12-23,35168.32
+C0787,Juan,Acosta,Juan Acosta,35422504,122,Santiago del Estero,juan.acosta20@fibertel.com.ar,+54 9 11 7689 8719,2019-05-12,100143.12
+C0788,Diego,Díaz,Diego Díaz,25168725,101,Buenos Aires,diego.díaz23@hotmail.com,+54 9 11 9113 9324,2018-07-29,146295.56
+C0789,Carlos,Romero,Carlos Romero,41123465,107,Corrientes,carlos.romero67@yahoo.com.ar,+54 9 11 4870 8985,2021-08-30,259624.99
+C0790,Diego,Díaz,Diego Díaz,36189596,102,Ciudad Autónoma de Buenos Aires,diego.díaz@gmail.com,+54 9 11 5597 6425,2024-07-28,730723.41
+C0791,Martín,Ruiz,Martín Ruiz,42909564,102,Ciudad Autónoma de Buenos Aires,martín.ruiz55@outlook.com,+54 9 11 4589 1694,2017-11-12,113847.91
+C0792,Julieta,López,Julieta López,40610890,106,Córdoba,julieta.lópez@outlook.com,+54 9 11 6918 1225,2020-03-14,107053.36
+C0793,Martín,Rodríguez,Martín Rodríguez,30173800,101,Buenos Aires,martín.rodríguez@speedy.com.ar,+54 9 11 3489 8901,2022-07-16,103957.64
+C0794,Carlos,Flores,Carlos Flores,30558055,101,Buenos Aires,carlos.flores@speedy.com.ar,+54 9 11 7812 3125,2022-09-23,713356.79
+C0795,Gabriel,Flores,Gabriel Flores,35002355,107,Corrientes,gabriel.flores@hotmail.com,+54 9 11 5932 3142,2017-04-06,105527.69
+C0796,Lucía,Ramírez,Lucía Ramírez,36208088,102,Ciudad Autónoma de Buenos Aires,lucía.ramírez78@yahoo.com.ar,+54 9 11 9568 7525,2019-04-14,130243.75
+C0797,Camila,Rodríguez,Camila Rodríguez,31818032,101,Buenos Aires,camila.rodríguez@speedy.com.ar,+54 9 11 8740 9258,2015-04-13,773271.99
+C0798,Valeria,Ramírez,Valeria Ramírez,40527485,101,Buenos Aires,valeria.ramírez@outlook.com,+54 9 11 2526 2203,2017-03-09,63704.81
+C0799,Laura,González,Laura González,31737814,102,Ciudad Autónoma de Buenos Aires,laura.gonzález@speedy.com.ar,+54 9 11 4735 1790,2023-10-18,105036.04
+C0800,Luis,Benítez,Luis Benítez,33677524,104,Chaco,luis.benítez@hotmail.com,+54 9 11 7917 2657,2024-05-26,126765.15
+C0801,Diego,Sosa,Diego Sosa,29949174,101,Buenos Aires,diego.sosa@gmail.com,+54 9 11 2347 4910,2021-04-02,93950.11
+C0802,Carlos,Ruiz,Carlos Ruiz,29016527,102,Ciudad Autónoma de Buenos Aires,carlos.ruiz@fibertel.com.ar,+54 9 11 8374 5783,2023-07-02,149713.48
+C0803,Gabriel,Díaz,Gabriel Díaz,25005571,101,Buenos Aires,gabriel.díaz@gmail.com,+54 9 11 3913 1820,2016-04-15,32065.23
+C0804,Pablo,Sosa,Pablo Sosa,36137782,104,Chaco,pablo.sosa79@fibertel.com.ar,+54 9 11 9137 1826,2017-07-12,131245.34
+C0805,Federico,Aguirre,Federico Aguirre,36891193,101,Buenos Aires,federico.aguirre95@fibertel.com.ar,+54 9 11 7639 9576,2017-01-28,775724.77
+C0806,Valeria,Medina,Valeria Medina,28016596,118,Salta,valeria.medina@fibertel.com.ar,+54 9 11 9466 7995,2020-08-08,121700.42
+C0807,Federico,González,Federico González,25053851,124,Tucumán,federico.gonzález@hotmail.com,+54 9 11 8554 9264,2016-04-13,108034.25
+C0808,Matías,Flores,Matías Flores,28275963,101,Buenos Aires,matías.flores24@outlook.com,+54 9 11 4563 8148,2019-12-09,358785.82
+C0809,Martín,Torres,Martín Torres,31715354,102,Ciudad Autónoma de Buenos Aires,martín.torres@yahoo.com.ar,+54 9 11 8328 9096,2025-07-05,110556.31
+C0810,Valeria,González,Valeria González,26329310,106,Córdoba,valeria.gonzález@yahoo.com.ar,+54 9 11 8838 5196,2024-08-09,31074.54
+C0811,Ana,Romero,Ana Romero,32866236,105,Chubut,ana.romero@hotmail.com,+54 9 11 4673 3113,2019-09-07,434227.92
+C0812,Sofía,Flores,Sofía Flores,32447733,119,San Juan,sofía.flores@gmail.com,+54 9 11 1271 2337,2025-11-04,314002.59
+C0813,Carolina,Sosa,Carolina Sosa,35032047,102,Ciudad Autónoma de Buenos Aires,carolina.sosa14@yahoo.com.ar,+54 9 11 8882 9664,2017-08-25,145818.81
+C0814,Lucía,Benítez,Lucía Benítez,38533959,101,Buenos Aires,lucía.benítez@fibertel.com.ar,+54 9 11 3346 9873,2016-09-10,141035.32
+C0815,María,Medina,María Medina,28482046,106,Córdoba,maría.medina@outlook.com,+54 9 11 8720 2954,2021-08-02,21384.65
+C0816,Sofía,Fernández,Sofía Fernández,42062881,102,Ciudad Autónoma de Buenos Aires,sofía.fernández25@outlook.com,+54 9 11 6782 6677,2020-07-05,195374.81
+C0817,Matías,Flores,Matías Flores,33932694,102,Ciudad Autónoma de Buenos Aires,matías.flores@yahoo.com.ar,+54 9 11 2850 5812,2017-12-23,26324.5
+C0818,Gabriel,Rodríguez,Gabriel Rodríguez,42133826,102,Ciudad Autónoma de Buenos Aires,gabriel.rodríguez@fibertel.com.ar,+54 9 11 7267 7564,2021-02-22,102094.02
+C0819,José,Aguirre,José Aguirre,40952332,102,Ciudad Autónoma de Buenos Aires,josé.aguirre@gmail.com,+54 9 11 5373 9989,2025-06-06,109525.51
+C0820,Juan,Romero,Juan Romero,37196433,104,Chaco,juan.romero32@fibertel.com.ar,+54 9 11 1217 2210,2021-08-16,57414.72
+C0821,Florencia,Romero,Florencia Romero,34682083,101,Buenos Aires,florencia.romero@gmail.com,+54 9 11 7290 5959,2023-05-07,37150.23
+C0822,Gabriel,Martínez,Gabriel Martínez,39216768,101,Buenos Aires,gabriel.martínez@speedy.com.ar,+54 9 11 8940 5552,2020-02-18,58970.5
+C0823,Carlos,Díaz,Carlos Díaz,43938198,102,Ciudad Autónoma de Buenos Aires,carlos.díaz@outlook.com,+54 9 11 4897 4013,2016-07-14,218110.33
+C0824,Matías,Flores,Matías Flores,35562438,121,Santa Fe,matías.flores@gmail.com,+54 9 11 3862 9700,2017-12-09,757418.31
+C0825,Ana,Benítez,Ana Benítez,34365597,101,Buenos Aires,ana.benítez@gmail.com,+54 9 11 4777 4921,2016-11-02,543822.83
+C0826,Sofía,Fernández,Sofía Fernández,37115640,101,Buenos Aires,sofía.fernández@gmail.com,+54 9 11 2648 8119,2020-07-20,93075.31
+C0827,Valeria,Martínez,Valeria Martínez,42853974,124,Tucumán,valeria.martínez@outlook.com,+54 9 11 1633 6883,2015-12-27,64778.62
+C0828,Florencia,Medina,Florencia Medina,28496847,101,Buenos Aires,florencia.medina@fibertel.com.ar,+54 9 11 1415 6097,2015-09-12,297448.98
+C0829,Matías,López,Matías López,28349031,110,Jujuy,matías.lópez@outlook.com,+54 9 11 8759 4162,2015-05-06,109319.53
+C0830,Lucía,López,Lucía López,31832919,121,Santa Fe,lucía.lópez@fibertel.com.ar,+54 9 11 8868 2990,2020-07-31,26672.61
+C0831,Sofía,Ruiz,Sofía Ruiz,33970950,102,Ciudad Autónoma de Buenos Aires,sofía.ruiz32@outlook.com,+54 9 11 2509 3380,2022-05-09,406049.92
+C0832,Julieta,Flores,Julieta Flores,25842457,101,Buenos Aires,julieta.flores@speedy.com.ar,+54 9 11 1313 5666,2023-03-21,368788.82
+C0833,Luis,Ruiz,Luis Ruiz,43795333,124,Tucumán,luis.ruiz@fibertel.com.ar,+54 9 11 8367 1105,2019-12-09,118763.66
+C0834,Florencia,Pérez,Florencia Pérez,30042750,101,Buenos Aires,florencia.pérez@yahoo.com.ar,+54 9 11 4239 2092,2023-06-02,107162.7
+C0835,Florencia,López,Florencia López,27297193,106,Córdoba,florencia.lópez@gmail.com,+54 9 11 5389 9754,2024-05-03,200215.86
+C0836,Gabriel,Pérez,Gabriel Pérez,35301347,102,Ciudad Autónoma de Buenos Aires,gabriel.pérez@fibertel.com.ar,+54 9 11 6858 2469,2016-04-01,84729.74
+C0837,Valeria,Medina,Valeria Medina,31602996,121,Santa Fe,valeria.medina@outlook.com,+54 9 11 8482 6666,2024-01-25,62645.24
+C0838,Carlos,Ruiz,Carlos Ruiz,42436834,121,Santa Fe,carlos.ruiz@yahoo.com.ar,+54 9 11 8720 7038,2016-12-17,95402.74
+C0839,Laura,Aguirre,Laura Aguirre,34087903,119,San Juan,laura.aguirre38@hotmail.com,+54 9 11 1666 9235,2025-06-06,321538.55
+C0840,Laura,Fernández,Laura Fernández,32838526,121,Santa Fe,laura.fernández42@speedy.com.ar,+54 9 11 1985 1547,2022-02-17,100992.63
+C0841,Valeria,Rodríguez,Valeria Rodríguez,29867338,101,Buenos Aires,valeria.rodríguez84@gmail.com,+54 9 11 6049 6332,2023-11-07,332376.53
+C0842,Sofía,Rodríguez,Sofía Rodríguez,39096343,101,Buenos Aires,sofía.rodríguez@hotmail.com,+54 9 11 5016 6546,2025-02-21,27249.89
+C0843,Pablo,Romero,Pablo Romero,40270693,102,Ciudad Autónoma de Buenos Aires,pablo.romero99@yahoo.com.ar,+54 9 11 3592 6632,2022-11-18,9342.07
+C0844,Pablo,Ruiz,Pablo Ruiz,29685587,101,Buenos Aires,pablo.ruiz@yahoo.com.ar,+54 9 11 2119 3940,2016-10-26,7857.27
+C0845,Carolina,Sosa,Carolina Sosa,34637958,118,Salta,carolina.sosa@gmail.com,+54 9 11 7441 3002,2023-07-15,37249.42
+C0846,Julieta,Rodríguez,Julieta Rodríguez,32571486,110,Jujuy,julieta.rodríguez60@speedy.com.ar,+54 9 11 8985 2628,2019-09-18,28770.68
+C0847,Julieta,Gómez,Julieta Gómez,43073146,101,Buenos Aires,julieta.gómez@speedy.com.ar,+54 9 11 3630 5385,2018-10-20,12910.48
+C0848,Martín,Pérez,Martín Pérez,43598582,101,Buenos Aires,martín.pérez@speedy.com.ar,+54 9 11 3605 4356,2024-12-18,83336.95
+C0849,Gabriel,Torres,Gabriel Torres,43642929,118,Salta,gabriel.torres@fibertel.com.ar,+54 9 11 2194 1918,2017-10-07,82680.14
+C0850,Federico,López,Federico López,38546112,101,Buenos Aires,federico.lópez@fibertel.com.ar,+54 9 11 2142 1566,2016-01-27,539474.22
+C0851,Juan,Ramírez,Juan Ramírez,36041520,106,Córdoba,juan.ramírez@yahoo.com.ar,+54 9 11 9763 4495,2017-07-13,88437.48
+C0852,Valeria,Aguirre,Valeria Aguirre,35663886,116,Río Negro,valeria.aguirre@hotmail.com,+54 9 11 4862 8785,2015-07-24,48545.83
+C0853,Florencia,Flores,Florencia Flores,38937912,101,Buenos Aires,florencia.flores@speedy.com.ar,+54 9 11 6149 9914,2018-12-15,375270.18
+C0854,Matías,López,Matías López,36920984,113,Mendoza,matías.lópez@fibertel.com.ar,+54 9 11 4618 3648,2015-08-21,42588.94
+C0855,Lucía,Flores,Lucía Flores,36923388,104,Chaco,lucía.flores@yahoo.com.ar,+54 9 11 5846 7361,2015-09-28,383833.52
+C0856,Camila,Fernández,Camila Fernández,34345577,102,Ciudad Autónoma de Buenos Aires,camila.fernández@outlook.com,+54 9 11 7743 7053,2015-02-13,137074.93
+C0857,Valeria,Martínez,Valeria Martínez,32234689,102,Ciudad Autónoma de Buenos Aires,valeria.martínez@yahoo.com.ar,+54 9 11 7012 9429,2021-08-08,604641.36
+C0858,Martín,Romero,Martín Romero,36934640,110,Jujuy,martín.romero@yahoo.com.ar,+54 9 11 8661 2399,2024-08-08,386621.8
+C0859,Martín,Martínez,Martín Martínez,44411677,102,Ciudad Autónoma de Buenos Aires,martín.martínez@hotmail.com,+54 9 11 4566 3500,2025-10-26,28402.49
+C0860,Julieta,López,Julieta López,26822168,101,Buenos Aires,julieta.lópez@hotmail.com,+54 9 11 1991 6206,2020-01-01,18304.36
+C0861,Carolina,Benítez,Carolina Benítez,33419109,121,Santa Fe,carolina.benítez12@hotmail.com,+54 9 11 5905 7823,2022-12-04,5980.63
+C0862,Valeria,Torres,Valeria Torres,33855263,101,Buenos Aires,valeria.torres25@fibertel.com.ar,+54 9 11 1790 2306,2019-06-22,149978.97
+C0863,Martín,Benítez,Martín Benítez,35344817,106,Córdoba,martín.benítez92@gmail.com,+54 9 11 8711 5312,2017-01-09,67629.39
+C0864,Luis,Romero,Luis Romero,37911944,101,Buenos Aires,luis.romero@speedy.com.ar,+54 9 11 8454 9459,2021-09-21,117589.22
+C0865,Julieta,López,Julieta López,29733935,101,Buenos Aires,julieta.lópez49@hotmail.com,+54 9 11 6969 9294,2022-09-22,108523.69
+C0866,Julieta,Martínez,Julieta Martínez,40076068,102,Ciudad Autónoma de Buenos Aires,julieta.martínez96@yahoo.com.ar,+54 9 11 1978 3472,2020-02-19,144902.18
+C0867,Ana,Herrera,Ana Herrera,41256179,102,Ciudad Autónoma de Buenos Aires,ana.herrera28@outlook.com,+54 9 11 2621 2224,2022-11-17,138301.82
+C0868,Gabriel,Medina,Gabriel Medina,27178109,119,San Juan,gabriel.medina@hotmail.com,+54 9 11 6092 6425,2017-09-26,79813.98
+C0869,Carolina,Ramírez,Carolina Ramírez,28592754,118,Salta,carolina.ramírez@fibertel.com.ar,+54 9 11 1722 4111,2017-04-16,32660.31
+C0870,Sofía,Ruiz,Sofía Ruiz,30604729,102,Ciudad Autónoma de Buenos Aires,sofía.ruiz54@speedy.com.ar,+54 9 11 5796 4400,2022-09-16,74893.39
+C0871,Camila,Rodríguez,Camila Rodríguez,33258949,102,Ciudad Autónoma de Buenos Aires,camila.rodríguez73@hotmail.com,+54 9 11 9790 1095,2015-01-10,119012.59
+C0872,Lucía,Díaz,Lucía Díaz,32317726,101,Buenos Aires,lucía.díaz@outlook.com,+54 9 11 4830 5530,2017-03-20,4024404.52
+C0873,Carolina,Pérez,Carolina Pérez,34820680,115,Neuquén,carolina.pérez@outlook.com,+54 9 11 7641 4024,2024-10-08,228020.45
+C0874,Pablo,Aguirre,Pablo Aguirre,26548346,109,Formosa,pablo.aguirre@speedy.com.ar,+54 9 11 9570 6172,2018-07-10,67316.51
+C0875,Julieta,Ramírez,Julieta Ramírez,33172358,102,Ciudad Autónoma de Buenos Aires,julieta.ramírez@outlook.com,+54 9 11 9448 7180,2022-03-18,50610.46
+C0876,Carolina,Sosa,Carolina Sosa,35212295,122,Santiago del Estero,carolina.sosa@gmail.com,+54 9 11 9948 5028,2024-05-13,110130.15
+C0877,Gabriel,Sosa,Gabriel Sosa,36295979,101,Buenos Aires,gabriel.sosa93@hotmail.com,+54 9 11 3561 8103,2025-04-16,15864.15
+C0878,Sofía,Díaz,Sofía Díaz,42942398,101,Buenos Aires,sofía.díaz@speedy.com.ar,+54 9 11 4059 4947,2022-11-21,43820.46
+C0879,José,Ruiz,José Ruiz,25570433,101,Buenos Aires,josé.ruiz@gmail.com,+54 9 11 7480 5912,2017-06-07,39714.92
+C0880,Carolina,Romero,Carolina Romero,29373250,102,Ciudad Autónoma de Buenos Aires,carolina.romero@speedy.com.ar,+54 9 11 3835 6618,2015-05-31,71576.6
+C0881,Luis,Gómez,Luis Gómez,39407890,102,Ciudad Autónoma de Buenos Aires,luis.gómez@yahoo.com.ar,+54 9 11 2849 1431,2023-08-25,132292.64
+C0882,Juan,Sánchez,Juan Sánchez,32334791,101,Buenos Aires,juan.sánchez63@outlook.com,+54 9 11 6415 8035,2025-10-02,101592.28
+C0883,Laura,Acosta,Laura Acosta,40748867,101,Buenos Aires,laura.acosta@outlook.com,+54 9 11 8694 3826,2022-09-28,12012.19
+C0884,Juan,Acosta,Juan Acosta,37069663,101,Buenos Aires,juan.acosta@yahoo.com.ar,+54 9 11 9297 5086,2025-07-07,130690.13
+C0885,Martín,Sánchez,Martín Sánchez,28079101,107,Corrientes,martín.sánchez@yahoo.com.ar,+54 9 11 6965 8680,2021-04-24,56955.06
+C0886,Juan,Romero,Juan Romero,29736205,113,Mendoza,juan.romero@fibertel.com.ar,+54 9 11 2379 2683,2015-04-03,57072.64
+C0887,Martín,Ramírez,Martín Ramírez,31953950,121,Santa Fe,martín.ramírez@fibertel.com.ar,+54 9 11 5029 4353,2017-11-09,35208.86
+C0888,Diego,Sosa,Diego Sosa,39430274,102,Ciudad Autónoma de Buenos Aires,diego.sosa@speedy.com.ar,+54 9 11 3564 9781,2018-01-06,168379.99
+C0889,José,González,José González,31722300,102,Ciudad Autónoma de Buenos Aires,josé.gonzález@speedy.com.ar,+54 9 11 9266 9590,2015-07-28,261227.16
+C0890,Martín,Fernández,Martín Fernández,33258947,101,Buenos Aires,martín.fernández99@gmail.com,+54 9 11 7799 2903,2018-04-12,6583.17
+C0891,Sofía,Sosa,Sofía Sosa,40073181,110,Jujuy,sofía.sosa46@hotmail.com,+54 9 11 1819 4719,2018-01-21,477808.74
+C0892,Federico,Herrera,Federico Herrera,25508312,121,Santa Fe,federico.herrera@outlook.com,+54 9 11 2490 4944,2023-03-16,217684.54
+C0893,Valeria,Acosta,Valeria Acosta,25341228,103,Catamarca,valeria.acosta@fibertel.com.ar,+54 9 11 8575 4631,2020-01-18,93155.13
+C0894,Luis,Ramírez,Luis Ramírez,25299885,101,Buenos Aires,luis.ramírez@speedy.com.ar,+54 9 11 4031 5786,2022-07-20,9741.36
+C0895,Martín,Romero,Martín Romero,28211953,118,Salta,martín.romero58@outlook.com,+54 9 11 6288 7490,2017-03-14,85207.05
+C0896,Florencia,Aguirre,Florencia Aguirre,25026678,108,Entre Ríos,florencia.aguirre31@speedy.com.ar,+54 9 11 9366 9411,2019-01-15,111195.17
+C0897,Gabriel,Gómez,Gabriel Gómez,44812379,113,Mendoza,gabriel.gómez@fibertel.com.ar,+54 9 11 7927 8541,2019-02-12,47316.11
+C0898,Pablo,Rodríguez,Pablo Rodríguez,26881006,106,Córdoba,pablo.rodríguez75@fibertel.com.ar,+54 9 11 6395 1033,2022-02-22,17040.21
+C0899,María,González,María González,38295344,101,Buenos Aires,maría.gonzález@fibertel.com.ar,+54 9 11 2054 8660,2025-02-27,129981.47
+C0900,Valeria,Herrera,Valeria Herrera,28674878,101,Buenos Aires,valeria.herrera20@speedy.com.ar,+54 9 11 4299 7755,2016-10-27,99633.3
+C0901,Gabriel,Fernández,Gabriel Fernández,25176799,116,Río Negro,gabriel.fernández@yahoo.com.ar,+54 9 11 6157 4243,2020-01-23,358041.23
+C0902,María,Sosa,María Sosa,25980064,114,Misiones,maría.sosa66@yahoo.com.ar,+54 9 11 6389 9780,2023-08-26,98058.87
+C0903,Carlos,Sosa,Carlos Sosa,38788177,102,Ciudad Autónoma de Buenos Aires,carlos.sosa@gmail.com,+54 9 11 5235 9546,2015-08-18,63070.0
+C0904,Juan,Gómez,Juan Gómez,27501272,116,Río Negro,juan.gómez@outlook.com,+54 9 11 7142 3047,2018-08-29,728111.9
+C0905,Martín,Díaz,Martín Díaz,28396888,101,Buenos Aires,martín.díaz40@gmail.com,+54 9 11 4050 1884,2021-10-24,403467.61
+C0906,Ana,Martínez,Ana Martínez,27117642,104,Chaco,ana.martínez18@speedy.com.ar,+54 9 11 3759 4292,2025-09-22,80159.08
+C0907,Camila,Medina,Camila Medina,27706553,102,Ciudad Autónoma de Buenos Aires,camila.medina@outlook.com,+54 9 11 9740 9625,2019-08-11,2418712.2
+C0908,Camila,Torres,Camila Torres,29144558,122,Santiago del Estero,camila.torres@outlook.com,+54 9 11 9718 7940,2024-02-02,67887.01
+C0909,Laura,Gómez,Laura Gómez,28120028,102,Ciudad Autónoma de Buenos Aires,laura.gómez@gmail.com,+54 9 11 4013 9443,2022-03-06,31729.08
+C0910,Pablo,Medina,Pablo Medina,42187699,102,Ciudad Autónoma de Buenos Aires,pablo.medina@hotmail.com,+54 9 11 5509 9624,2023-08-20,120076.45
+C0911,Matías,Romero,Matías Romero,43233033,108,Entre Ríos,matías.romero96@yahoo.com.ar,+54 9 11 2804 7293,2015-01-19,258086.73
+C0912,Matías,Sánchez,Matías Sánchez,26215321,121,Santa Fe,matías.sánchez@yahoo.com.ar,+54 9 11 3077 6157,2025-01-20,190331.95
+C0913,Luis,Martínez,Luis Martínez,40033195,101,Buenos Aires,luis.martínez@speedy.com.ar,+54 9 11 2005 7537,2020-12-29,564847.5
+C0914,Julieta,López,Julieta López,30270439,102,Ciudad Autónoma de Buenos Aires,julieta.lópez@yahoo.com.ar,+54 9 11 6632 1620,2018-11-28,451530.47
+C0915,María,Ramírez,María Ramírez,32848633,101,Buenos Aires,maría.ramírez62@fibertel.com.ar,+54 9 11 8375 7590,2015-04-07,556969.43
+C0916,Sofía,Flores,Sofía Flores,35981502,101,Buenos Aires,sofía.flores@speedy.com.ar,+54 9 11 8804 4722,2018-02-11,741224.46
+C0917,Diego,Ruiz,Diego Ruiz,39803077,108,Entre Ríos,diego.ruiz14@speedy.com.ar,+54 9 11 5036 7027,2019-12-16,61126.83
+C0918,Carlos,Romero,Carlos Romero,32574447,102,Ciudad Autónoma de Buenos Aires,carlos.romero36@gmail.com,+54 9 11 5417 5193,2015-12-28,401932.53
+C0919,Julieta,Sosa,Julieta Sosa,31526776,101,Buenos Aires,julieta.sosa16@outlook.com,+54 9 11 8594 6640,2024-08-24,31481.78
+C0920,Federico,Fernández,Federico Fernández,40581088,102,Ciudad Autónoma de Buenos Aires,federico.fernández@speedy.com.ar,+54 9 11 3087 8751,2024-04-25,171616.33
+C0921,José,Romero,José Romero,43023342,115,Neuquén,josé.romero@speedy.com.ar,+54 9 11 3594 3021,2024-12-19,258130.12
+C0922,Luis,González,Luis González,26900182,103,Catamarca,luis.gonzález63@hotmail.com,+54 9 11 7984 1771,2018-05-06,104935.45
+C0923,Carlos,Medina,Carlos Medina,44698055,101,Buenos Aires,carlos.medina@yahoo.com.ar,+54 9 11 7791 8826,2016-04-11,113635.57
+C0924,Gabriel,González,Gabriel González,39795131,102,Ciudad Autónoma de Buenos Aires,gabriel.gonzález@outlook.com,+54 9 11 5214 3310,2016-09-05,80097.77
+C0925,Federico,Sánchez,Federico Sánchez,25073165,101,Buenos Aires,federico.sánchez@hotmail.com,+54 9 11 5645 3715,2024-02-13,197670.96
+C0926,Ana,Ramírez,Ana Ramírez,43876125,110,Jujuy,ana.ramírez@gmail.com,+54 9 11 9290 4963,2017-08-08,20017.94
+C0927,Ana,Sánchez,Ana Sánchez,39774266,101,Buenos Aires,ana.sánchez@outlook.com,+54 9 11 8250 7995,2019-08-25,22045.92
+C0928,Lucía,Benítez,Lucía Benítez,40480642,101,Buenos Aires,lucía.benítez@speedy.com.ar,+54 9 11 5359 2079,2020-12-07,122746.45
+C0929,Diego,Ramírez,Diego Ramírez,41888746,102,Ciudad Autónoma de Buenos Aires,diego.ramírez18@yahoo.com.ar,+54 9 11 9336 2492,2015-06-12,44158.24
+C0930,Martín,Sánchez,Martín Sánchez,35273666,124,Tucumán,martín.sánchez@fibertel.com.ar,+54 9 11 8324 2060,2020-12-02,24194.21
+C0931,Lucía,Benítez,Lucía Benítez,26464418,116,Río Negro,lucía.benítez@speedy.com.ar,+54 9 11 7358 3564,2022-12-31,103671.56
+C0932,Carlos,Rodríguez,Carlos Rodríguez,40437676,109,Formosa,carlos.rodríguez@speedy.com.ar,+54 9 11 8312 6020,2021-07-20,96852.52
+C0933,Lucía,Benítez,Lucía Benítez,43998259,101,Buenos Aires,lucía.benítez@yahoo.com.ar,+54 9 11 2400 8125,2021-09-20,87552.97
+C0934,Valeria,Martínez,Valeria Martínez,43497980,101,Buenos Aires,valeria.martínez@speedy.com.ar,+54 9 11 7222 9409,2017-04-25,55248.01
+C0935,Valeria,González,Valeria González,29056542,121,Santa Fe,valeria.gonzález@fibertel.com.ar,+54 9 11 3362 4396,2022-04-07,563018.2
+C0936,Diego,Flores,Diego Flores,40594126,102,Ciudad Autónoma de Buenos Aires,diego.flores@gmail.com,+54 9 11 3345 4141,2024-10-05,147527.25
+C0937,Florencia,Ruiz,Florencia Ruiz,35461133,102,Ciudad Autónoma de Buenos Aires,florencia.ruiz@yahoo.com.ar,+54 9 11 2606 9788,2024-07-06,35944.7
+C0938,Luis,Pérez,Luis Pérez,43417375,101,Buenos Aires,luis.pérez@yahoo.com.ar,+54 9 11 6815 1095,2016-10-13,85866.73
+C0939,Federico,González,Federico González,32958167,102,Ciudad Autónoma de Buenos Aires,federico.gonzález85@speedy.com.ar,+54 9 11 7171 6824,2015-02-22,115953.58
+C0940,Gabriel,Pérez,Gabriel Pérez,39351917,106,Córdoba,gabriel.pérez@fibertel.com.ar,+54 9 11 2159 3072,2015-02-22,51869.83
+C0941,Julieta,Medina,Julieta Medina,33859641,109,Formosa,julieta.medina@fibertel.com.ar,+54 9 11 2980 3917,2021-03-26,230617.34
+C0942,Lucía,Sánchez,Lucía Sánchez,25762662,119,San Juan,lucía.sánchez@outlook.com,+54 9 11 1057 3897,2017-01-22,659824.3
+C0943,Julieta,Sánchez,Julieta Sánchez,25038933,114,Misiones,julieta.sánchez@yahoo.com.ar,+54 9 11 4045 2267,2023-08-02,72204.47
+C0944,Julieta,Ruiz,Julieta Ruiz,29619418,102,Ciudad Autónoma de Buenos Aires,julieta.ruiz68@yahoo.com.ar,+54 9 11 3934 3452,2016-04-04,18482.97
+C0945,Sofía,Rodríguez,Sofía Rodríguez,38002098,101,Buenos Aires,sofía.rodríguez61@hotmail.com,+54 9 11 8611 7802,2017-08-15,315674.2
+C0946,Julieta,Torres,Julieta Torres,39012479,101,Buenos Aires,julieta.torres@outlook.com,+54 9 11 9595 1509,2017-05-24,10474.49
+C0947,Diego,Ramírez,Diego Ramírez,43215437,104,Chaco,diego.ramírez18@yahoo.com.ar,+54 9 11 9745 1535,2016-05-24,127314.77
+C0948,Carolina,Gómez,Carolina Gómez,25707757,101,Buenos Aires,carolina.gómez@speedy.com.ar,+54 9 11 5108 1406,2019-08-18,89325.62
+C0949,Pablo,Romero,Pablo Romero,40137355,121,Santa Fe,pablo.romero@speedy.com.ar,+54 9 11 7981 6615,2018-05-11,416767.6
+C0950,Sofía,Pérez,Sofía Pérez,37442617,102,Ciudad Autónoma de Buenos Aires,sofía.pérez33@speedy.com.ar,+54 9 11 2488 5654,2020-02-13,675374.06
+C0951,Carolina,Rodríguez,Carolina Rodríguez,37230010,101,Buenos Aires,carolina.rodríguez54@outlook.com,+54 9 11 8882 9298,2021-08-30,50994.63
+C0952,Carolina,Flores,Carolina Flores,37534257,105,Chubut,carolina.flores78@hotmail.com,+54 9 11 4648 5625,2016-09-07,131659.86
+C0953,Carolina,Torres,Carolina Torres,40015672,108,Entre Ríos,carolina.torres@yahoo.com.ar,+54 9 11 4227 1940,2018-03-07,640005.58
+C0954,Carlos,López,Carlos López,39039601,105,Chubut,carlos.lópez@fibertel.com.ar,+54 9 11 5369 6374,2015-11-19,754980.68
+C0955,Carlos,Fernández,Carlos Fernández,28394813,101,Buenos Aires,carlos.fernández@fibertel.com.ar,+54 9 11 4555 3127,2022-03-08,57484.65
+C0956,Matías,González,Matías González,43411766,101,Buenos Aires,matías.gonzález97@gmail.com,+54 9 11 5108 2032,2018-11-03,82493.78
+C0957,Carolina,Acosta,Carolina Acosta,34715383,113,Mendoza,carolina.acosta@outlook.com,+54 9 11 9150 1337,2015-12-22,4960532.15
+C0958,María,Ramírez,María Ramírez,29576616,101,Buenos Aires,maría.ramírez@gmail.com,+54 9 11 5721 5675,2015-04-28,12695.74
+C0959,Federico,Sánchez,Federico Sánchez,38447742,121,Santa Fe,federico.sánchez@gmail.com,+54 9 11 5913 6741,2016-11-13,57463.68
+C0960,Lucía,Sánchez,Lucía Sánchez,28185447,101,Buenos Aires,lucía.sánchez@outlook.com,+54 9 11 5044 1284,2017-03-19,68047.06
+C0961,Carolina,Ruiz,Carolina Ruiz,42034708,102,Ciudad Autónoma de Buenos Aires,carolina.ruiz@speedy.com.ar,+54 9 11 1914 6169,2017-04-13,37509.52
+C0962,Carlos,González,Carlos González,25144498,101,Buenos Aires,carlos.gonzález@hotmail.com,+54 9 11 2687 8953,2023-06-29,236517.02
+C0963,Florencia,Díaz,Florencia Díaz,29437474,101,Buenos Aires,florencia.díaz@gmail.com,+54 9 11 1687 4981,2025-09-13,779204.58
+C0964,Luis,Gómez,Luis Gómez,27537146,102,Ciudad Autónoma de Buenos Aires,luis.gómez74@hotmail.com,+54 9 11 5016 2278,2025-02-14,4261021.01
+C0965,Camila,Sosa,Camila Sosa,32945627,106,Córdoba,camila.sosa42@hotmail.com,+54 9 11 9457 2424,2025-05-23,41373.88
+C0966,Federico,Ruiz,Federico Ruiz,37732540,101,Buenos Aires,federico.ruiz@gmail.com,+54 9 11 7284 5359,2024-04-09,70388.67
+C0967,Julieta,Romero,Julieta Romero,39760431,102,Ciudad Autónoma de Buenos Aires,julieta.romero@speedy.com.ar,+54 9 11 5916 5572,2016-04-08,13545.56
+C0968,Matías,González,Matías González,31572833,105,Chubut,matías.gonzález@yahoo.com.ar,+54 9 11 2010 8655,2016-06-15,102012.48
+C0969,Lucía,Fernández,Lucía Fernández,36198059,106,Córdoba,lucía.fernández@fibertel.com.ar,+54 9 11 7113 3409,2015-02-07,279553.69
+C0970,Camila,Ruiz,Camila Ruiz,31419086,109,Formosa,camila.ruiz64@yahoo.com.ar,+54 9 11 7043 1287,2017-03-23,118446.34
+C0971,Valeria,Díaz,Valeria Díaz,25798325,101,Buenos Aires,valeria.díaz@speedy.com.ar,+54 9 11 2639 7562,2015-11-13,19159.76
+C0972,Valeria,Medina,Valeria Medina,34192869,101,Buenos Aires,valeria.medina@gmail.com,+54 9 11 1572 9699,2022-03-06,120693.72
+C0973,Julieta,Sánchez,Julieta Sánchez,33633519,111,La Pampa,julieta.sánchez@gmail.com,+54 9 11 2987 9037,2021-09-06,17353.8
+C0974,Julieta,Medina,Julieta Medina,28019140,108,Entre Ríos,julieta.medina@speedy.com.ar,+54 9 11 5602 1841,2015-09-25,723811.14
+C0975,Diego,Herrera,Diego Herrera,27096449,101,Buenos Aires,diego.herrera@yahoo.com.ar,+54 9 11 8587 9831,2025-07-20,65361.68
+C0976,Gabriel,Rodríguez,Gabriel Rodríguez,31569912,118,Salta,gabriel.rodríguez56@outlook.com,+54 9 11 1657 3371,2016-08-02,147119.62
+C0977,Sofía,Sánchez,Sofía Sánchez,39529645,118,Salta,sofía.sánchez72@hotmail.com,+54 9 11 8047 7210,2019-12-02,111050.8
+C0978,Pablo,López,Pablo López,40115492,120,San Luis,pablo.lópez@speedy.com.ar,+54 9 11 7322 4423,2023-10-14,121543.64
+C0979,María,Sosa,María Sosa,25189567,107,Corrientes,maría.sosa74@outlook.com,+54 9 11 4198 2366,2023-06-29,132032.69
+C0980,Gabriel,Romero,Gabriel Romero,41320609,101,Buenos Aires,gabriel.romero@hotmail.com,+54 9 11 1053 1042,2019-09-12,246285.06
+C0981,Juan,Díaz,Juan Díaz,30869987,122,Santiago del Estero,juan.díaz99@fibertel.com.ar,+54 9 11 8212 7099,2022-02-21,112855.93
+C0982,José,Díaz,José Díaz,44215175,102,Ciudad Autónoma de Buenos Aires,josé.díaz@speedy.com.ar,+54 9 11 3700 3580,2018-03-09,10751.01
+C0983,Matías,González,Matías González,40907946,103,Catamarca,matías.gonzález@yahoo.com.ar,+54 9 11 6301 7736,2016-03-07,620088.31
+C0984,Martín,Torres,Martín Torres,39207209,101,Buenos Aires,martín.torres@yahoo.com.ar,+54 9 11 5982 4136,2021-09-30,701379.82
+C0985,Matías,Gómez,Matías Gómez,32217563,105,Chubut,matías.gómez@outlook.com,+54 9 11 2926 1838,2020-03-15,73954.12
+C0986,Carolina,López,Carolina López,42935472,107,Corrientes,carolina.lópez56@hotmail.com,+54 9 11 8016 6310,2023-03-09,54030.0
+C0987,Florencia,Martínez,Florencia Martínez,28097064,101,Buenos Aires,florencia.martínez@gmail.com,+54 9 11 2473 5214,2022-10-28,128284.22
+C0988,Florencia,Aguirre,Florencia Aguirre,43866540,108,Entre Ríos,florencia.aguirre@hotmail.com,+54 9 11 4654 7672,2022-12-29,84646.54
+C0989,Florencia,Ramírez,Florencia Ramírez,28382019,101,Buenos Aires,florencia.ramírez@speedy.com.ar,+54 9 11 7707 4935,2019-01-04,36285.32
+C0990,Matías,Rodríguez,Matías Rodríguez,35046453,101,Buenos Aires,matías.rodríguez@gmail.com,+54 9 11 8832 2722,2021-05-10,53550.57
+C0991,Pablo,Pérez,Pablo Pérez,36849785,102,Ciudad Autónoma de Buenos Aires,pablo.pérez@outlook.com,+54 9 11 5838 7580,2018-02-09,148115.36
+C0992,Diego,Pérez,Diego Pérez,31420332,101,Buenos Aires,diego.pérez@speedy.com.ar,+54 9 11 1786 7788,2015-05-23,21687.54
+C0993,Martín,Fernández,Martín Fernández,44312241,121,Santa Fe,martín.fernández29@outlook.com,+54 9 11 3123 3746,2020-04-03,108417.38
+C0994,Juan,Acosta,Juan Acosta,25519067,102,Ciudad Autónoma de Buenos Aires,juan.acosta@hotmail.com,+54 9 11 3686 9097,2019-10-17,108344.79
+C0995,Laura,Torres,Laura Torres,28487678,101,Buenos Aires,laura.torres@outlook.com,+54 9 11 7816 1214,2017-09-14,478290.09
+C0996,Julieta,López,Julieta López,34905093,124,Tucumán,julieta.lópez24@yahoo.com.ar,+54 9 11 1222 4984,2015-02-25,44157.27
+C0997,Sofía,Martínez,Sofía Martínez,44490491,102,Ciudad Autónoma de Buenos Aires,sofía.martínez12@fibertel.com.ar,+54 9 11 1680 9191,2024-08-13,112827.31
+C0998,Gabriel,Torres,Gabriel Torres,44978131,121,Santa Fe,gabriel.torres31@speedy.com.ar,+54 9 11 3061 2190,2015-08-11,157609.23
+C0999,Martín,Sosa,Martín Sosa,31025017,121,Santa Fe,martín.sosa@outlook.com,+54 9 11 7619 9227,2018-05-04,147181.31
+C1000,Matías,Martínez,Matías Martínez,26999378,108,Entre Ríos,matías.martínez66@speedy.com.ar,+54 9 11 3019 3649,2022-02-05,133141.24
+C1001,Luis,Ruiz,Luis Ruiz,39868373,121,Santa Fe,luis.ruiz@speedy.com.ar,+54 9 11 6889 7825,2024-01-01,120347.15
+C1002,José,Pérez,José Pérez,27997190,102,Ciudad Autónoma de Buenos Aires,josé.pérez@speedy.com.ar,+54 9 11 5033 9333,2024-05-06,380536.26
+C1003,Pablo,Fernández,Pablo Fernández,36586433,107,Corrientes,pablo.fernández@yahoo.com.ar,+54 9 11 9833 5610,2018-04-14,53046.76
+C1004,Luis,Fernández,Luis Fernández,39621531,105,Chubut,luis.fernández@hotmail.com,+54 9 11 1138 6983,2022-08-04,376304.61
+C1005,Valeria,Romero,Valeria Romero,42010201,109,Formosa,valeria.romero@speedy.com.ar,+54 9 11 3004 4276,2025-03-26,13823.94
+C1006,Juan,Flores,Juan Flores,35868624,101,Buenos Aires,juan.flores@outlook.com,+54 9 11 8061 8764,2024-10-12,162836.36
+C1007,Sofía,Romero,Sofía Romero,42140842,113,Mendoza,sofía.romero46@fibertel.com.ar,+54 9 11 1016 1705,2023-12-23,100961.2
+C1008,Carlos,Fernández,Carlos Fernández,27650148,107,Corrientes,carlos.fernández@gmail.com,+54 9 11 6190 7088,2025-03-22,239371.81
+C1009,Camila,Sánchez,Camila Sánchez,38993901,101,Buenos Aires,camila.sánchez@speedy.com.ar,+54 9 11 9518 8800,2019-12-14,751830.89
+C1010,Juan,Medina,Juan Medina,31576764,106,Córdoba,juan.medina@gmail.com,+54 9 11 1216 2765,2024-06-15,89210.74
+C1011,Valeria,Díaz,Valeria Díaz,35302469,101,Buenos Aires,valeria.díaz@hotmail.com,+54 9 11 6693 5465,2020-07-15,213937.5
+C1012,María,Rodríguez,María Rodríguez,28932447,101,Buenos Aires,maría.rodríguez@yahoo.com.ar,+54 9 11 5255 4725,2023-01-10,18516.87
+C1013,Ana,González,Ana González,29312628,118,Salta,ana.gonzález@outlook.com,+54 9 11 9521 4157,2015-04-13,53177.31
+C1014,Florencia,Díaz,Florencia Díaz,36767535,101,Buenos Aires,florencia.díaz@fibertel.com.ar,+54 9 11 5226 8282,2023-10-12,766286.56
+C1015,María,Martínez,María Martínez,38998606,102,Ciudad Autónoma de Buenos Aires,maría.martínez@speedy.com.ar,+54 9 11 2372 7455,2023-07-05,138789.39
+C1016,Gabriel,Romero,Gabriel Romero,40702808,113,Mendoza,gabriel.romero@outlook.com,+54 9 11 7293 1314,2017-09-12,119459.08
+C1017,Luis,Sánchez,Luis Sánchez,26600534,102,Ciudad Autónoma de Buenos Aires,luis.sánchez85@outlook.com,+54 9 11 1483 2792,2016-05-18,431404.64
+C1018,Sofía,Aguirre,Sofía Aguirre,32409871,105,Chubut,sofía.aguirre@speedy.com.ar,+54 9 11 9118 3981,2017-07-31,98104.16
+C1019,Federico,Rodríguez,Federico Rodríguez,37206025,102,Ciudad Autónoma de Buenos Aires,federico.rodríguez@speedy.com.ar,+54 9 11 5014 6258,2020-05-14,117492.91
+C1020,Lucía,Díaz,Lucía Díaz,36636335,102,Ciudad Autónoma de Buenos Aires,lucía.díaz@outlook.com,+54 9 11 9463 4611,2016-05-30,214600.32
+C1021,Juan,Herrera,Juan Herrera,33801471,124,Tucumán,juan.herrera@yahoo.com.ar,+54 9 11 2949 5425,2019-01-02,19772.91
+C1022,María,Torres,María Torres,44696966,106,Córdoba,maría.torres@fibertel.com.ar,+54 9 11 9161 8361,2020-01-30,60793.58
+C1023,Florencia,Aguirre,Florencia Aguirre,37384796,121,Santa Fe,florencia.aguirre@fibertel.com.ar,+54 9 11 2196 6383,2024-12-05,80107.31
+C1024,Lucía,Díaz,Lucía Díaz,32190450,102,Ciudad Autónoma de Buenos Aires,lucía.díaz26@gmail.com,+54 9 11 4750 4803,2024-11-29,774118.36
+C1025,Valeria,Ramírez,Valeria Ramírez,41400045,121,Santa Fe,valeria.ramírez71@speedy.com.ar,+54 9 11 5437 7525,2017-02-10,99919.23
+C1026,Laura,Flores,Laura Flores,44536662,103,Catamarca,laura.flores@fibertel.com.ar,+54 9 11 4873 4149,2015-12-31,57527.02
+C1027,Carolina,Fernández,Carolina Fernández,34530639,102,Ciudad Autónoma de Buenos Aires,carolina.fernández@fibertel.com.ar,+54 9 11 6629 1193,2016-03-08,93298.65
+C1028,Lucía,Aguirre,Lucía Aguirre,43258050,124,Tucumán,lucía.aguirre74@gmail.com,+54 9 11 9458 9434,2023-04-04,535776.47
+C1029,Valeria,López,Valeria López,38150125,102,Ciudad Autónoma de Buenos Aires,valeria.lópez@gmail.com,+54 9 11 8755 1152,2021-12-16,23917.34
+C1030,Sofía,Herrera,Sofía Herrera,31774505,101,Buenos Aires,sofía.herrera@yahoo.com.ar,+54 9 11 3284 9743,2022-09-15,362390.64
+C1031,Valeria,Sosa,Valeria Sosa,42029153,113,Mendoza,valeria.sosa57@yahoo.com.ar,+54 9 11 4389 5806,2023-03-21,617178.8
+C1032,Camila,Díaz,Camila Díaz,32979202,115,Neuquén,camila.díaz96@outlook.com,+54 9 11 3193 5269,2020-12-03,12413.0
+C1033,Carolina,Díaz,Carolina Díaz,34138283,106,Córdoba,carolina.díaz@hotmail.com,+54 9 11 7637 7382,2017-01-11,26350.66
+C1034,Carolina,Aguirre,Carolina Aguirre,38217346,101,Buenos Aires,carolina.aguirre@gmail.com,+54 9 11 1855 4032,2022-02-18,43149.82
+C1035,Pablo,Ramírez,Pablo Ramírez,36449947,108,Entre Ríos,pablo.ramírez84@speedy.com.ar,+54 9 11 9696 4925,2019-10-05,81589.43
+C1036,Lucía,Ramírez,Lucía Ramírez,36785216,101,Buenos Aires,lucía.ramírez@hotmail.com,+54 9 11 8759 8794,2017-04-03,92163.76
+C1037,Matías,Torres,Matías Torres,44493553,101,Buenos Aires,matías.torres@hotmail.com,+54 9 11 8572 3457,2025-11-19,764710.73
+C1038,Florencia,López,Florencia López,30033775,114,Misiones,florencia.lópez90@gmail.com,+54 9 11 2588 3673,2020-01-09,622386.28
+C1039,Julieta,López,Julieta López,27998742,113,Mendoza,julieta.lópez@speedy.com.ar,+54 9 11 7352 7977,2015-09-04,15215.19
+C1040,Julieta,Flores,Julieta Flores,27374244,110,Jujuy,julieta.flores@gmail.com,+54 9 11 3369 1455,2015-01-03,129270.75
+C1041,Julieta,Ruiz,Julieta Ruiz,44601829,101,Buenos Aires,julieta.ruiz@yahoo.com.ar,+54 9 11 5864 4315,2023-11-22,60781.28
+C1042,Ana,Aguirre,Ana Aguirre,39405899,118,Salta,ana.aguirre11@yahoo.com.ar,+54 9 11 3536 1713,2018-12-05,6458.11
+C1043,Sofía,Ramírez,Sofía Ramírez,35130494,101,Buenos Aires,sofía.ramírez@gmail.com,+54 9 11 7400 2876,2018-02-21,49258.76
+C1044,Gabriel,Rodríguez,Gabriel Rodríguez,27191318,121,Santa Fe,gabriel.rodríguez@outlook.com,+54 9 11 1139 2762,2020-06-03,44408.8
+C1045,Sofía,López,Sofía López,30771501,116,Río Negro,sofía.lópez@hotmail.com,+54 9 11 8681 8988,2020-07-06,621835.72
+C1046,Gabriel,Sánchez,Gabriel Sánchez,29334881,108,Entre Ríos,gabriel.sánchez@fibertel.com.ar,+54 9 11 3913 9115,2023-07-21,39162.93
+C1047,Carlos,Rodríguez,Carlos Rodríguez,30407678,121,Santa Fe,carlos.rodríguez74@hotmail.com,+54 9 11 7377 7063,2019-07-22,559906.31
+C1048,Federico,Díaz,Federico Díaz,43854549,118,Salta,federico.díaz@gmail.com,+54 9 11 9732 5315,2024-06-23,10336.22
+C1049,Valeria,López,Valeria López,44351360,122,Santiago del Estero,valeria.lópez95@yahoo.com.ar,+54 9 11 5139 9009,2023-06-06,76099.02
+C1050,Carlos,Pérez,Carlos Pérez,39516826,102,Ciudad Autónoma de Buenos Aires,carlos.pérez@outlook.com,+54 9 11 4821 9743,2022-04-08,130258.12
+C1051,Laura,Sosa,Laura Sosa,38145383,101,Buenos Aires,laura.sosa@gmail.com,+54 9 11 7347 3072,2024-07-04,534174.85
+C1052,Laura,Fernández,Laura Fernández,42138656,114,Misiones,laura.fernández@outlook.com,+54 9 11 5971 8374,2024-08-27,63324.58
+C1053,María,Aguirre,María Aguirre,40079656,108,Entre Ríos,maría.aguirre38@outlook.com,+54 9 11 3970 7889,2016-10-08,82809.68
+C1054,Carlos,Acosta,Carlos Acosta,37913151,120,San Luis,carlos.acosta@speedy.com.ar,+54 9 11 4614 6855,2019-11-10,46587.14
+C1055,Diego,Díaz,Diego Díaz,43558688,101,Buenos Aires,diego.díaz@hotmail.com,+54 9 11 9213 8486,2023-10-16,99795.67
+C1056,Julieta,Torres,Julieta Torres,40765087,101,Buenos Aires,julieta.torres@gmail.com,+54 9 11 1078 3483,2023-03-21,348413.03
+C1057,Juan,López,Juan López,38438179,101,Buenos Aires,juan.lópez88@fibertel.com.ar,+54 9 11 9504 7905,2019-03-09,122206.05
+C1058,Carolina,Díaz,Carolina Díaz,33566364,124,Tucumán,carolina.díaz@yahoo.com.ar,+54 9 11 4591 8928,2017-07-29,416003.66
+C1059,Carolina,Gómez,Carolina Gómez,42385437,119,San Juan,carolina.gómez@hotmail.com,+54 9 11 7589 5639,2020-10-28,55432.6
+C1060,Gabriel,Sosa,Gabriel Sosa,30649191,101,Buenos Aires,gabriel.sosa@outlook.com,+54 9 11 9799 5619,2016-11-22,191660.22
+C1061,Diego,Ruiz,Diego Ruiz,39019422,109,Formosa,diego.ruiz@fibertel.com.ar,+54 9 11 7668 8690,2019-08-21,101660.94
+C1062,Juan,Romero,Juan Romero,28760962,101,Buenos Aires,juan.romero@hotmail.com,+54 9 11 6387 7408,2021-11-11,373932.18
+C1063,Laura,Sosa,Laura Sosa,34171479,119,San Juan,laura.sosa23@yahoo.com.ar,+54 9 11 4393 8238,2024-03-06,649109.36
+C1064,Ana,Sánchez,Ana Sánchez,26720613,102,Ciudad Autónoma de Buenos Aires,ana.sánchez45@speedy.com.ar,+54 9 11 4817 3044,2025-06-28,72076.46
+C1065,María,Díaz,María Díaz,41396376,114,Misiones,maría.díaz99@outlook.com,+54 9 11 3938 1597,2018-03-10,29737.55
+C1066,Sofía,Gómez,Sofía Gómez,41807162,113,Mendoza,sofía.gómez@speedy.com.ar,+54 9 11 8569 8033,2025-06-13,132123.57
+C1067,Camila,Sosa,Camila Sosa,26761002,101,Buenos Aires,camila.sosa@fibertel.com.ar,+54 9 11 5214 3967,2024-05-06,24965.86
+C1068,Luis,Romero,Luis Romero,34340857,101,Buenos Aires,luis.romero@outlook.com,+54 9 11 7485 1434,2024-08-14,446469.62
+C1069,Ana,Pérez,Ana Pérez,37208049,102,Ciudad Autónoma de Buenos Aires,ana.pérez@outlook.com,+54 9 11 9122 5263,2022-12-03,45066.82
+C1070,Martín,Acosta,Martín Acosta,33981530,101,Buenos Aires,martín.acosta@fibertel.com.ar,+54 9 11 5690 5256,2024-06-15,668913.15
+C1071,María,López,María López,30379895,101,Buenos Aires,maría.lópez68@gmail.com,+54 9 11 1486 4517,2019-07-19,68829.69
+C1072,Matías,Rodríguez,Matías Rodríguez,29896840,114,Misiones,matías.rodríguez@outlook.com,+54 9 11 7657 2130,2018-06-06,135108.87
+C1073,Federico,Gómez,Federico Gómez,31267540,121,Santa Fe,federico.gómez@yahoo.com.ar,+54 9 11 7814 8844,2021-11-17,115795.62
+C1074,Ana,Pérez,Ana Pérez,38734208,102,Ciudad Autónoma de Buenos Aires,ana.pérez@outlook.com,+54 9 11 6920 2170,2022-09-25,9942.11
+C1075,Diego,Torres,Diego Torres,39918879,102,Ciudad Autónoma de Buenos Aires,diego.torres@outlook.com,+54 9 11 1573 8961,2018-04-25,94827.45
+C1076,Martín,González,Martín González,42843224,121,Santa Fe,martín.gonzález71@fibertel.com.ar,+54 9 11 3194 7035,2017-12-20,52941.26
+C1077,José,Benítez,José Benítez,33862100,102,Ciudad Autónoma de Buenos Aires,josé.benítez68@fibertel.com.ar,+54 9 11 8248 5514,2022-01-28,73745.76
+C1078,Juan,Ruiz,Juan Ruiz,36827316,101,Buenos Aires,juan.ruiz58@outlook.com,+54 9 11 5689 5053,2017-06-04,78121.8
+C1079,Matías,Ruiz,Matías Ruiz,38141928,101,Buenos Aires,matías.ruiz79@outlook.com,+54 9 11 1169 5561,2024-04-04,67182.31
+C1080,Diego,Acosta,Diego Acosta,39683941,101,Buenos Aires,diego.acosta@outlook.com,+54 9 11 5824 3769,2024-02-22,27597.82
+C1081,Luis,Martínez,Luis Martínez,25447604,119,San Juan,luis.martínez@hotmail.com,+54 9 11 8686 4840,2016-09-01,28727.38
+C1082,Luis,Rodríguez,Luis Rodríguez,40244887,121,Santa Fe,luis.rodríguez@gmail.com,+54 9 11 7432 5771,2021-04-08,118972.93
+C1083,Luis,Martínez,Luis Martínez,40421869,101,Buenos Aires,luis.martínez@outlook.com,+54 9 11 7643 6894,2022-09-24,29756.55
+C1084,Luis,Flores,Luis Flores,29274697,102,Ciudad Autónoma de Buenos Aires,luis.flores@fibertel.com.ar,+54 9 11 4666 7004,2015-03-01,49587.58
+C1085,Matías,González,Matías González,28299937,102,Ciudad Autónoma de Buenos Aires,matías.gonzález@fibertel.com.ar,+54 9 11 5036 2638,2025-02-25,33304.87
+C1086,Valeria,Aguirre,Valeria Aguirre,44778251,113,Mendoza,valeria.aguirre@gmail.com,+54 9 11 8402 8420,2023-03-14,125083.44
+C1087,Gabriel,López,Gabriel López,32554385,102,Ciudad Autónoma de Buenos Aires,gabriel.lópez@fibertel.com.ar,+54 9 11 3862 6997,2016-08-09,368891.52
+C1088,Luis,López,Luis López,36343896,101,Buenos Aires,luis.lópez38@outlook.com,+54 9 11 2301 1965,2024-04-08,22879.98
+C1089,Martín,Sánchez,Martín Sánchez,43411192,101,Buenos Aires,martín.sánchez86@yahoo.com.ar,+54 9 11 3573 9170,2019-07-28,143657.41
+C1090,Gabriel,Medina,Gabriel Medina,28383573,101,Buenos Aires,gabriel.medina@yahoo.com.ar,+54 9 11 2762 3541,2016-01-17,431111.96
+C1091,Sofía,Torres,Sofía Torres,42610915,105,Chubut,sofía.torres@fibertel.com.ar,+54 9 11 3236 7561,2023-05-31,30338.1
+C1092,Laura,Herrera,Laura Herrera,44427556,102,Ciudad Autónoma de Buenos Aires,laura.herrera@speedy.com.ar,+54 9 11 3688 2011,2025-01-23,52311.66
+C1093,Juan,Torres,Juan Torres,43065516,101,Buenos Aires,juan.torres@outlook.com,+54 9 11 6719 8884,2015-04-15,485446.42
+C1094,Julieta,Pérez,Julieta Pérez,41941339,121,Santa Fe,julieta.pérez@hotmail.com,+54 9 11 9785 6982,2015-07-10,68508.3
+C1095,Lucía,Gómez,Lucía Gómez,36795016,106,Córdoba,lucía.gómez@fibertel.com.ar,+54 9 11 6102 8676,2025-09-19,140412.49
+C1096,Juan,Flores,Juan Flores,35220917,116,Río Negro,juan.flores@fibertel.com.ar,+54 9 11 2915 1866,2024-07-02,405205.5
+C1097,Luis,Herrera,Luis Herrera,28123041,108,Entre Ríos,luis.herrera@gmail.com,+54 9 11 3922 6457,2016-11-17,25357.89
+C1098,Julieta,Medina,Julieta Medina,43710896,101,Buenos Aires,julieta.medina@outlook.com,+54 9 11 6568 5266,2024-12-11,85813.0
+C1099,Matías,Gómez,Matías Gómez,25774472,112,La Rioja,matías.gómez@hotmail.com,+54 9 11 6020 8902,2023-09-01,752069.02
+C1100,Julieta,López,Julieta López,38927639,122,Santiago del Estero,julieta.lópez26@gmail.com,+54 9 11 9124 3824,2025-07-11,25563.24
+C1101,Luis,Aguirre,Luis Aguirre,33751017,106,Córdoba,luis.aguirre@fibertel.com.ar,+54 9 11 9110 2977,2016-03-14,39082.78
+C1102,Carolina,Torres,Carolina Torres,36800452,101,Buenos Aires,carolina.torres@gmail.com,+54 9 11 2716 1550,2022-12-24,163894.56
+C1103,Juan,Fernández,Juan Fernández,34305448,102,Ciudad Autónoma de Buenos Aires,juan.fernández@hotmail.com,+54 9 11 9289 8756,2015-10-11,410100.27
+C1104,Luis,Ramírez,Luis Ramírez,31344849,102,Ciudad Autónoma de Buenos Aires,luis.ramírez@gmail.com,+54 9 11 4057 5490,2018-08-11,118082.32
+C1105,Gabriel,López,Gabriel López,27371649,102,Ciudad Autónoma de Buenos Aires,gabriel.lópez@yahoo.com.ar,+54 9 11 8916 1096,2021-10-29,444819.45
+C1106,José,Aguirre,José Aguirre,38197333,101,Buenos Aires,josé.aguirre@hotmail.com,+54 9 11 1910 8575,2015-11-05,40868.57
+C1107,Carlos,Aguirre,Carlos Aguirre,40945569,103,Catamarca,carlos.aguirre@fibertel.com.ar,+54 9 11 7778 1217,2021-12-04,575203.01
+C1108,Ana,Acosta,Ana Acosta,31250146,102,Ciudad Autónoma de Buenos Aires,ana.acosta@yahoo.com.ar,+54 9 11 5580 6877,2024-11-12,138380.52
+C1109,María,Pérez,María Pérez,37699443,110,Jujuy,maría.pérez@gmail.com,+54 9 11 9632 3066,2015-06-13,447888.93
+C1110,Luis,Flores,Luis Flores,35788563,118,Salta,luis.flores@fibertel.com.ar,+54 9 11 8741 4773,2019-09-13,34195.54
+C1111,Federico,Díaz,Federico Díaz,40797678,114,Misiones,federico.díaz@speedy.com.ar,+54 9 11 7190 3635,2017-05-26,111184.35
+C1112,Martín,Acosta,Martín Acosta,27273769,106,Córdoba,martín.acosta27@gmail.com,+54 9 11 8643 4431,2022-09-21,654606.31
+C1113,Laura,Martínez,Laura Martínez,42493742,115,Neuquén,laura.martínez@outlook.com,+54 9 11 5052 3000,2018-01-20,60198.64
+C1114,Juan,Herrera,Juan Herrera,33006592,124,Tucumán,juan.herrera@gmail.com,+54 9 11 5980 7196,2015-08-21,81235.98
+C1115,Lucía,Herrera,Lucía Herrera,39627404,101,Buenos Aires,lucía.herrera62@hotmail.com,+54 9 11 9273 6756,2015-09-04,139233.12
+C1116,Ana,Benítez,Ana Benítez,41430742,121,Santa Fe,ana.benítez63@outlook.com,+54 9 11 6976 3836,2021-08-30,59679.05
+C1117,Pablo,López,Pablo López,26162976,106,Córdoba,pablo.lópez@gmail.com,+54 9 11 2064 1166,2021-09-20,40211.1
+C1118,Federico,Flores,Federico Flores,26031170,106,Córdoba,federico.flores@speedy.com.ar,+54 9 11 2052 6994,2017-01-07,122305.21
+C1119,Camila,Ramírez,Camila Ramírez,38804819,104,Chaco,camila.ramírez@speedy.com.ar,+54 9 11 1243 8696,2016-08-15,319298.88
+C1120,Martín,Ruiz,Martín Ruiz,39750473,102,Ciudad Autónoma de Buenos Aires,martín.ruiz22@speedy.com.ar,+54 9 11 6907 7971,2019-08-02,49167.38
+C1121,Valeria,Ramírez,Valeria Ramírez,30690808,102,Ciudad Autónoma de Buenos Aires,valeria.ramírez@gmail.com,+54 9 11 5554 1439,2025-09-27,82715.5
+C1122,Juan,Benítez,Juan Benítez,42571140,104,Chaco,juan.benítez39@fibertel.com.ar,+54 9 11 9029 6984,2016-07-12,52880.71
+C1123,Carolina,López,Carolina López,40673872,101,Buenos Aires,carolina.lópez@speedy.com.ar,+54 9 11 3391 6480,2020-11-11,45596.09
+C1124,Ana,Torres,Ana Torres,39048980,102,Ciudad Autónoma de Buenos Aires,ana.torres@hotmail.com,+54 9 11 6327 6199,2015-10-12,115923.09
+C1125,María,Flores,María Flores,34168017,101,Buenos Aires,maría.flores@hotmail.com,+54 9 11 6520 3152,2015-01-02,61897.21
+C1126,Sofía,López,Sofía López,28382158,101,Buenos Aires,sofía.lópez@fibertel.com.ar,+54 9 11 2986 7026,2016-03-16,125486.96
+C1127,Lucía,Ramírez,Lucía Ramírez,38197612,106,Córdoba,lucía.ramírez74@gmail.com,+54 9 11 9025 7865,2019-02-21,124082.44
+C1128,Carolina,Medina,Carolina Medina,35694207,102,Ciudad Autónoma de Buenos Aires,carolina.medina@fibertel.com.ar,+54 9 11 8795 7344,2018-11-25,107918.74
+C1129,Luis,Romero,Luis Romero,28736917,106,Córdoba,luis.romero64@fibertel.com.ar,+54 9 11 3350 3237,2025-04-08,42992.41
+C1130,Camila,Rodríguez,Camila Rodríguez,30952223,106,Córdoba,camila.rodríguez@fibertel.com.ar,+54 9 11 8436 7917,2024-01-17,128824.93
+C1131,Valeria,Medina,Valeria Medina,34289365,102,Ciudad Autónoma de Buenos Aires,valeria.medina40@outlook.com,+54 9 11 9015 1706,2023-04-26,101911.33
+C1132,Florencia,López,Florencia López,42349044,108,Entre Ríos,florencia.lópez@fibertel.com.ar,+54 9 11 1791 1416,2021-12-13,793239.84
+C1133,Florencia,González,Florencia González,25570777,124,Tucumán,florencia.gonzález@gmail.com,+54 9 11 9673 4996,2017-12-14,724122.24
+C1134,Luis,Pérez,Luis Pérez,40861873,108,Entre Ríos,luis.pérez@hotmail.com,+54 9 11 2505 4547,2023-03-08,93803.44
+C1135,Luis,González,Luis González,25538204,101,Buenos Aires,luis.gonzález@outlook.com,+54 9 11 7638 1770,2018-01-22,108936.98
+C1136,Carlos,Martínez,Carlos Martínez,34257147,102,Ciudad Autónoma de Buenos Aires,carlos.martínez@yahoo.com.ar,+54 9 11 3445 5490,2022-01-15,31566.58
+C1137,Federico,Flores,Federico Flores,25135710,101,Buenos Aires,federico.flores70@outlook.com,+54 9 11 4554 3769,2018-05-14,798490.65
+C1138,Sofía,Ramírez,Sofía Ramírez,44432149,106,Córdoba,sofía.ramírez@yahoo.com.ar,+54 9 11 8834 1908,2015-06-02,78975.37
+C1139,Ana,Romero,Ana Romero,37580820,118,Salta,ana.romero64@yahoo.com.ar,+54 9 11 2569 4892,2023-12-01,102733.88
+C1140,Laura,Ramírez,Laura Ramírez,36512797,120,San Luis,laura.ramírez89@fibertel.com.ar,+54 9 11 4370 6262,2015-12-10,10169.11
+C1141,Carlos,Medina,Carlos Medina,29283497,115,Neuquén,carlos.medina96@speedy.com.ar,+54 9 11 7076 4910,2023-10-08,687642.98
+C1142,Pablo,López,Pablo López,29899597,106,Córdoba,pablo.lópez99@fibertel.com.ar,+54 9 11 4266 6301,2025-11-07,144166.54
+C1143,Florencia,Herrera,Florencia Herrera,27316791,113,Mendoza,florencia.herrera69@speedy.com.ar,+54 9 11 4855 5813,2024-10-16,2704058.67
+C1144,Lucía,Ramírez,Lucía Ramírez,44922445,106,Córdoba,lucía.ramírez95@yahoo.com.ar,+54 9 11 5507 1292,2025-06-22,62812.35
+C1145,Gabriel,Medina,Gabriel Medina,44340399,105,Chubut,gabriel.medina@yahoo.com.ar,+54 9 11 6769 7525,2023-11-12,27404.49
+C1146,Diego,Ramírez,Diego Ramírez,37206734,107,Corrientes,diego.ramírez@gmail.com,+54 9 11 9436 4355,2016-05-30,18332.12
+C1147,Lucía,Martínez,Lucía Martínez,34493861,101,Buenos Aires,lucía.martínez@yahoo.com.ar,+54 9 11 4309 9126,2015-12-19,63230.89
+C1148,José,Ramírez,José Ramírez,31911344,101,Buenos Aires,josé.ramírez84@yahoo.com.ar,+54 9 11 6684 3217,2020-07-05,129146.27
+C1149,Laura,Fernández,Laura Fernández,37652363,124,Tucumán,laura.fernández48@fibertel.com.ar,+54 9 11 8587 5993,2017-09-04,29195.78
+C1150,María,Pérez,María Pérez,43138491,102,Ciudad Autónoma de Buenos Aires,maría.pérez52@hotmail.com,+54 9 11 7247 2409,2016-08-30,88192.52
+C1151,Gabriel,Medina,Gabriel Medina,34433482,121,Santa Fe,gabriel.medina@yahoo.com.ar,+54 9 11 7547 7177,2022-12-05,87601.56
+C1152,Camila,Ramírez,Camila Ramírez,39509306,118,Salta,camila.ramírez@speedy.com.ar,+54 9 11 7173 3545,2015-08-31,85056.71
+C1153,Julieta,Flores,Julieta Flores,36890734,102,Ciudad Autónoma de Buenos Aires,julieta.flores@yahoo.com.ar,+54 9 11 4733 3712,2018-11-29,38410.84
+C1154,Laura,Sánchez,Laura Sánchez,25753669,102,Ciudad Autónoma de Buenos Aires,laura.sánchez@fibertel.com.ar,+54 9 11 5584 3870,2018-05-03,42124.74
+C1155,Florencia,Torres,Florencia Torres,32546697,101,Buenos Aires,florencia.torres@fibertel.com.ar,+54 9 11 2355 1320,2018-12-23,61889.94
+C1156,Florencia,Ruiz,Florencia Ruiz,27226353,102,Ciudad Autónoma de Buenos Aires,florencia.ruiz@gmail.com,+54 9 11 1518 6756,2019-10-24,47026.8
+C1157,Laura,Medina,Laura Medina,31890426,113,Mendoza,laura.medina@fibertel.com.ar,+54 9 11 2358 9234,2018-08-02,139387.9
+C1158,Florencia,Ruiz,Florencia Ruiz,43128256,101,Buenos Aires,florencia.ruiz88@gmail.com,+54 9 11 2085 3575,2015-08-06,13723.74
+C1159,Carolina,Martínez,Carolina Martínez,33851145,102,Ciudad Autónoma de Buenos Aires,carolina.martínez@fibertel.com.ar,+54 9 11 8847 2345,2017-08-14,493457.08
+C1160,Valeria,Aguirre,Valeria Aguirre,32691773,102,Ciudad Autónoma de Buenos Aires,valeria.aguirre81@outlook.com,+54 9 11 5787 6373,2022-06-19,65604.53
+C1161,Luis,Romero,Luis Romero,34388286,102,Ciudad Autónoma de Buenos Aires,luis.romero@gmail.com,+54 9 11 9015 7501,2019-05-10,36962.95
+C1162,Valeria,Romero,Valeria Romero,25682814,106,Córdoba,valeria.romero@hotmail.com,+54 9 11 9951 5742,2023-02-01,128879.71
+C1163,Juan,Díaz,Juan Díaz,43060498,102,Ciudad Autónoma de Buenos Aires,juan.díaz@outlook.com,+54 9 11 5040 8149,2023-03-08,145625.8
+C1164,Carlos,Aguirre,Carlos Aguirre,36799428,101,Buenos Aires,carlos.aguirre@fibertel.com.ar,+54 9 11 9720 5417,2019-12-27,59352.49
+C1165,Valeria,Martínez,Valeria Martínez,30453508,103,Catamarca,valeria.martínez@hotmail.com,+54 9 11 8061 6258,2024-12-17,19517.54
+C1166,Diego,Sosa,Diego Sosa,38130227,101,Buenos Aires,diego.sosa@speedy.com.ar,+54 9 11 8842 8396,2015-04-26,122117.72
+C1167,Carlos,Ramírez,Carlos Ramírez,30878257,101,Buenos Aires,carlos.ramírez@fibertel.com.ar,+54 9 11 2591 2523,2017-12-15,373854.5
+C1168,Valeria,Sánchez,Valeria Sánchez,32015221,103,Catamarca,valeria.sánchez@hotmail.com,+54 9 11 7199 4752,2020-12-27,142404.31
+C1169,José,Herrera,José Herrera,32090135,106,Córdoba,josé.herrera@hotmail.com,+54 9 11 3371 3746,2021-03-01,94966.87
+C1170,Gabriel,Díaz,Gabriel Díaz,37374204,121,Santa Fe,gabriel.díaz@hotmail.com,+54 9 11 1573 3790,2019-02-04,152136.83
+C1171,Juan,Aguirre,Juan Aguirre,32270433,102,Ciudad Autónoma de Buenos Aires,juan.aguirre47@speedy.com.ar,+54 9 11 1025 2257,2017-11-28,302644.07
+C1172,Carlos,Medina,Carlos Medina,28594124,101,Buenos Aires,carlos.medina58@outlook.com,+54 9 11 6665 2437,2015-07-21,52044.15
+C1173,Martín,Ruiz,Martín Ruiz,25267940,102,Ciudad Autónoma de Buenos Aires,martín.ruiz74@outlook.com,+54 9 11 6607 7574,2018-06-17,17471.75
+C1174,Juan,López,Juan López,38174782,120,San Luis,juan.lópez@outlook.com,+54 9 11 2704 5111,2023-03-12,56860.18
+C1175,Martín,Herrera,Martín Herrera,35167974,120,San Luis,martín.herrera91@gmail.com,+54 9 11 3201 9813,2023-10-15,155927.89
+C1176,Matías,Benítez,Matías Benítez,43541096,122,Santiago del Estero,matías.benítez@gmail.com,+54 9 11 3104 7244,2017-09-13,37147.17
+C1177,María,Torres,María Torres,42300953,119,San Juan,maría.torres90@speedy.com.ar,+54 9 11 9918 5362,2023-02-20,53900.95
+C1178,Lucía,Aguirre,Lucía Aguirre,33424518,104,Chaco,lucía.aguirre92@fibertel.com.ar,+54 9 11 9454 5145,2016-09-11,497313.52
+C1179,Carolina,González,Carolina González,28444280,102,Ciudad Autónoma de Buenos Aires,carolina.gonzález@yahoo.com.ar,+54 9 11 1205 6105,2015-08-12,321963.51
+C1180,Pablo,Rodríguez,Pablo Rodríguez,35077308,101,Buenos Aires,pablo.rodríguez92@outlook.com,+54 9 11 3482 2432,2025-02-23,27074.53
+C1181,Florencia,Benítez,Florencia Benítez,26629539,101,Buenos Aires,florencia.benítez@hotmail.com,+54 9 11 2052 3296,2024-01-07,149695.25
+C1182,Pablo,Flores,Pablo Flores,44928694,106,Córdoba,pablo.flores@speedy.com.ar,+54 9 11 9471 3475,2018-06-11,174239.67
+C1183,Carolina,Medina,Carolina Medina,28617176,102,Ciudad Autónoma de Buenos Aires,carolina.medina@hotmail.com,+54 9 11 1258 2069,2015-05-04,107010.13
+C1184,Valeria,Medina,Valeria Medina,31885009,101,Buenos Aires,valeria.medina62@gmail.com,+54 9 11 1407 8163,2024-12-19,130478.01
+C1185,Martín,Benítez,Martín Benítez,43955977,121,Santa Fe,martín.benítez@hotmail.com,+54 9 11 9415 8763,2017-03-09,5220.15
+C1186,Pablo,Sánchez,Pablo Sánchez,40507244,107,Corrientes,pablo.sánchez30@hotmail.com,+54 9 11 5944 2407,2015-04-16,7983.5
+C1187,Valeria,López,Valeria López,28629638,102,Ciudad Autónoma de Buenos Aires,valeria.lópez@yahoo.com.ar,+54 9 11 4364 9431,2018-11-18,41313.17
+C1188,Pablo,Díaz,Pablo Díaz,27739171,113,Mendoza,pablo.díaz@gmail.com,+54 9 11 8743 5210,2024-10-25,602421.58
+C1189,Florencia,Ramírez,Florencia Ramírez,29409712,119,San Juan,florencia.ramírez@outlook.com,+54 9 11 9402 8817,2024-01-06,30529.6
+C1190,Pablo,Acosta,Pablo Acosta,37037042,101,Buenos Aires,pablo.acosta16@outlook.com,+54 9 11 8064 5905,2019-03-09,264694.7
+C1191,Matías,Herrera,Matías Herrera,32392362,101,Buenos Aires,matías.herrera@hotmail.com,+54 9 11 2478 9119,2015-03-26,42110.28
+C1192,Gabriel,Rodríguez,Gabriel Rodríguez,33860857,102,Ciudad Autónoma de Buenos Aires,gabriel.rodríguez@yahoo.com.ar,+54 9 11 3872 2690,2020-01-02,59255.41
+C1193,Valeria,Fernández,Valeria Fernández,41622391,106,Córdoba,valeria.fernández@yahoo.com.ar,+54 9 11 1641 8788,2017-03-08,92643.99
+C1194,Lucía,López,Lucía López,43163012,102,Ciudad Autónoma de Buenos Aires,lucía.lópez@fibertel.com.ar,+54 9 11 3104 3941,2023-12-31,707941.4
+C1195,Martín,Fernández,Martín Fernández,42329703,121,Santa Fe,martín.fernández@yahoo.com.ar,+54 9 11 8686 8277,2024-04-24,89768.22
+C1196,Valeria,Torres,Valeria Torres,26505080,124,Tucumán,valeria.torres@hotmail.com,+54 9 11 5508 8033,2025-05-08,78256.3
+C1197,Luis,Martínez,Luis Martínez,26606556,121,Santa Fe,luis.martínez67@speedy.com.ar,+54 9 11 2152 6882,2018-10-18,114288.75
+C1198,Carlos,Flores,Carlos Flores,37020877,119,San Juan,carlos.flores@fibertel.com.ar,+54 9 11 2231 7775,2023-05-12,261419.51
+C1199,Florencia,Ruiz,Florencia Ruiz,41852271,121,Santa Fe,florencia.ruiz@outlook.com,+54 9 11 8556 4242,2021-07-09,45847.59
+C1200,Martín,Ruiz,Martín Ruiz,29235995,102,Ciudad Autónoma de Buenos Aires,martín.ruiz@gmail.com,+54 9 11 2257 3284,2015-07-26,85110.56
+C1201,Lucía,Herrera,Lucía Herrera,36316311,112,La Rioja,lucía.herrera39@gmail.com,+54 9 11 8392 2406,2016-10-23,32810.9
+C1202,José,Herrera,José Herrera,35737077,102,Ciudad Autónoma de Buenos Aires,josé.herrera@fibertel.com.ar,+54 9 11 4500 2083,2017-04-29,611327.03
+C1203,Valeria,González,Valeria González,41819530,102,Ciudad Autónoma de Buenos Aires,valeria.gonzález@gmail.com,+54 9 11 3227 3275,2016-01-24,129433.95
+C1204,Pablo,Herrera,Pablo Herrera,40553790,101,Buenos Aires,pablo.herrera49@outlook.com,+54 9 11 5639 7084,2023-05-29,5650.84
+C1205,Carlos,Martínez,Carlos Martínez,31113910,101,Buenos Aires,carlos.martínez@hotmail.com,+54 9 11 4543 9804,2019-09-29,79531.9
+C1206,Laura,Benítez,Laura Benítez,36473464,106,Córdoba,laura.benítez75@hotmail.com,+54 9 11 2963 6157,2025-11-05,344502.97
+C1207,Florencia,Fernández,Florencia Fernández,39318145,106,Córdoba,florencia.fernández@yahoo.com.ar,+54 9 11 6301 5419,2018-01-08,145433.21
+C1208,José,Díaz,José Díaz,35892018,124,Tucumán,josé.díaz45@yahoo.com.ar,+54 9 11 5136 3736,2024-09-07,146290.36
+C1209,Martín,Ruiz,Martín Ruiz,25789666,102,Ciudad Autónoma de Buenos Aires,martín.ruiz@hotmail.com,+54 9 11 1308 4395,2021-06-04,28722.59
+C1210,Gabriel,Romero,Gabriel Romero,37382385,106,Córdoba,gabriel.romero@outlook.com,+54 9 11 9317 7794,2015-08-07,122463.43
+C1211,Gabriel,Gómez,Gabriel Gómez,31398226,113,Mendoza,gabriel.gómez@outlook.com,+54 9 11 8800 9374,2021-11-01,619438.56
+C1212,Sofía,López,Sofía López,38036733,119,San Juan,sofía.lópez@yahoo.com.ar,+54 9 11 7772 6465,2017-10-19,109258.46
+C1213,Carolina,Flores,Carolina Flores,26076719,104,Chaco,carolina.flores40@yahoo.com.ar,+54 9 11 7640 8989,2022-06-05,302019.2
+C1214,Luis,Sánchez,Luis Sánchez,30408087,102,Ciudad Autónoma de Buenos Aires,luis.sánchez@fibertel.com.ar,+54 9 11 9367 6215,2024-04-01,370608.17
+C1215,Ana,Rodríguez,Ana Rodríguez,29045079,101,Buenos Aires,ana.rodríguez@yahoo.com.ar,+54 9 11 2501 5462,2021-09-01,398898.24
+C1216,Federico,Flores,Federico Flores,28738662,101,Buenos Aires,federico.flores@outlook.com,+54 9 11 7997 5885,2017-12-10,498108.25
+C1217,Federico,Rodríguez,Federico Rodríguez,33405679,101,Buenos Aires,federico.rodríguez@gmail.com,+54 9 11 5653 7866,2025-11-06,111968.11
+C1218,Carlos,Benítez,Carlos Benítez,36554418,101,Buenos Aires,carlos.benítez@gmail.com,+54 9 11 7361 7016,2025-10-29,153153.77
+C1219,Gabriel,Torres,Gabriel Torres,35170670,101,Buenos Aires,gabriel.torres@fibertel.com.ar,+54 9 11 3383 5279,2018-08-31,95084.51
+C1220,Juan,Acosta,Juan Acosta,41804641,106,Córdoba,juan.acosta@yahoo.com.ar,+54 9 11 4882 7473,2015-06-05,109855.45
+C1221,Camila,Flores,Camila Flores,25447954,101,Buenos Aires,camila.flores@hotmail.com,+54 9 11 6592 7329,2020-03-06,348379.85
+C1222,Federico,Gómez,Federico Gómez,32812104,106,Córdoba,federico.gómez@gmail.com,+54 9 11 5789 3781,2019-07-03,26904.77
+C1223,Valeria,Ramírez,Valeria Ramírez,29192133,105,Chubut,valeria.ramírez@yahoo.com.ar,+54 9 11 8994 7007,2023-04-10,115496.74
+C1224,Gabriel,Benítez,Gabriel Benítez,32377855,112,La Rioja,gabriel.benítez@yahoo.com.ar,+54 9 11 7031 2346,2020-05-23,115607.54
+C1225,Matías,Fernández,Matías Fernández,38119514,101,Buenos Aires,matías.fernández@outlook.com,+54 9 11 7875 8792,2025-04-19,121189.74
+C1226,Florencia,Romero,Florencia Romero,41788395,121,Santa Fe,florencia.romero@speedy.com.ar,+54 9 11 8910 1721,2016-06-23,131913.77
+C1227,Julieta,Flores,Julieta Flores,44138549,118,Salta,julieta.flores95@outlook.com,+54 9 11 3769 7512,2017-04-15,74647.27
+C1228,Carlos,Medina,Carlos Medina,26491597,101,Buenos Aires,carlos.medina49@speedy.com.ar,+54 9 11 1263 1819,2018-04-04,22404.37
+C1229,Carolina,Díaz,Carolina Díaz,25415400,101,Buenos Aires,carolina.díaz@gmail.com,+54 9 11 4705 5580,2020-05-25,20060.78
+C1230,Pablo,Ruiz,Pablo Ruiz,29439774,102,Ciudad Autónoma de Buenos Aires,pablo.ruiz51@hotmail.com,+54 9 11 2482 2338,2020-12-29,554279.98
+C1231,Laura,Ramírez,Laura Ramírez,27465122,102,Ciudad Autónoma de Buenos Aires,laura.ramírez@gmail.com,+54 9 11 4607 2530,2025-07-07,8054.37
+C1232,Carolina,Torres,Carolina Torres,38924085,106,Córdoba,carolina.torres@fibertel.com.ar,+54 9 11 9859 8007,2018-11-21,139551.55
+C1233,Florencia,Medina,Florencia Medina,42535751,101,Buenos Aires,florencia.medina87@gmail.com,+54 9 11 1915 7748,2015-02-04,570453.75
+C1234,María,Martínez,María Martínez,33078072,102,Ciudad Autónoma de Buenos Aires,maría.martínez@outlook.com,+54 9 11 5589 2312,2024-12-12,58028.05
+C1235,Federico,Fernández,Federico Fernández,31646934,107,Corrientes,federico.fernández@gmail.com,+54 9 11 8669 5775,2016-10-12,16643.68
+C1236,Ana,Ruiz,Ana Ruiz,34428270,120,San Luis,ana.ruiz96@outlook.com,+54 9 11 9455 7391,2022-09-20,35943.63
+C1237,Camila,Martínez,Camila Martínez,36874142,102,Ciudad Autónoma de Buenos Aires,camila.martínez@yahoo.com.ar,+54 9 11 9850 7272,2022-10-15,111033.91
+C1238,Diego,Gómez,Diego Gómez,41747571,113,Mendoza,diego.gómez52@hotmail.com,+54 9 11 5019 3800,2019-07-26,32429.77
+C1239,Pablo,Sánchez,Pablo Sánchez,37512793,102,Ciudad Autónoma de Buenos Aires,pablo.sánchez33@hotmail.com,+54 9 11 2687 4714,2019-08-26,11228.92
+C1240,Gabriel,Pérez,Gabriel Pérez,36967773,115,Neuquén,gabriel.pérez@yahoo.com.ar,+54 9 11 5837 3748,2017-11-01,13492.86
+C1241,Laura,Flores,Laura Flores,33423518,110,Jujuy,laura.flores@gmail.com,+54 9 11 1579 5943,2024-02-06,37601.27
+C1242,Lucía,Pérez,Lucía Pérez,43648633,102,Ciudad Autónoma de Buenos Aires,lucía.pérez@hotmail.com,+54 9 11 5106 8875,2024-11-24,669968.98
+C1243,Carolina,Benítez,Carolina Benítez,36822952,118,Salta,carolina.benítez@hotmail.com,+54 9 11 6476 6736,2018-12-31,144916.78
+C1244,Lucía,Acosta,Lucía Acosta,28324024,102,Ciudad Autónoma de Buenos Aires,lucía.acosta@outlook.com,+54 9 11 6392 9512,2024-06-15,38094.36
+C1245,Valeria,Sánchez,Valeria Sánchez,35836352,101,Buenos Aires,valeria.sánchez@outlook.com,+54 9 11 2198 6513,2022-03-09,41916.26
+C1246,Julieta,Flores,Julieta Flores,35822943,104,Chaco,julieta.flores@fibertel.com.ar,+54 9 11 3277 6130,2021-05-30,38141.95
+C1247,José,Herrera,José Herrera,41799855,107,Corrientes,josé.herrera@hotmail.com,+54 9 11 4843 7586,2025-01-17,96448.41
+C1248,Valeria,Rodríguez,Valeria Rodríguez,41230348,102,Ciudad Autónoma de Buenos Aires,valeria.rodríguez72@gmail.com,+54 9 11 4426 1537,2019-04-25,435252.67
+C1249,Juan,Sosa,Juan Sosa,38361081,101,Buenos Aires,juan.sosa@speedy.com.ar,+54 9 11 6824 7374,2025-08-20,308356.17
+C1250,Luis,López,Luis López,25959064,121,Santa Fe,luis.lópez@speedy.com.ar,+54 9 11 2854 3101,2018-06-09,11962.11
+C1251,Florencia,Romero,Florencia Romero,41790504,106,Córdoba,florencia.romero36@hotmail.com,+54 9 11 8434 7797,2024-09-26,29218.54
+C1252,Gabriel,Díaz,Gabriel Díaz,27763833,102,Ciudad Autónoma de Buenos Aires,gabriel.díaz@fibertel.com.ar,+54 9 11 9965 1954,2021-09-26,66446.86
+C1253,Carlos,Ramírez,Carlos Ramírez,40889667,102,Ciudad Autónoma de Buenos Aires,carlos.ramírez62@gmail.com,+54 9 11 9764 5170,2018-03-16,70598.81
+C1254,Lucía,Ruiz,Lucía Ruiz,36518392,106,Córdoba,lucía.ruiz81@outlook.com,+54 9 11 6106 3549,2020-11-28,314205.31
+C1255,Valeria,López,Valeria López,42114401,118,Salta,valeria.lópez81@yahoo.com.ar,+54 9 11 4636 8710,2018-06-25,54688.22
+C1256,Carolina,Aguirre,Carolina Aguirre,44952461,101,Buenos Aires,carolina.aguirre@gmail.com,+54 9 11 1733 7759,2015-06-10,73151.18
+C1257,Carolina,Herrera,Carolina Herrera,39008565,102,Ciudad Autónoma de Buenos Aires,carolina.herrera@gmail.com,+54 9 11 6133 2991,2025-04-05,618235.0
+C1258,José,Benítez,José Benítez,32877024,121,Santa Fe,josé.benítez@hotmail.com,+54 9 11 8642 9030,2019-10-04,142189.83
+C1259,Pablo,Aguirre,Pablo Aguirre,40269898,115,Neuquén,pablo.aguirre@speedy.com.ar,+54 9 11 3248 1030,2024-04-13,35172.6
+C1260,Valeria,Herrera,Valeria Herrera,34516687,106,Córdoba,valeria.herrera@hotmail.com,+54 9 11 1172 3281,2025-11-13,88134.56
+C1261,Diego,González,Diego González,38315613,101,Buenos Aires,diego.gonzález@hotmail.com,+54 9 11 7476 3934,2021-07-19,359566.73
+C1262,María,Fernández,María Fernández,31721381,106,Córdoba,maría.fernández22@hotmail.com,+54 9 11 5943 2255,2017-08-26,136766.44
+C1263,Carolina,Rodríguez,Carolina Rodríguez,38016532,101,Buenos Aires,carolina.rodríguez@hotmail.com,+54 9 11 7532 2326,2022-06-08,143710.85
+C1264,Carlos,Díaz,Carlos Díaz,40033892,102,Ciudad Autónoma de Buenos Aires,carlos.díaz@outlook.com,+54 9 11 1325 6853,2018-10-04,771121.35
+C1265,Carolina,Pérez,Carolina Pérez,27609974,102,Ciudad Autónoma de Buenos Aires,carolina.pérez35@hotmail.com,+54 9 11 2210 9967,2022-12-22,102732.91
+C1266,Carolina,González,Carolina González,28476020,101,Buenos Aires,carolina.gonzález@hotmail.com,+54 9 11 9186 2438,2023-03-15,87533.1
+C1267,Lucía,Fernández,Lucía Fernández,43732290,104,Chaco,lucía.fernández93@fibertel.com.ar,+54 9 11 7020 2139,2023-10-21,108149.63
+C1268,Carolina,Flores,Carolina Flores,37412836,107,Corrientes,carolina.flores49@outlook.com,+54 9 11 1472 5509,2024-08-01,53346.21
+C1269,Gabriel,López,Gabriel López,41051934,116,Río Negro,gabriel.lópez@outlook.com,+54 9 11 2362 1808,2024-10-17,120120.13
+C1270,Martín,Romero,Martín Romero,44343181,109,Formosa,martín.romero@yahoo.com.ar,+54 9 11 5954 5430,2024-02-25,4080384.9
+C1271,José,Díaz,José Díaz,40659310,102,Ciudad Autónoma de Buenos Aires,josé.díaz@hotmail.com,+54 9 11 1364 3168,2020-09-26,75682.01
+C1272,Federico,Ruiz,Federico Ruiz,44889247,101,Buenos Aires,federico.ruiz@speedy.com.ar,+54 9 11 2081 8993,2019-03-07,82539.66
+C1273,Ana,Sosa,Ana Sosa,30044523,101,Buenos Aires,ana.sosa@gmail.com,+54 9 11 1014 6157,2016-12-15,76811.55
+C1274,Carolina,Benítez,Carolina Benítez,33923668,106,Córdoba,carolina.benítez@hotmail.com,+54 9 11 5020 7356,2024-10-21,60549.49
+C1275,Sofía,Rodríguez,Sofía Rodríguez,36061167,108,Entre Ríos,sofía.rodríguez@hotmail.com,+54 9 11 9059 3156,2016-02-27,34830.79
+C1276,Matías,López,Matías López,32351156,102,Ciudad Autónoma de Buenos Aires,matías.lópez@outlook.com,+54 9 11 7116 5993,2020-01-18,129535.8
+C1277,María,Díaz,María Díaz,43195197,101,Buenos Aires,maría.díaz@hotmail.com,+54 9 11 5412 5662,2020-04-03,694311.48
+C1278,Luis,Gómez,Luis Gómez,27471977,101,Buenos Aires,luis.gómez65@speedy.com.ar,+54 9 11 6594 2545,2024-03-22,124680.69
+C1279,Julieta,Aguirre,Julieta Aguirre,41316426,102,Ciudad Autónoma de Buenos Aires,julieta.aguirre@hotmail.com,+54 9 11 5260 5894,2023-03-26,489191.52
+C1280,Julieta,Rodríguez,Julieta Rodríguez,38443341,124,Tucumán,julieta.rodríguez19@outlook.com,+54 9 11 4443 6569,2025-11-15,113074.78
+C1281,Diego,Aguirre,Diego Aguirre,31658151,101,Buenos Aires,diego.aguirre54@outlook.com,+54 9 11 1327 5654,2019-11-04,11234.93
+C1282,Valeria,Flores,Valeria Flores,43870922,112,La Rioja,valeria.flores@gmail.com,+54 9 11 3300 2026,2015-05-03,45616.05
+C1283,Diego,Ruiz,Diego Ruiz,33019323,106,Córdoba,diego.ruiz@speedy.com.ar,+54 9 11 8113 6732,2025-07-05,7501.43
+C1284,Martín,Medina,Martín Medina,32995747,124,Tucumán,martín.medina70@gmail.com,+54 9 11 6851 3181,2019-11-22,321700.7
+C1285,Matías,Acosta,Matías Acosta,33968560,102,Ciudad Autónoma de Buenos Aires,matías.acosta@hotmail.com,+54 9 11 3592 4383,2018-02-25,121483.38
+C1286,Carlos,Sánchez,Carlos Sánchez,42539285,102,Ciudad Autónoma de Buenos Aires,carlos.sánchez@outlook.com,+54 9 11 3894 1068,2025-01-17,93759.66
+C1287,Matías,Rodríguez,Matías Rodríguez,33977261,102,Ciudad Autónoma de Buenos Aires,matías.rodríguez94@outlook.com,+54 9 11 2919 8776,2023-04-12,86863.85
+C1288,Federico,Medina,Federico Medina,42598364,101,Buenos Aires,federico.medina@speedy.com.ar,+54 9 11 8844 7764,2025-09-25,4620207.07
+C1289,Carolina,Sánchez,Carolina Sánchez,34885245,102,Ciudad Autónoma de Buenos Aires,carolina.sánchez@gmail.com,+54 9 11 4951 4453,2023-11-13,103760.7
+C1290,Florencia,Medina,Florencia Medina,30549278,120,San Luis,florencia.medina95@outlook.com,+54 9 11 8002 1577,2017-02-01,13738.93
+C1291,Martín,Herrera,Martín Herrera,25418239,102,Ciudad Autónoma de Buenos Aires,martín.herrera@outlook.com,+54 9 11 8273 7348,2021-04-11,7736.21
+C1292,José,Torres,José Torres,33889622,101,Buenos Aires,josé.torres@yahoo.com.ar,+54 9 11 6670 5753,2024-07-31,126454.5
+C1293,José,Aguirre,José Aguirre,35371090,101,Buenos Aires,josé.aguirre@speedy.com.ar,+54 9 11 5863 4560,2015-08-06,225458.09
+C1294,Valeria,Medina,Valeria Medina,25134426,101,Buenos Aires,valeria.medina@hotmail.com,+54 9 11 3316 5799,2023-06-10,82957.08
+C1295,Laura,Sánchez,Laura Sánchez,44358997,101,Buenos Aires,laura.sánchez89@gmail.com,+54 9 11 1868 9325,2023-10-25,83417.37
+C1296,Juan,Pérez,Juan Pérez,40712715,109,Formosa,juan.pérez@yahoo.com.ar,+54 9 11 4534 3610,2019-01-11,79726.46
+C1297,Juan,Aguirre,Juan Aguirre,36810332,102,Ciudad Autónoma de Buenos Aires,juan.aguirre@speedy.com.ar,+54 9 11 4353 8993,2020-09-25,68451.75
+C1298,Valeria,Martínez,Valeria Martínez,28879986,105,Chubut,valeria.martínez@hotmail.com,+54 9 11 8978 5017,2021-04-15,608781.36
+C1299,José,Fernández,José Fernández,26049704,102,Ciudad Autónoma de Buenos Aires,josé.fernández@speedy.com.ar,+54 9 11 6275 4287,2017-04-14,73695.03
+C1300,Diego,Ramírez,Diego Ramírez,25825834,101,Buenos Aires,diego.ramírez@speedy.com.ar,+54 9 11 2193 2197,2015-09-04,148030.55
+C1301,María,Martínez,María Martínez,32660703,106,Córdoba,maría.martínez@fibertel.com.ar,+54 9 11 1780 4136,2023-08-10,81012.16
+C1302,Laura,López,Laura López,41629947,116,Río Negro,laura.lópez@yahoo.com.ar,+54 9 11 9835 7765,2015-01-03,27346.9
+C1303,Pablo,Martínez,Pablo Martínez,41301738,101,Buenos Aires,pablo.martínez@hotmail.com,+54 9 11 2827 7351,2018-07-11,327850.33
+C1304,María,Herrera,María Herrera,43030787,115,Neuquén,maría.herrera25@outlook.com,+54 9 11 2724 2681,2015-04-25,77583.98
+C1305,María,Flores,María Flores,43161225,113,Mendoza,maría.flores@speedy.com.ar,+54 9 11 6724 9242,2024-08-31,16637.73
+C1306,Lucía,Torres,Lucía Torres,31498519,124,Tucumán,lucía.torres@hotmail.com,+54 9 11 2192 7733,2020-06-14,146754.69
+C1307,Ana,López,Ana López,42579295,124,Tucumán,ana.lópez@speedy.com.ar,+54 9 11 7967 8444,2015-06-08,131929.73
+C1308,Federico,Romero,Federico Romero,25286669,106,Córdoba,federico.romero@speedy.com.ar,+54 9 11 5444 4202,2015-11-24,38538.62
+C1309,Martín,Gómez,Martín Gómez,26438406,101,Buenos Aires,martín.gómez@hotmail.com,+54 9 11 4181 7971,2021-04-30,6186.69
+C1310,Camila,Pérez,Camila Pérez,28488071,118,Salta,camila.pérez@outlook.com,+54 9 11 8078 7275,2020-07-09,85218.54
+C1311,Florencia,Fernández,Florencia Fernández,30603312,101,Buenos Aires,florencia.fernández59@outlook.com,+54 9 11 4707 4417,2015-04-12,570052.87
+C1312,Laura,Ruiz,Laura Ruiz,44476155,101,Buenos Aires,laura.ruiz@gmail.com,+54 9 11 6988 2430,2022-04-12,65145.45
+C1313,Ana,Sosa,Ana Sosa,44671094,101,Buenos Aires,ana.sosa@outlook.com,+54 9 11 6934 6680,2017-10-29,19564.74
+C1314,Laura,Sosa,Laura Sosa,43729570,114,Misiones,laura.sosa82@fibertel.com.ar,+54 9 11 7312 9307,2019-11-14,394568.19
+C1315,Carlos,Gómez,Carlos Gómez,35348798,101,Buenos Aires,carlos.gómez28@yahoo.com.ar,+54 9 11 4654 3528,2022-02-15,9682.32
+C1316,José,Ruiz,José Ruiz,40972951,121,Santa Fe,josé.ruiz@hotmail.com,+54 9 11 1591 4426,2019-02-09,248883.93
+C1317,Valeria,Rodríguez,Valeria Rodríguez,37975831,106,Córdoba,valeria.rodríguez@outlook.com,+54 9 11 2448 7267,2024-05-23,55955.33
+C1318,Pablo,Torres,Pablo Torres,28894112,107,Corrientes,pablo.torres@speedy.com.ar,+54 9 11 2397 7181,2021-03-04,90454.84
+C1319,Pablo,Torres,Pablo Torres,27164808,118,Salta,pablo.torres@fibertel.com.ar,+54 9 11 6131 1872,2017-11-04,100753.86
+C1320,Camila,Romero,Camila Romero,25185359,123,Tierra del Fuego,camila.romero58@yahoo.com.ar,+54 9 11 9499 8718,2022-08-03,107057.37
+C1321,Luis,Sosa,Luis Sosa,30814830,113,Mendoza,luis.sosa93@hotmail.com,+54 9 11 8911 8659,2015-02-04,7053.43
+C1322,Valeria,Ruiz,Valeria Ruiz,33224570,101,Buenos Aires,valeria.ruiz@fibertel.com.ar,+54 9 11 9298 3552,2015-09-02,88210.91
+C1323,Juan,Sánchez,Juan Sánchez,43729220,121,Santa Fe,juan.sánchez@gmail.com,+54 9 11 7106 5394,2022-06-03,60405.4
+C1324,Valeria,López,Valeria López,32787862,124,Tucumán,valeria.lópez@fibertel.com.ar,+54 9 11 9989 1378,2020-10-14,22732.9
+C1325,Gabriel,Sosa,Gabriel Sosa,37630657,102,Ciudad Autónoma de Buenos Aires,gabriel.sosa52@yahoo.com.ar,+54 9 11 1666 6332,2019-09-03,118436.94
+C1326,Lucía,López,Lucía López,32230772,101,Buenos Aires,lucía.lópez@yahoo.com.ar,+54 9 11 6309 9032,2024-12-25,491762.24
+C1327,Juan,Fernández,Juan Fernández,30033718,107,Corrientes,juan.fernández@speedy.com.ar,+54 9 11 6727 6968,2018-10-30,74916.07
+C1328,Laura,Martínez,Laura Martínez,42734899,123,Tierra del Fuego,laura.martínez@speedy.com.ar,+54 9 11 7705 5261,2022-12-03,617223.77
+C1329,Laura,Gómez,Laura Gómez,28319896,102,Ciudad Autónoma de Buenos Aires,laura.gómez@hotmail.com,+54 9 11 9380 7597,2019-09-06,659051.77
+C1330,Camila,Díaz,Camila Díaz,31305883,107,Corrientes,camila.díaz@speedy.com.ar,+54 9 11 5732 2997,2015-07-02,136509.29
+C1331,Camila,Díaz,Camila Díaz,31805545,101,Buenos Aires,camila.díaz90@speedy.com.ar,+54 9 11 6127 7018,2017-06-03,103359.86
+C1332,Gabriel,Ramírez,Gabriel Ramírez,30999124,102,Ciudad Autónoma de Buenos Aires,gabriel.ramírez69@hotmail.com,+54 9 11 6548 1690,2017-04-04,47097.6
+C1333,Ana,Gómez,Ana Gómez,29523638,114,Misiones,ana.gómez@hotmail.com,+54 9 11 5260 5148,2018-02-25,140165.15
+C1334,Gabriel,Ramírez,Gabriel Ramírez,28152830,103,Catamarca,gabriel.ramírez@speedy.com.ar,+54 9 11 4581 8327,2018-09-18,101770.29
+C1335,Gabriel,Romero,Gabriel Romero,39418112,101,Buenos Aires,gabriel.romero@fibertel.com.ar,+54 9 11 4647 5452,2020-11-16,26828.29
+C1336,Florencia,Medina,Florencia Medina,34721721,113,Mendoza,florencia.medina@speedy.com.ar,+54 9 11 3631 9088,2019-11-30,112232.03
+C1337,José,Ruiz,José Ruiz,29481839,109,Formosa,josé.ruiz@gmail.com,+54 9 11 6849 3758,2016-07-26,48442.39
+C1338,Julieta,Herrera,Julieta Herrera,39292689,101,Buenos Aires,julieta.herrera@speedy.com.ar,+54 9 11 3290 7147,2017-05-21,31961.49
+C1339,María,Herrera,María Herrera,27817100,113,Mendoza,maría.herrera@speedy.com.ar,+54 9 11 6322 6366,2016-08-15,108157.17
+C1340,María,López,María López,41753021,101,Buenos Aires,maría.lópez@speedy.com.ar,+54 9 11 8398 4749,2020-06-23,715730.63
+C1341,Diego,Ramírez,Diego Ramírez,42722040,101,Buenos Aires,diego.ramírez80@hotmail.com,+54 9 11 2197 5400,2018-12-06,27161.62
+C1342,Camila,Benítez,Camila Benítez,25937494,101,Buenos Aires,camila.benítez@gmail.com,+54 9 11 1606 9819,2025-06-09,50632.02
+C1343,Pablo,Romero,Pablo Romero,40200315,124,Tucumán,pablo.romero@gmail.com,+54 9 11 6599 7938,2019-01-28,38930.67
+C1344,Julieta,Torres,Julieta Torres,35917610,124,Tucumán,julieta.torres@yahoo.com.ar,+54 9 11 2317 3062,2019-05-23,104030.14
+C1345,Florencia,Ramírez,Florencia Ramírez,38741405,107,Corrientes,florencia.ramírez@yahoo.com.ar,+54 9 11 1278 3189,2022-12-07,361340.57
+C1346,Martín,Pérez,Martín Pérez,44863405,101,Buenos Aires,martín.pérez28@hotmail.com,+54 9 11 2149 7036,2021-02-20,138019.5
+C1347,Lucía,Benítez,Lucía Benítez,31932750,110,Jujuy,lucía.benítez@yahoo.com.ar,+54 9 11 6871 7742,2017-08-14,56794.5
+C1348,Ana,Romero,Ana Romero,34984014,102,Ciudad Autónoma de Buenos Aires,ana.romero43@gmail.com,+54 9 11 4945 5106,2020-10-14,24273.08
+C1349,Juan,Medina,Juan Medina,28936665,105,Chubut,juan.medina73@yahoo.com.ar,+54 9 11 7894 3691,2017-08-31,51848.04
+C1350,Pablo,Martínez,Pablo Martínez,39235166,102,Ciudad Autónoma de Buenos Aires,pablo.martínez22@gmail.com,+54 9 11 3929 1944,2018-01-10,59728.05
+C1351,José,Benítez,José Benítez,42402397,124,Tucumán,josé.benítez@hotmail.com,+54 9 11 9944 6649,2020-11-05,5310.39
+C1352,Gabriel,Torres,Gabriel Torres,35155446,119,San Juan,gabriel.torres79@speedy.com.ar,+54 9 11 7633 6260,2022-08-30,39683.75
+C1353,Ana,Martínez,Ana Martínez,27553704,102,Ciudad Autónoma de Buenos Aires,ana.martínez24@fibertel.com.ar,+54 9 11 8505 6507,2025-10-08,46909.98
+C1354,Carlos,Romero,Carlos Romero,34768384,114,Misiones,carlos.romero31@fibertel.com.ar,+54 9 11 2271 1913,2018-08-22,141751.47
+C1355,Juan,González,Juan González,37386006,124,Tucumán,juan.gonzález25@hotmail.com,+54 9 11 3014 8656,2015-06-09,59338.04
+C1356,Federico,Medina,Federico Medina,38440106,105,Chubut,federico.medina64@hotmail.com,+54 9 11 6606 5466,2021-05-14,86731.48
+C1357,Sofía,Acosta,Sofía Acosta,25734793,121,Santa Fe,sofía.acosta@speedy.com.ar,+54 9 11 7200 5318,2023-04-19,59510.74
+C1358,Gabriel,Díaz,Gabriel Díaz,28799579,101,Buenos Aires,gabriel.díaz@fibertel.com.ar,+54 9 11 8433 9740,2019-02-25,133976.06
+C1359,Sofía,Pérez,Sofía Pérez,40955274,101,Buenos Aires,sofía.pérez@speedy.com.ar,+54 9 11 2487 6948,2023-04-02,11701.08
+C1360,José,Aguirre,José Aguirre,37023662,101,Buenos Aires,josé.aguirre82@outlook.com,+54 9 11 5282 1167,2015-05-15,80518.36
+C1361,José,Ruiz,José Ruiz,32282848,101,Buenos Aires,josé.ruiz71@hotmail.com,+54 9 11 1504 1989,2022-05-22,59167.94
+C1362,Sofía,González,Sofía González,29403463,102,Ciudad Autónoma de Buenos Aires,sofía.gonzález@yahoo.com.ar,+54 9 11 5201 1083,2019-12-22,243324.41
+C1363,Lucía,Acosta,Lucía Acosta,44766585,101,Buenos Aires,lucía.acosta23@hotmail.com,+54 9 11 2112 4756,2019-11-06,23519.84
+C1364,Camila,Ramírez,Camila Ramírez,44391927,121,Santa Fe,camila.ramírez@speedy.com.ar,+54 9 11 1820 3086,2023-01-11,87178.69
+C1365,Carolina,Sosa,Carolina Sosa,28272529,107,Corrientes,carolina.sosa@yahoo.com.ar,+54 9 11 8550 3326,2017-05-10,453063.25
+C1366,Carolina,Pérez,Carolina Pérez,36082384,121,Santa Fe,carolina.pérez@outlook.com,+54 9 11 4665 8383,2021-06-30,66178.33
+C1367,Florencia,López,Florencia López,36467746,109,Formosa,florencia.lópez@yahoo.com.ar,+54 9 11 3490 7616,2017-04-09,88869.82
+C1368,Lucía,González,Lucía González,42592807,101,Buenos Aires,lucía.gonzález79@yahoo.com.ar,+54 9 11 6172 7577,2017-12-24,115569.74
+C1369,Pablo,Sosa,Pablo Sosa,35737555,106,Córdoba,pablo.sosa61@gmail.com,+54 9 11 2381 2711,2020-12-16,54693.62
+C1370,Carolina,Ruiz,Carolina Ruiz,37322002,116,Río Negro,carolina.ruiz@yahoo.com.ar,+54 9 11 7108 9449,2022-07-09,515543.31
+C1371,Diego,Martínez,Diego Martínez,37707669,109,Formosa,diego.martínez@outlook.com,+54 9 11 2533 1415,2019-05-24,14208.76
+C1372,Luis,Ramírez,Luis Ramírez,33378594,101,Buenos Aires,luis.ramírez@speedy.com.ar,+54 9 11 4808 5433,2019-06-20,287420.84
+C1373,Julieta,Sánchez,Julieta Sánchez,35023781,101,Buenos Aires,julieta.sánchez@speedy.com.ar,+54 9 11 5903 7940,2021-11-26,77079.62
+C1374,María,Torres,María Torres,36339696,109,Formosa,maría.torres23@speedy.com.ar,+54 9 11 5538 2873,2021-02-15,102243.88
+C1375,Camila,López,Camila López,35580687,121,Santa Fe,camila.lópez@gmail.com,+54 9 11 7344 9317,2019-07-10,43125.96
+C1376,Valeria,Díaz,Valeria Díaz,35994358,101,Buenos Aires,valeria.díaz@fibertel.com.ar,+54 9 11 8386 2544,2021-07-10,716225.66
+C1377,Pablo,Benítez,Pablo Benítez,29891863,106,Córdoba,pablo.benítez@hotmail.com,+54 9 11 3441 9695,2024-09-14,108329.74
+C1378,Lucía,Sánchez,Lucía Sánchez,41999140,106,Córdoba,lucía.sánchez@fibertel.com.ar,+54 9 11 2973 2216,2021-09-05,730995.86
+C1379,Carlos,González,Carlos González,31421383,101,Buenos Aires,carlos.gonzález89@speedy.com.ar,+54 9 11 3169 3380,2022-09-22,11784.68
+C1380,Matías,Rodríguez,Matías Rodríguez,27099211,102,Ciudad Autónoma de Buenos Aires,matías.rodríguez@outlook.com,+54 9 11 3786 8979,2017-11-09,23086.7
+C1381,Diego,López,Diego López,42936376,103,Catamarca,diego.lópez39@yahoo.com.ar,+54 9 11 9973 6114,2021-05-31,99828.34
+C1382,Carolina,Ramírez,Carolina Ramírez,44362151,102,Ciudad Autónoma de Buenos Aires,carolina.ramírez@hotmail.com,+54 9 11 6650 3587,2024-09-10,93941.48
+C1383,Ana,Ramírez,Ana Ramírez,37214723,119,San Juan,ana.ramírez82@gmail.com,+54 9 11 6339 3549,2021-08-17,50827.34
+C1384,Julieta,Aguirre,Julieta Aguirre,42966705,101,Buenos Aires,julieta.aguirre@gmail.com,+54 9 11 1238 7889,2021-03-17,397665.28
+C1385,Federico,Martínez,Federico Martínez,38766940,102,Ciudad Autónoma de Buenos Aires,federico.martínez75@yahoo.com.ar,+54 9 11 1485 5019,2015-12-23,115217.89
+C1386,Ana,Martínez,Ana Martínez,29690758,121,Santa Fe,ana.martínez48@yahoo.com.ar,+54 9 11 1311 9154,2022-01-31,142727.02
+C1387,Pablo,Romero,Pablo Romero,31720451,102,Ciudad Autónoma de Buenos Aires,pablo.romero@fibertel.com.ar,+54 9 11 9653 2314,2018-03-13,61706.68
+C1388,Juan,Medina,Juan Medina,44944717,119,San Juan,juan.medina@speedy.com.ar,+54 9 11 7481 4246,2020-07-29,55309.06
+C1389,Luis,Pérez,Luis Pérez,35885515,105,Chubut,luis.pérez@yahoo.com.ar,+54 9 11 9383 8432,2019-02-17,141506.56
+C1390,Sofía,Medina,Sofía Medina,33817815,101,Buenos Aires,sofía.medina22@yahoo.com.ar,+54 9 11 6217 4589,2018-03-29,47554.77
+C1391,Matías,González,Matías González,44142749,101,Buenos Aires,matías.gonzález81@outlook.com,+54 9 11 8118 8699,2024-09-25,123660.03
+C1392,Laura,Ruiz,Laura Ruiz,32654639,113,Mendoza,laura.ruiz@fibertel.com.ar,+54 9 11 6334 1644,2024-01-27,53458.84
+C1393,Martín,Ramírez,Martín Ramírez,26866021,104,Chaco,martín.ramírez@gmail.com,+54 9 11 4514 4913,2021-01-28,51596.77
+C1394,Matías,López,Matías López,43549784,111,La Pampa,matías.lópez45@hotmail.com,+54 9 11 3067 1787,2024-02-05,108526.77
+C1395,José,Díaz,José Díaz,42841732,102,Ciudad Autónoma de Buenos Aires,josé.díaz@speedy.com.ar,+54 9 11 1931 3944,2023-12-21,18939.55
+C1396,Lucía,Aguirre,Lucía Aguirre,26646808,101,Buenos Aires,lucía.aguirre@gmail.com,+54 9 11 2413 7256,2018-09-22,115144.22
+C1397,Julieta,Gómez,Julieta Gómez,33990119,102,Ciudad Autónoma de Buenos Aires,julieta.gómez@speedy.com.ar,+54 9 11 7463 5537,2018-05-11,46904.77
+C1398,Luis,Martínez,Luis Martínez,31310153,107,Corrientes,luis.martínez52@fibertel.com.ar,+54 9 11 8972 3156,2023-09-06,61155.38
+C1399,Matías,Gómez,Matías Gómez,28786245,101,Buenos Aires,matías.gómez@hotmail.com,+54 9 11 2699 5105,2024-03-05,128942.47
+C1400,Camila,Flores,Camila Flores,35399219,102,Ciudad Autónoma de Buenos Aires,camila.flores@gmail.com,+54 9 11 5773 7220,2015-05-29,4620368.96
+C1401,Matías,Ruiz,Matías Ruiz,26710306,106,Córdoba,matías.ruiz73@speedy.com.ar,+54 9 11 2576 2373,2019-11-10,58283.95
+C1402,Carlos,Ramírez,Carlos Ramírez,31728598,104,Chaco,carlos.ramírez@speedy.com.ar,+54 9 11 6156 9929,2023-08-08,9809.26
+C1403,José,Gómez,José Gómez,28245422,113,Mendoza,josé.gómez@yahoo.com.ar,+54 9 11 8737 1787,2022-06-14,22069.77
+C1404,Juan,Sánchez,Juan Sánchez,42226093,102,Ciudad Autónoma de Buenos Aires,juan.sánchez@hotmail.com,+54 9 11 3148 1908,2025-11-22,95156.58
+C1405,Diego,Sánchez,Diego Sánchez,35156310,106,Córdoba,diego.sánchez@yahoo.com.ar,+54 9 11 7344 8660,2019-12-03,62656.27
+C1406,Valeria,Torres,Valeria Torres,41327466,102,Ciudad Autónoma de Buenos Aires,valeria.torres@outlook.com,+54 9 11 6838 1779,2020-10-09,6902.09
+C1407,Valeria,Sánchez,Valeria Sánchez,33555900,106,Córdoba,valeria.sánchez49@fibertel.com.ar,+54 9 11 9172 4250,2025-11-01,147356.16
+C1408,Gabriel,Pérez,Gabriel Pérez,42514061,103,Catamarca,gabriel.pérez@hotmail.com,+54 9 11 8952 5550,2019-04-09,135327.46
+C1409,José,Fernández,José Fernández,33980619,102,Ciudad Autónoma de Buenos Aires,josé.fernández99@gmail.com,+54 9 11 8650 5722,2021-08-07,448034.51
+C1410,Julieta,Acosta,Julieta Acosta,32880312,113,Mendoza,julieta.acosta@gmail.com,+54 9 11 8607 6679,2025-06-05,147148.56
+C1411,Carolina,Torres,Carolina Torres,34017210,101,Buenos Aires,carolina.torres@speedy.com.ar,+54 9 11 4253 7552,2019-04-01,31978.89
+C1412,Sofía,Torres,Sofía Torres,40116782,106,Córdoba,sofía.torres70@fibertel.com.ar,+54 9 11 7629 5071,2025-06-15,136465.94
+C1413,Florencia,Aguirre,Florencia Aguirre,33420812,101,Buenos Aires,florencia.aguirre@gmail.com,+54 9 11 7623 3763,2019-10-05,23567.83
+C1414,Gabriel,Sánchez,Gabriel Sánchez,44935812,101,Buenos Aires,gabriel.sánchez68@yahoo.com.ar,+54 9 11 3933 2673,2017-12-19,20167.79
+C1415,Sofía,Fernández,Sofía Fernández,26452372,101,Buenos Aires,sofía.fernández11@speedy.com.ar,+54 9 11 8129 8069,2017-12-27,10004.89
+C1416,Martín,Romero,Martín Romero,26900491,101,Buenos Aires,martín.romero@fibertel.com.ar,+54 9 11 9044 6958,2015-08-20,79470.54
+C1417,Camila,Díaz,Camila Díaz,28323199,102,Ciudad Autónoma de Buenos Aires,camila.díaz@fibertel.com.ar,+54 9 11 7882 8098,2019-11-04,14329.24
+C1418,María,Torres,María Torres,31375059,124,Tucumán,maría.torres46@speedy.com.ar,+54 9 11 6671 8433,2017-01-29,501375.98
+C1419,Martín,Torres,Martín Torres,31582790,102,Ciudad Autónoma de Buenos Aires,martín.torres@hotmail.com,+54 9 11 8660 1834,2020-08-09,89149.79
+C1420,Ana,Ruiz,Ana Ruiz,36959189,116,Río Negro,ana.ruiz32@outlook.com,+54 9 11 7290 5401,2024-12-25,99540.96
+C1421,Federico,Benítez,Federico Benítez,39917765,118,Salta,federico.benítez@fibertel.com.ar,+54 9 11 6296 8709,2024-06-05,187742.77
+C1422,Valeria,Acosta,Valeria Acosta,43038618,101,Buenos Aires,valeria.acosta@outlook.com,+54 9 11 9251 1426,2023-04-28,619073.01
+C1423,Carolina,Flores,Carolina Flores,43883414,106,Córdoba,carolina.flores@outlook.com,+54 9 11 4135 8514,2018-10-01,36765.78
+C1424,Sofía,Ruiz,Sofía Ruiz,37356382,119,San Juan,sofía.ruiz@hotmail.com,+54 9 11 4130 3319,2016-10-11,88454.46
+C1425,José,Pérez,José Pérez,26338661,108,Entre Ríos,josé.pérez57@outlook.com,+54 9 11 2546 8724,2023-01-04,58168.17
+C1426,Pablo,Sánchez,Pablo Sánchez,28796338,119,San Juan,pablo.sánchez67@gmail.com,+54 9 11 8957 4763,2018-02-05,35793.16
+C1427,José,Martínez,José Martínez,37955209,106,Córdoba,josé.martínez@gmail.com,+54 9 11 2185 3489,2018-11-14,66815.69
+C1428,Camila,Flores,Camila Flores,33802341,108,Entre Ríos,camila.flores@speedy.com.ar,+54 9 11 9402 1956,2025-02-03,141216.02
+C1429,Federico,González,Federico González,35883421,102,Ciudad Autónoma de Buenos Aires,federico.gonzález@speedy.com.ar,+54 9 11 7343 4140,2017-02-02,66126.57
+C1430,Valeria,González,Valeria González,31356271,101,Buenos Aires,valeria.gonzález@hotmail.com,+54 9 11 9403 4329,2015-07-10,335962.04
+C1431,Ana,Acosta,Ana Acosta,27148449,114,Misiones,ana.acosta@yahoo.com.ar,+54 9 11 9591 8530,2023-08-17,128497.11
+C1432,Valeria,López,Valeria López,26764188,122,Santiago del Estero,valeria.lópez59@fibertel.com.ar,+54 9 11 7015 6189,2022-05-28,69457.12
+C1433,María,López,María López,33321869,105,Chubut,maría.lópez@yahoo.com.ar,+54 9 11 1405 8283,2025-11-23,94027.3
+C1434,Luis,Sosa,Luis Sosa,28915931,106,Córdoba,luis.sosa70@hotmail.com,+54 9 11 2848 6161,2024-01-20,43737.5
+C1435,Julieta,Medina,Julieta Medina,26461120,101,Buenos Aires,julieta.medina@yahoo.com.ar,+54 9 11 2008 2224,2022-06-07,37127.48
+C1436,Martín,Torres,Martín Torres,29237217,102,Ciudad Autónoma de Buenos Aires,martín.torres@yahoo.com.ar,+54 9 11 3137 8460,2020-03-23,757615.17
+C1437,Carlos,Sánchez,Carlos Sánchez,44891038,101,Buenos Aires,carlos.sánchez90@gmail.com,+54 9 11 2773 2201,2023-04-04,67983.12
+C1438,Carolina,González,Carolina González,41441740,124,Tucumán,carolina.gonzález34@hotmail.com,+54 9 11 3789 5329,2023-09-09,43367.21
+C1439,Carlos,Romero,Carlos Romero,34484157,122,Santiago del Estero,carlos.romero@yahoo.com.ar,+54 9 11 5225 1027,2025-03-09,80389.63
+C1440,Camila,Ramírez,Camila Ramírez,41122463,101,Buenos Aires,camila.ramírez@speedy.com.ar,+54 9 11 9566 9677,2015-03-03,530560.43
+C1441,Pablo,Herrera,Pablo Herrera,27558573,102,Ciudad Autónoma de Buenos Aires,pablo.herrera@hotmail.com,+54 9 11 1499 1685,2019-07-06,33938.65
+C1442,María,Flores,María Flores,29491519,101,Buenos Aires,maría.flores@hotmail.com,+54 9 11 4139 8954,2016-08-16,116223.1
+C1443,Ana,Ruiz,Ana Ruiz,31522537,102,Ciudad Autónoma de Buenos Aires,ana.ruiz@hotmail.com,+54 9 11 8420 2128,2024-08-09,752167.47
+C1444,Diego,Torres,Diego Torres,36229593,102,Ciudad Autónoma de Buenos Aires,diego.torres@gmail.com,+54 9 11 7609 5693,2019-02-18,291804.96
+C1445,Camila,Ruiz,Camila Ruiz,30304447,101,Buenos Aires,camila.ruiz@fibertel.com.ar,+54 9 11 4978 3751,2018-01-02,110250.35
+C1446,José,Medina,José Medina,32253869,102,Ciudad Autónoma de Buenos Aires,josé.medina@speedy.com.ar,+54 9 11 1822 2494,2023-09-20,40725.96
+C1447,Camila,Aguirre,Camila Aguirre,43137598,121,Santa Fe,camila.aguirre91@gmail.com,+54 9 11 2214 4165,2016-11-18,110556.98
+C1448,Valeria,González,Valeria González,29089690,106,Córdoba,valeria.gonzález@gmail.com,+54 9 11 4485 9197,2021-02-21,124506.88
+C1449,Camila,Pérez,Camila Pérez,35620680,101,Buenos Aires,camila.pérez@speedy.com.ar,+54 9 11 8229 2450,2018-08-14,692765.49
+C1450,Carlos,Romero,Carlos Romero,28985058,101,Buenos Aires,carlos.romero@gmail.com,+54 9 11 3740 9568,2017-09-02,543616.34
+C1451,Pablo,Ruiz,Pablo Ruiz,42981783,101,Buenos Aires,pablo.ruiz@speedy.com.ar,+54 9 11 4110 9693,2015-12-24,162791.66
+C1452,José,Benítez,José Benítez,26185036,106,Córdoba,josé.benítez@yahoo.com.ar,+54 9 11 3757 8804,2020-03-08,5292.38
+C1453,Carlos,Torres,Carlos Torres,25845058,113,Mendoza,carlos.torres71@gmail.com,+54 9 11 2810 6367,2020-01-24,52265.75
+C1454,Pablo,Gómez,Pablo Gómez,40160618,121,Santa Fe,pablo.gómez@hotmail.com,+54 9 11 6989 7870,2022-07-19,37752.42
+C1455,Ana,Martínez,Ana Martínez,31824852,101,Buenos Aires,ana.martínez@yahoo.com.ar,+54 9 11 9179 3284,2021-06-30,75330.38
+C1456,Camila,Rodríguez,Camila Rodríguez,33337223,101,Buenos Aires,camila.rodríguez86@fibertel.com.ar,+54 9 11 9071 3481,2022-10-17,71263.85
+C1457,Valeria,Ruiz,Valeria Ruiz,27036885,118,Salta,valeria.ruiz@yahoo.com.ar,+54 9 11 5057 3405,2020-03-10,238073.57
+C1458,Julieta,Aguirre,Julieta Aguirre,40673450,118,Salta,julieta.aguirre@fibertel.com.ar,+54 9 11 5182 3609,2022-01-03,126978.96
+C1459,Lucía,Medina,Lucía Medina,42827598,102,Ciudad Autónoma de Buenos Aires,lucía.medina@outlook.com,+54 9 11 5403 8336,2021-05-07,33782.6
+C1460,Federico,Pérez,Federico Pérez,36672999,113,Mendoza,federico.pérez62@outlook.com,+54 9 11 1449 7350,2016-03-14,23063.57
+C1461,Laura,Herrera,Laura Herrera,33054520,101,Buenos Aires,laura.herrera@yahoo.com.ar,+54 9 11 1237 9993,2023-08-14,85111.65
+C1462,José,Fernández,José Fernández,31140323,122,Santiago del Estero,josé.fernández53@outlook.com,+54 9 11 4321 3759,2018-01-26,428033.13
+C1463,María,Fernández,María Fernández,40871317,101,Buenos Aires,maría.fernández@gmail.com,+54 9 11 4586 6515,2021-11-17,116143.48
+C1464,Camila,González,Camila González,30108187,110,Jujuy,camila.gonzález33@hotmail.com,+54 9 11 8846 4558,2024-05-28,81002.77
+C1465,Florencia,Pérez,Florencia Pérez,27110322,124,Tucumán,florencia.pérez@fibertel.com.ar,+54 9 11 7569 2142,2024-02-13,213011.98
+C1466,Julieta,Fernández,Julieta Fernández,39509977,101,Buenos Aires,julieta.fernández@outlook.com,+54 9 11 1023 4735,2021-10-08,90326.99
+C1467,Matías,Medina,Matías Medina,32251934,119,San Juan,matías.medina@hotmail.com,+54 9 11 2717 8413,2024-05-23,65981.18
+C1468,Laura,Gómez,Laura Gómez,36994902,111,La Pampa,laura.gómez41@speedy.com.ar,+54 9 11 5887 2889,2025-01-20,223196.62
+C1469,Diego,Sánchez,Diego Sánchez,37580078,101,Buenos Aires,diego.sánchez@speedy.com.ar,+54 9 11 2242 2971,2019-12-21,105980.65
+C1470,Lucía,Sánchez,Lucía Sánchez,31269649,101,Buenos Aires,lucía.sánchez85@outlook.com,+54 9 11 7871 4465,2023-04-29,134727.99
+C1471,Julieta,Martínez,Julieta Martínez,30874087,106,Córdoba,julieta.martínez@yahoo.com.ar,+54 9 11 8350 7752,2023-06-15,89826.25
+C1472,Lucía,López,Lucía López,44279374,106,Córdoba,lucía.lópez@hotmail.com,+54 9 11 6778 2601,2025-08-05,592394.91
+C1473,Camila,Romero,Camila Romero,25042886,108,Entre Ríos,camila.romero@hotmail.com,+54 9 11 3395 9401,2022-08-17,768790.3
+C1474,Gabriel,Medina,Gabriel Medina,40545166,101,Buenos Aires,gabriel.medina73@gmail.com,+54 9 11 5507 8820,2021-03-23,793762.46
+C1475,Matías,López,Matías López,38536477,121,Santa Fe,matías.lópez@gmail.com,+54 9 11 5391 9517,2017-12-23,138845.68
+C1476,Martín,Flores,Martín Flores,34149014,115,Neuquén,martín.flores@yahoo.com.ar,+54 9 11 7796 8055,2020-10-21,210351.28
+C1477,María,Herrera,María Herrera,28521799,101,Buenos Aires,maría.herrera@gmail.com,+54 9 11 3176 7525,2016-05-02,100232.38
+C1478,Diego,Sosa,Diego Sosa,30943224,119,San Juan,diego.sosa56@gmail.com,+54 9 11 9380 3112,2020-04-23,44995.61
+C1479,Gabriel,Rodríguez,Gabriel Rodríguez,34074398,101,Buenos Aires,gabriel.rodríguez46@yahoo.com.ar,+54 9 11 3500 3668,2016-02-21,49962.65
+C1480,Carlos,Gómez,Carlos Gómez,32498532,106,Córdoba,carlos.gómez@gmail.com,+54 9 11 4010 3109,2025-09-18,88021.27
+C1481,Luis,Benítez,Luis Benítez,26697154,101,Buenos Aires,luis.benítez@gmail.com,+54 9 11 3907 6921,2018-02-07,431421.93
+C1482,Sofía,Herrera,Sofía Herrera,27323164,101,Buenos Aires,sofía.herrera@hotmail.com,+54 9 11 8864 3721,2024-04-27,37238.31
+C1483,Matías,Flores,Matías Flores,31889122,102,Ciudad Autónoma de Buenos Aires,matías.flores@outlook.com,+54 9 11 9158 4281,2016-06-03,39471.58
+C1484,Luis,Torres,Luis Torres,41587656,104,Chaco,luis.torres@yahoo.com.ar,+54 9 11 7239 9532,2024-01-05,610338.74
+C1485,Luis,Díaz,Luis Díaz,25609451,109,Formosa,luis.díaz@hotmail.com,+54 9 11 1410 1273,2016-11-07,348211.99
+C1486,Gabriel,Ruiz,Gabriel Ruiz,37083692,101,Buenos Aires,gabriel.ruiz@fibertel.com.ar,+54 9 11 3176 4788,2025-10-25,78034.3
+C1487,Gabriel,Pérez,Gabriel Pérez,37420348,109,Formosa,gabriel.pérez@fibertel.com.ar,+54 9 11 9943 5420,2021-09-22,354914.11
+C1488,Laura,Medina,Laura Medina,42645879,101,Buenos Aires,laura.medina@yahoo.com.ar,+54 9 11 7384 9770,2015-09-21,86593.19
+C1489,Matías,Ramírez,Matías Ramírez,35073976,113,Mendoza,matías.ramírez@hotmail.com,+54 9 11 7860 9592,2022-06-23,92423.17
+C1490,Juan,Romero,Juan Romero,26405059,113,Mendoza,juan.romero@gmail.com,+54 9 11 3152 7040,2022-02-01,118835.61
+C1491,Federico,Rodríguez,Federico Rodríguez,38117792,121,Santa Fe,federico.rodríguez@gmail.com,+54 9 11 5257 4758,2021-08-15,40727.16
+C1492,Ana,Fernández,Ana Fernández,32350588,101,Buenos Aires,ana.fernández@outlook.com,+54 9 11 1718 2516,2025-03-01,743449.55
+C1493,Camila,Fernández,Camila Fernández,30907293,121,Santa Fe,camila.fernández@outlook.com,+54 9 11 2551 9707,2018-11-08,334424.14
+C1494,Pablo,Martínez,Pablo Martínez,42434512,101,Buenos Aires,pablo.martínez72@speedy.com.ar,+54 9 11 7555 2815,2021-08-18,101414.19
+C1495,Sofía,Fernández,Sofía Fernández,37553195,102,Ciudad Autónoma de Buenos Aires,sofía.fernández47@outlook.com,+54 9 11 1066 9983,2015-12-14,47660.81
+C1496,Carolina,Sosa,Carolina Sosa,34559948,121,Santa Fe,carolina.sosa@yahoo.com.ar,+54 9 11 9679 4750,2017-12-22,114545.34
+C1497,Ana,Fernández,Ana Fernández,42982533,108,Entre Ríos,ana.fernández@fibertel.com.ar,+54 9 11 9337 7685,2022-11-04,55346.8
+C1498,Camila,Sánchez,Camila Sánchez,33521751,106,Córdoba,camila.sánchez@yahoo.com.ar,+54 9 11 5810 1011,2022-12-23,55369.83
+C1499,Luis,Flores,Luis Flores,36775569,101,Buenos Aires,luis.flores@yahoo.com.ar,+54 9 11 7426 9700,2015-10-31,247686.38
+C1500,Gabriel,López,Gabriel López,33771555,114,Misiones,gabriel.lópez@speedy.com.ar,+54 9 11 5339 6389,2025-03-02,137112.66

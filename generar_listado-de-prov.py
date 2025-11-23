@@ -1,0 +1,32 @@
+import pandas as pd
+
+data = [
+    (101, "Buenos Aires", -36.6769, -60.5588),
+    (102, "Ciudad Autónoma de Buenos Aires", -34.6037, -58.3816),
+    (103, "Catamarca", -28.4696, -65.7852),
+    (104, "Chaco", -27.4518, -58.9866),
+    (105, "Chubut", -43.3000, -65.1000),
+    (106, "Córdoba", -31.4201, -64.1888),
+    (107, "Corrientes", -27.4692, -58.8342),
+    (108, "Entre Ríos", -31.7312, -60.5230),
+    (109, "Formosa", -26.1849, -58.1731),
+    (110, "Jujuy", -24.1858, -65.2995),
+    (111, "La Pampa", -36.6167, -64.2833),
+    (112, "La Rioja", -29.4135, -66.8565),
+    (113, "Mendoza", -32.8895, -68.8458),
+    (114, "Misiones", -27.3671, -55.8961),
+    (115, "Neuquén", -38.9516, -68.0591),
+    (116, "Río Negro", -38.9516, -67.7511),
+    (117, "Salta", -24.7829, -65.4126),
+    (118, "San Juan", -31.5375, -68.5364),
+    (119, "San Luis", -33.3022, -66.3362),
+    (120, "Santa Cruz", -51.6230, -69.2168),
+    (121, "Santa Fe", -31.6107, -60.6973),
+    (122, "Santiago del Estero", -27.7951, -64.2615),
+    (123, "Tierra del Fuego", -54.8019, -67.8144),
+    (124, "Tucumán", -26.8083, -65.2176)
+]
+
+df_prov = pd.DataFrame(data, columns=["ProvinceID", "Province", "Latitude", "Longitude"])
+df_prov.to_csv("data/provincias_lat_lon.csv", index=False)
+print("provincias_lat_lon.csv generado correctamente – 24 filas perfectas")
