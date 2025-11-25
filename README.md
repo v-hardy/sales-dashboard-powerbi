@@ -6,21 +6,17 @@ El objetivo es aplicar conocimientos de **Power BI Desktop** para transformar da
 
 ## 🛠️ Requerimientos Técnicos
 - Entorno: Power BI Desktop
-- Repositorio: Público
-- Entregables:
-  - Archivo `.pbix` con el informe completo
-  - Documento PDF explicando brevemente el proceso ETL y el modelo de datos
 
 ## 📂 Estructura del Repositorio
 ```
-/data → Archivos CSV/Excel utilizados como fuentes 
+/data → Archivos utilizados como fuentes 
 /pbix → Informe final en Power BI (.pbix) 
 /docs → Documento PDF con explicación del ETL y modelado 
 README.md
 ```
 
 ## 🔄 Proceso ETL
-- Conexión a **3+ fuentes de datos** (CSV, Excel, Web).
+- Conexión a **4 fuentes de datos** (CSV, txt).
 - Transformaciones en Power Query:
   - Renombrado de columnas y tipos de datos
   - Limpieza de valores nulos
@@ -30,8 +26,8 @@ README.md
 
 ## 🗂️ Modelado de Datos
 - Esquema **estrella** con:
-  - Tabla de hechos: `FactSales`
-  - Dimensiones: `DimProduct`, `DimCustomer`, `DimDate`, `DimGeo`
+  - Tabla de hechos: `Ventas`
+  - Dimensiones: `Productos`, `Clientes`, `Calendario`, `Mapa`
 - Relaciones 1:M correctamente definidas.
 - Tabla calendario creada en DAX y marcada como Date Table.
 
@@ -39,20 +35,15 @@ README.md
 - Visuales incluidos:
   - Tarjeta KPI (Total Ventas)
   - Gráfico de líneas (tendencia temporal)
-  - Gráfico de columnas (ventas por categoría/segmento)
-  - Mapa (ventas por ciudad/país)
-- Segmentadores: Fecha y Categoría/Segmento
+  - Gráfico de columnas (ventas por trimestre/año)
+  - Matriz con Top 5 de Productos con mayor venta
+  - Mapa (ventas por provicias)
+- Segmentadores: Periodo, Categoría y Provincias
 - Interactividad asegurada entre todos los visuales.
 
-## ✅ Criterios de Evaluación
-- Modelado de datos (30%)
-- Transformación ETL (25%)
-- Medidas DAX (20%)
-- Diseño y visualización (15%)
-- Documentación (10%)
 
 ## 📸 Capturas
-*(Agregar aquí imágenes del dashboard para ilustrar el resultado final)*
+![Vista previa del dashboard](data/dashboard_imag.png)
 
 ---
 
