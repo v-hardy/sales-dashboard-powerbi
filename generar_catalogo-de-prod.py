@@ -115,7 +115,7 @@ for i in range(1, TOTAL_PRODUCTOS + 1):
         "ProductName": nombre,
         "Category": categoria,
         "Brand": marca,
-        "Price_ARS": precio
+        "Price": precio
     })
 
 # Ordenar por ProductID
@@ -139,7 +139,7 @@ print(f"Archivo: {ARCHIVO_SALIDA}\n")
 print("Ejemplos:")
 print("-" * 90)
 for p in productos[:12]:
-    print(f"{p['ProductID']} | {p['ProductName'][:50]:50} | {p['Category']:18} | {p['Brand']:10} | ${p['Price_ARS']:,.0f}")
+    print(f"{p['ProductID']} | {p['ProductName'][:50]:50} | {p['Category']:18} | {p['Brand']:10} | ${p['Price']:,.0f}")
 print("... y más!")
 
 # Opcional: guardar también en formato más bonito para leer
@@ -147,4 +147,4 @@ with open("data/catalogo_productos_electronicos.txt", "w", encoding="utf-8") as 
     f.write("CATÁLOGO DE PRODUCTOS ELECTRÓNICOS - ARGENTINA\n")
     f.write("="*90 + "\n\n")
     for p in productos:
-        f.write(f"{p['ProductID']} | {p['ProductName']:55} | {p['Category']:18} | {p['Brand']:10} | ${p['Price_ARS']:,.0f} ARS\n")
+        f.write(f"{p['ProductID']} | {p['ProductName']:55} | {p['Category']:18} | {p['Brand']:10} | ${p['Price']:,.0f} ARS\n")
